@@ -33,7 +33,7 @@ jobs:
       shell: bash
     
     - name: Collect repo stats
-      run: python collect_stats.py --org fairlearn --repo fairlearn --token $(ACCESS_TOKEN) --file-name ../fairlearn-stats/stats.json
+      run: python collect_stats.py --org fairlearn --repo fairlearn --token ${{ ACCESS_TOKEN }} --file-name ../fairlearn-stats/stats.json
       working-directory: github-repo-stats
       shell: bash
     
