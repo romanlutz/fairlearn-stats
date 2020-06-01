@@ -39,12 +39,11 @@ jobs:
     
     - name: push
       uses: github-actions-x/commit@v2.6
-      working-directory: fairlearn-stats
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: 'master'
         commit-message: 'publish stats update'
         force-add: 'true'
-        files: stats.json
+        files: fairlearn-stats/stats.json
         name: Roman Lutz
         email: rolutz@microsoft.com
