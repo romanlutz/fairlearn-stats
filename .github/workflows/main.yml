@@ -13,8 +13,6 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-      with:
-        path: fairlearn-stats
 
     - name: Checkout
       uses: actions/checkout@v2
@@ -33,7 +31,7 @@ jobs:
       shell: bash
     
     - name: Collect repo stats
-      run: python collect_stats.py --org fairlearn --repo fairlearn --token "$TOKEN" --file-name ../fairlearn-stats/stats.json
+      run: python collect_stats.py --org fairlearn --repo fairlearn --token "$TOKEN" --file-name ../stats.json
       working-directory: github-repo-stats
       shell: bash
       env:
@@ -46,6 +44,6 @@ jobs:
         push-branch: 'master'
         commit-message: 'publish stats update'
         force-add: 'true'
-        files: fairlearn-stats/stats.json
+        files: stats.json
         name: Roman Lutz
         email: rolutz@microsoft.com
