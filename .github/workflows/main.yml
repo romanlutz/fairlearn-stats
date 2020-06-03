@@ -69,7 +69,7 @@ jobs:
       shell: bash
 
     - name: Cleanup files that aren't required for GitHub Pages
-      run: rm -r .github; rm stats.json; rm .gitignore; mv -r docs/_build/html/* .; rm requirements.txt
+      run: rm -r .github; rm stats.json; rm .gitignore; mv docs/_build/html/* .; rm requirements.txt
       shell: bash
 
     - name: Create a .nojekyll file to make sure GitHub Pages doesn't use Jekyll
