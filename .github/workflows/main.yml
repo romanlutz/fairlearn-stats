@@ -3,6 +3,8 @@ name: github-repo-stats
 on:
   schedule:
     - cron: 0 0 * * *  # once a day
+  push:
+    branches: ['master']  # for debugging only
 
 jobs:
   pull-stats:
@@ -65,14 +67,21 @@ jobs:
     - name: Build webpage
       run: python -m sphinx -b html -j auto docs docs/_build/html
       shell: bash
+
+    - name: Cleanup files that aren't required for GitHub Pages
+      run: rm -r .github; rm stats.json; rm .gitignore; mv -r docs/_build/html/* .
+      shell: bash
+
+    - name: Create a .nojekyll file to make sure GitHub Pages doesn't use Jekyll
+      run: touch .nojekyll
     
     - name: Push to repository
       uses: github-actions-x/commit@v2.6
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
+        push-branch: 'gh-pages'
         commit-message: 'publish stats update'
         force-add: 'true'
-        files: docs/_build/html/*
+        files: *
         name: Roman Lutz
         email: rolutz@microsoft.com
