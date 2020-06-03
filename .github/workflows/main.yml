@@ -48,6 +48,18 @@ jobs:
         name: Roman Lutz
         email: rolutz@microsoft.com
     
+    - name: Build webpage
+      run: python -m sphinx -b html -j auto docs docs/_build/html
+      shell: bash
+    
+    - name: Create a .nojekyll file to make sure GitHub Pages doesn't use Jekyll
+      run: touch docs/_build/html/.nojekyll
+    
+    - uses: actions/upload-artifact@v2
+      with:
+        name: webpage-artifacts
+        path: docs/_build/html/
+    
   deploy-website:
     runs-on: ubuntu-latest
 
@@ -56,26 +68,16 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-
-    - name: Set up Python 3.7
-      uses: actions/setup-python@v1
       with:
-        python-version: 3.7
+        ref: 'gh-pages'  # branch
     
-    - name: Install requirements
-      run: pip install -r requirements.txt
-      shell: bash
+    - name: Remove existing files
+      run: rm -r ./*
 
-    - name: Build webpage
-      run: python -m sphinx -b html -j auto docs docs/_build/html
-      shell: bash
-
-    - name: Cleanup files that aren't required for GitHub Pages
-      run: rm -r .github; rm stats.json; rm .gitignore; mv docs/_build/html/* .; rm requirements.txt
-      shell: bash
-
-    - name: Create a .nojekyll file to make sure GitHub Pages doesn't use Jekyll
-      run: touch .nojekyll
+    - uses: actions/download-artifact@v2
+      with:
+        name: webpage-artifacts
+        path: ./
     
     - name: Push to repository
       uses: github-actions-x/commit@v2.6
@@ -84,7 +86,6 @@ jobs:
         push-branch: 'gh-pages'
         commit-message: 'publish stats update'
         force-add: 'true'
-        rebase: 'true'
         files: ./
         name: Roman Lutz
         email: rolutz@microsoft.com
