@@ -1,5 +1,11 @@
 name: github-repo-stats
 
+env:
+  AUTHOR_NAME: "Roman Lutz"
+  AUTHOR_EMAIL: "rolutz@microsoft.com"
+  ORG: "fairlearn"
+  REPO: "fairlearn"
+
 on:
   schedule:
     - cron: 0 0 * * *  # once a day
@@ -31,7 +37,7 @@ jobs:
       shell: bash
     
     - name: Collect repo stats
-      run: python collect_stats.py --org fairlearn --repo fairlearn --token "$TOKEN" --file-name ../stats.json
+      run: python collect_stats.py --org "$ORG" --repo "$REPO" --token "$TOKEN" --file-name ../stats.json
       working-directory: github-repo-stats
       shell: bash
       env:
@@ -45,12 +51,12 @@ jobs:
         commit-message: 'publish stats update'
         force-add: 'true'
         files: stats.json
-        name: Roman Lutz
-        email: rolutz@microsoft.com
+        name: $AUTHOR_NAME
+        email: $AUTHOR_EMAIL
     
     - name: Build webpage
       run: python -m sphinx -b html -j auto docs docs/_build/html
-      shell: bash 
+      shell: bash
     
     - name: Create a .nojekyll file to make sure GitHub Pages doesn't use Jekyll
       run: touch docs/_build/html/.nojekyll
@@ -87,5 +93,5 @@ jobs:
         commit-message: 'publish stats update'
         force-add: 'true'
         files: ./
-        name: Roman Lutz
-        email: rolutz@microsoft.com
+        name: $AUTHOR_NAME
+        email: $AUTHOR_EMAIL
