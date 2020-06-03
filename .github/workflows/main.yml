@@ -60,10 +60,6 @@ jobs:
       with:
         python-version: 3.7
 
-    - name: Clean up build directories
-      run: rm -r docs/_build
-      shell: bash
-
     - name: Build webpage
       run: python -m sphinx -b html -j auto docs docs/_build/html
       shell: bash
