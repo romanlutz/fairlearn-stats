@@ -2,4 +2,16 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+   <url>
+      <loc>http://romanlutz.github.io/fairlearn-stats//genindex.html</loc>
+   </url>
+
+   <url>
+      <loc>http://romanlutz.github.io/fairlearn-stats//index.html</loc>
+   </url>
+
+   <url>
+      <loc>http://romanlutz.github.io/fairlearn-stats//search.html</loc>
+   </url>
+
 </urlset>
