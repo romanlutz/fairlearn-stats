@@ -82,6 +82,6 @@ jobs:
         push-branch: 'gh-pages'
         commit-message: 'publish stats update'
         force-add: 'true'
-        files: *
+        files: ./
         name: Roman Lutz
         email: rolutz@microsoft.com
