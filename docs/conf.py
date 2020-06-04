@@ -24,9 +24,6 @@ project = 'Fairlearn-stats'
 # copyright = ''
 author = 'Roman Lutz'
 
-# The full version, including alpha/beta/rc tags
-# release = ''
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -52,15 +49,10 @@ extensions = [
     'bokeh.sphinxext.theme',
 ]
 
-# Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
-
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
-master_doc = 'index'
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -71,40 +63,9 @@ html_sidebars = {
     '**': []
 }
 
-# Theme options are theme-specific and customize the look and feel of a theme
-# further. For a list of options available for each theme, see the
-# documentation.
-# html_theme_options = {
-#     "external_links": [
-#         {"name": "Gitter", "url": "https://gitter.im/fairlearn/community"},
-#         {"name": "StackOverflow", "url": "https://stackoverflow.com/questions/tagged/fairlearn"}
-#     ],
-#     "github_url": "https://github.com/fairlearn/fairlearn-stats",
-#     "show_prev_next": False
-# }
 html_context = {
     'AUTHOR': author,
     'DESCRIPTION': 'Fairlearn stats',
     'SITEMAP_BASE_URL': 'https://romanlutz.github.io/fairlearn-stats/',  # Trailing slash is needed
     'VERSION': "0.1",
 }
-
-# The name of an image file (relative to this directory) to place at the top
-# of the sidebar.
-# html_logo = ""
-
-# Additional templates that should be rendered to pages, maps page names to
-# template names.
-# html_additional_pages = {
-#     'index': 'index.html'
-# }
-
-# If false, no index is generated.
-# html_use_index = False
-
-# Add any paths that contain custom static files (such as style sheets) here,
-# relative to this directory. They are copied after the builtin static files,
-# so a file named "default.css" will overwrite the builtin "default.css".
-# html_static_path = ['_static']
-
-# html_css_files = []

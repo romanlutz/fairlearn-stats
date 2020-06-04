@@ -9,8 +9,6 @@ env:
 on:
   schedule:
     - cron: 0 0 * * *  # once a day
-  push:
-    branches: ['master']  # for debugging only
 
 jobs:
   pull-stats:
