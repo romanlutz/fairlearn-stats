@@ -9,6 +9,7 @@ env:
 on:
   schedule:
     - cron: 0 0 * * *  # once a day
+  workflow_dispatch:
 
 jobs:
   pull-stats:
