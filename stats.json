@@ -1771,7 +1771,7 @@
             "uniques": 40
         },
         "2021-05-12 00:00:00": {
-            "count": 155,
+            "count": 144,
             "uniques": 79
         },
         "2021-05-13 00:00:00": {
@@ -3265,8 +3265,8 @@
             "uniques": 77
         },
         "2021-05-12 00:00:00": {
-            "count": 338,
-            "uniques": 87
+            "count": 332,
+            "uniques": 84
         },
         "2021-05-13 00:00:00": {
             "count": 239,
@@ -34413,9 +34413,9 @@
             "closed": 1
         },
         "riedgar-ms": {
-            "created": 11,
+            "created": 198,
             "open": 2,
-            "closed": 9
+            "closed": 196
         },
         "olliethomas": {
             "created": 1,
@@ -34423,14 +34423,14 @@
             "closed": 1
         },
         "romanlutz": {
-            "created": 19,
+            "created": 122,
             "open": 3,
-            "closed": 16
+            "closed": 119
         },
         "MiroDudik": {
-            "created": 2,
+            "created": 17,
             "open": 2,
-            "closed": 0
+            "closed": 15
         },
         "bethz": {
             "created": 2,
@@ -34453,9 +34453,9 @@
             "closed": 3
         },
         "adrinjalali": {
-            "created": 2,
+            "created": 10,
             "open": 2,
-            "closed": 0
+            "closed": 8
         },
         "chisingh": {
             "created": 3,
@@ -34463,9 +34463,9 @@
             "closed": 3
         },
         "kevinrobinson": {
-            "created": 3,
+            "created": 9,
             "open": 0,
-            "closed": 3
+            "closed": 9
         },
         "hannanabdul55": {
             "created": 7,
@@ -34483,9 +34483,9 @@
             "closed": 1
         },
         "dependabot[bot]": {
-            "created": 6,
+            "created": 20,
             "open": 0,
-            "closed": 6
+            "closed": 20
         },
         "srayagarwal": {
             "created": 7,
@@ -34498,9 +34498,9 @@
             "closed": 1
         },
         "koaning": {
-            "created": 1,
+            "created": 8,
             "open": 0,
-            "closed": 1
+            "closed": 8
         },
         "dgiova": {
             "created": 1,
@@ -34543,9 +34543,9 @@
             "closed": 3
         },
         "Dref360": {
-            "created": 1,
+            "created": 5,
             "open": 1,
-            "closed": 0
+            "closed": 4
         },
         "Acornagain": {
             "created": 1,
@@ -34563,9 +34563,9 @@
             "closed": 1
         },
         "michaelamoako": {
-            "created": 4,
+            "created": 7,
             "open": 1,
-            "closed": 3
+            "closed": 6
         },
         "vladiliescu": {
             "created": 1,
@@ -34644,42 +34644,42 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1539,
+        "romanlutz": 1486,
         "riedgar-ms": 1399,
-        "MiroDudik": 618,
-        "wamartin-aml": 28,
-        "vingu": 3,
-        "imatiach-msft": 14,
-        "bethz": 14,
-        "rihorn2": 70,
-        "adrinjalali": 257,
-        "kevinrobinson": 45,
-        "mesameki": 3,
-        "hannanabdul55": 29,
-        "parul100495": 23,
+        "MiroDudik": 658,
+        "wamartin-aml": 13,
+        "vingu": 1,
+        "imatiach-msft": 7,
+        "bethz": 13,
+        "rihorn2": 113,
+        "adrinjalali": 218,
+        "kevinrobinson": 35,
+        "mesameki": 8,
+        "hannanabdul55": 33,
+        "parul100495": 16,
         "cmarmo": 1,
         "moprescu": 4,
-        "koaning": 39,
-        "chisingh": 8,
+        "koaning": 35,
+        "chisingh": 9,
         "laurenpendo": 4,
         "afehmiu": 24,
-        "MBrouns": 8,
-        "hildeweerts": 59,
+        "MBrouns": 5,
+        "hildeweerts": 68,
         "marksoper": 2,
-        "Rishit-dagli": 4,
-        "gaugup": 10,
-        "Dref360": 15,
-        "Acornagain": 16,
+        "Rishit-dagli": 2,
+        "gaugup": 5,
+        "Dref360": 10,
+        "Acornagain": 9,
         "arjsingh": 2,
-        "mmadaio": 54,
+        "mmadaio": 83,
         "leonarduschen": 3,
-        "michaelamoako": 16,
-        "LeJit": 3,
-        "enharten": 2,
+        "michaelamoako": 39,
+        "LeJit": 2,
+        "enharten": 4,
         "MeekaElla": 4,
         "bthng": 8,
         "trangology": 1,
         "lgfunderburk": 3,
-        "stephenrobic": 8
+        "stephenrobic": 5
     }
 }
