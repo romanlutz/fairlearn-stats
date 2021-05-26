@@ -34413,9 +34413,9 @@
             "closed": 1
         },
         "riedgar-ms": {
-            "created": 187,
-            "open": 0,
-            "closed": 187
+            "created": 11,
+            "open": 2,
+            "closed": 9
         },
         "olliethomas": {
             "created": 1,
@@ -34423,14 +34423,14 @@
             "closed": 1
         },
         "romanlutz": {
-            "created": 103,
-            "open": 0,
-            "closed": 103
+            "created": 19,
+            "open": 3,
+            "closed": 16
         },
         "MiroDudik": {
-            "created": 15,
-            "open": 0,
-            "closed": 15
+            "created": 2,
+            "open": 2,
+            "closed": 0
         },
         "bethz": {
             "created": 2,
@@ -34453,9 +34453,9 @@
             "closed": 3
         },
         "adrinjalali": {
-            "created": 8,
-            "open": 0,
-            "closed": 8
+            "created": 2,
+            "open": 2,
+            "closed": 0
         },
         "chisingh": {
             "created": 3,
@@ -34463,9 +34463,9 @@
             "closed": 3
         },
         "kevinrobinson": {
-            "created": 6,
+            "created": 3,
             "open": 0,
-            "closed": 6
+            "closed": 3
         },
         "hannanabdul55": {
             "created": 7,
@@ -34483,9 +34483,9 @@
             "closed": 1
         },
         "dependabot[bot]": {
-            "created": 14,
+            "created": 6,
             "open": 0,
-            "closed": 14
+            "closed": 6
         },
         "srayagarwal": {
             "created": 7,
@@ -34498,9 +34498,9 @@
             "closed": 1
         },
         "koaning": {
-            "created": 7,
+            "created": 1,
             "open": 0,
-            "closed": 7
+            "closed": 1
         },
         "dgiova": {
             "created": 1,
@@ -34519,8 +34519,8 @@
         },
         "arjsingh": {
             "created": 1,
-            "open": 1,
-            "closed": 0
+            "open": 0,
+            "closed": 1
         },
         "hildeweerts": {
             "created": 3,
@@ -34543,9 +34543,9 @@
             "closed": 3
         },
         "Dref360": {
-            "created": 4,
-            "open": 0,
-            "closed": 4
+            "created": 1,
+            "open": 1,
+            "closed": 0
         },
         "Acornagain": {
             "created": 1,
@@ -34559,12 +34559,12 @@
         },
         "leonarduschen": {
             "created": 1,
-            "open": 1,
-            "closed": 0
+            "open": 0,
+            "closed": 1
         },
         "michaelamoako": {
-            "created": 3,
-            "open": 0,
+            "created": 4,
+            "open": 1,
             "closed": 3
         },
         "vladiliescu": {
@@ -34576,45 +34576,110 @@
             "created": 1,
             "open": 1,
             "closed": 0
+        },
+        "LeJit": {
+            "created": 2,
+            "open": 0,
+            "closed": 2
+        },
+        "JEHoctor": {
+            "created": 1,
+            "open": 0,
+            "closed": 1
+        },
+        "rishabhsamb": {
+            "created": 1,
+            "open": 0,
+            "closed": 1
+        },
+        "thomasjpfan": {
+            "created": 1,
+            "open": 0,
+            "closed": 1
+        },
+        "enharten": {
+            "created": 1,
+            "open": 1,
+            "closed": 0
+        },
+        "BrandonGoding": {
+            "created": 2,
+            "open": 0,
+            "closed": 2
+        },
+        "vamsidesu5": {
+            "created": 1,
+            "open": 0,
+            "closed": 1
+        },
+        "MeekaElla": {
+            "created": 1,
+            "open": 0,
+            "closed": 1
+        },
+        "bthng": {
+            "created": 3,
+            "open": 1,
+            "closed": 2
+        },
+        "trangology": {
+            "created": 1,
+            "open": 1,
+            "closed": 0
+        },
+        "lgfunderburk": {
+            "created": 1,
+            "open": 1,
+            "closed": 0
+        },
+        "stephenrobic": {
+            "created": 1,
+            "open": 0,
+            "closed": 1
+        },
+        "iofall": {
+            "created": 1,
+            "open": 0,
+            "closed": 1
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1458,
-        "riedgar-ms": 1348,
-        "MiroDudik": 641,
-        "wamartin-aml": 11,
-        "vingu": 2,
-        "imatiach-msft": 6,
-        "bethz": 17,
-        "rihorn2": 76,
-        "adrinjalali": 313,
-        "kevinrobinson": 83,
-        "mesameki": 7,
-        "hannanabdul55": 32,
-        "parul100495": 20,
+        "romanlutz": 1539,
+        "riedgar-ms": 1399,
+        "MiroDudik": 618,
+        "wamartin-aml": 28,
+        "vingu": 3,
+        "imatiach-msft": 14,
+        "bethz": 14,
+        "rihorn2": 70,
+        "adrinjalali": 257,
+        "kevinrobinson": 45,
+        "mesameki": 3,
+        "hannanabdul55": 29,
+        "parul100495": 23,
         "cmarmo": 1,
         "moprescu": 4,
-        "koaning": 52,
-        "chisingh": 9,
+        "koaning": 39,
+        "chisingh": 8,
         "laurenpendo": 4,
         "afehmiu": 24,
-        "MBrouns": 7,
-        "hildeweerts": 65,
-        "marksoper": 1,
-        "Rishit-dagli": 2,
-        "gaugup": 5,
-        "Dref360": 26,
-        "Acornagain": 9,
+        "MBrouns": 8,
+        "hildeweerts": 59,
+        "marksoper": 2,
+        "Rishit-dagli": 4,
+        "gaugup": 10,
+        "Dref360": 15,
+        "Acornagain": 16,
         "arjsingh": 2,
-        "mmadaio": 67,
+        "mmadaio": 54,
         "leonarduschen": 3,
-        "michaelamoako": 20,
+        "michaelamoako": 16,
         "LeJit": 3,
         "enharten": 2,
         "MeekaElla": 4,
         "bthng": 8,
         "trangology": 1,
         "lgfunderburk": 3,
-        "stephenrobic": 5
+        "stephenrobic": 8
     }
 }
