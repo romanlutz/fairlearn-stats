@@ -1,7 +1,7 @@
 {
     "stars": 937,
-    "open_issues": 120,
-    "closed_issues": 690,
+    "open_issues": 123,
+    "closed_issues": 691,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
@@ -18,7 +18,7 @@
         "bspanjers": 1,
         "parul100495": 5,
         "hannanabdul55": 7,
-        "adrinjalali": 29,
+        "adrinjalali": 31,
         "moprescu": 2,
         "firmai": 1,
         "mesameki": 2,
@@ -95,15 +95,16 @@
         "Godwindaniel10": 1,
         "IllegalBeagle123": 1,
         "Gingeh": 1,
-        "nessamilan": 13,
+        "nessamilan": 14,
         "alexquach": 1,
-        "ziqi-ma": 1
+        "ziqi-ma": 1,
+        "Jordan7-davila": 1
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 556,
-        "adrinjalali": 225,
-        "riedgar-ms": 327,
+        "romanlutz": 557,
+        "adrinjalali": 228,
+        "riedgar-ms": 334,
         "MiroDudik": 160,
         "koaning": 56,
         "hildeweerts": 111,
@@ -177,11 +178,11 @@
         "dciborow": 1,
         "wguyman": 1,
         "kalikhademi": 1,
-        "nessamilan": 4,
+        "nessamilan": 7,
         "xgchena": 1,
         "mmadaio": 5,
         "enharten": 8,
-        "vamsidesu5": 11,
+        "vamsidesu5": 12,
         "BrandonGoding": 2,
         "MattRudy": 1,
         "adidutt": 2,
@@ -194,7 +195,7 @@
         "trangology": 18,
         "galuhsahid": 1,
         "lgfunderburk": 1,
-        "kstohr": 11,
+        "kstohr": 14,
         "stephenrobic": 8,
         "Zuzah": 1,
         "kurianbenoy": 2,
@@ -205,12 +206,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 344,
-            "uniques": 200
+            "count": 356,
+            "uniques": 203
         },
         "github.com": {
-            "count": 310,
-            "uniques": 104
+            "count": 304,
+            "uniques": 109
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -221,8 +222,8 @@
             "uniques": 7
         },
         "docs.microsoft.com": {
-            "count": 24,
-            "uniques": 16
+            "count": 26,
+            "uniques": 18
         },
         "Bing": {
             "count": 19,
@@ -249,12 +250,12 @@
             "uniques": 7
         },
         "pypi.org": {
-            "count": 15,
+            "count": 25,
             "uniques": 11
         },
         "gitter.im": {
-            "count": 17,
-            "uniques": 7
+            "count": 16,
+            "uniques": 6
         },
         "DuckDuckGo": {
             "count": 13,
@@ -273,16 +274,16 @@
             "uniques": 25
         },
         "t.co": {
-            "count": 13,
-            "uniques": 10
+            "count": 14,
+            "uniques": 11
         },
         "statics.teams.cdn.office.net": {
-            "count": 35,
+            "count": 40,
             "uniques": 13
         },
         "paperswithcode.com": {
             "count": 41,
-            "uniques": 31
+            "uniques": 30
         },
         "madewithml.com": {
             "count": 9,
@@ -321,11 +322,11 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 214,
-            "uniques": 114
+            "count": 249,
+            "uniques": 137
         },
         "kdnuggets.com": {
-            "count": 19,
+            "count": 20,
             "uniques": 17
         },
         "goodfirstissues.com": {
@@ -1869,6 +1870,10 @@
         "2021-06-03 00:00:00": {
             "count": 42,
             "uniques": 2
+        },
+        "2021-06-04 00:00:00": {
+            "count": 70,
+            "uniques": 25
         }
     },
     "views_traffic": {
@@ -3349,8 +3354,8 @@
             "uniques": 135
         },
         "2021-05-22 00:00:00": {
-            "count": 318,
-            "uniques": 49
+            "count": 315,
+            "uniques": 47
         },
         "2021-05-23 00:00:00": {
             "count": 306,
@@ -3399,6 +3404,10 @@
         "2021-06-03 00:00:00": {
             "count": 463,
             "uniques": 103
+        },
+        "2021-06-04 00:00:00": {
+            "count": 330,
+            "uniques": 79
         }
     },
     "contributors": {
@@ -37085,6 +37094,808 @@
                 "deletions": 24,
                 "commits": 1
             }
+        },
+        "alexquach": {
+            "2018-05-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-05-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-05-27 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-06-03 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-06-10 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-06-17 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-06-24 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-07-01 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-07-08 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-07-15 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-07-22 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-07-29 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-08-05 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-08-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-08-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-08-26 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-09-02 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-09-09 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-09-16 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-09-23 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-09-30 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-10-07 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-10-14 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-10-21 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-10-28 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-11-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-11-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-11-18 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-11-25 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-12-02 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-12-09 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-12-16 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-12-23 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2018-12-30 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-01-06 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-01-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-01-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-01-27 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-02-03 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-02-10 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-02-17 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-02-24 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-03-03 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-03-10 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-03-17 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-03-24 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-03-31 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-04-07 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-04-14 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-04-21 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-04-28 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-05-05 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-05-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-05-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-05-26 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-06-02 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-06-09 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-06-16 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-06-23 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-06-30 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-07-07 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-07-14 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-07-21 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-07-28 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-08-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-08-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-08-18 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-08-25 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-09-01 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-09-08 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-09-15 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-09-22 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-09-29 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-10-06 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-10-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-10-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-10-27 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-11-03 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-11-10 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-11-17 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-11-24 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-12-01 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-12-08 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-12-15 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-12-22 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2019-12-29 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-01-05 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-01-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-01-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-01-26 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-02-02 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-02-09 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-02-16 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-02-23 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-03-01 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-03-08 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-03-15 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-03-22 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-03-29 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-04-05 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-04-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-04-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-04-26 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-05-03 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-05-10 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-05-17 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-05-24 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-05-31 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-06-07 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-06-14 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-06-21 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-06-28 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-07-05 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-07-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-07-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-07-26 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-08-02 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-08-09 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-08-16 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-08-23 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-08-30 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-09-06 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-09-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-09-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-09-27 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-10-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-10-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-10-18 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-10-25 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-11-01 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-11-08 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-11-15 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-11-22 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-11-29 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-12-06 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-12-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-12-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2020-12-27 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-01-03 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-01-10 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-01-17 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-01-24 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-01-31 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-02-07 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-02-14 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-02-21 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-02-28 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-03-07 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-03-14 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-03-21 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-03-28 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-04-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-04-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-04-18 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-04-25 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-05-02 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-05-09 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-05-16 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-05-23 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-05-30 00:00:00": {
+                "additions": 0,
+                "deletions": 517,
+                "commits": 1
+            }
         }
     },
     "pull_requests": {
@@ -37340,40 +38151,45 @@
         },
         "alexquach": {
             "created": 1,
+            "open": 0,
+            "closed": 1
+        },
+        "Jordan7-davila": {
+            "created": 1,
             "open": 1,
             "closed": 0
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1469,
-        "riedgar-ms": 1393,
-        "MiroDudik": 691,
-        "wamartin-aml": 10,
+        "romanlutz": 1519,
+        "riedgar-ms": 1351,
+        "MiroDudik": 646,
+        "wamartin-aml": 14,
         "vingu": 3,
         "imatiach-msft": 7,
         "bethz": 14,
-        "rihorn2": 82,
-        "adrinjalali": 316,
-        "kevinrobinson": 39,
+        "rihorn2": 85,
+        "adrinjalali": 335,
+        "kevinrobinson": 44,
         "mesameki": 8,
         "hannanabdul55": 40,
-        "parul100495": 19,
+        "parul100495": 17,
         "cmarmo": 1,
         "moprescu": 4,
-        "koaning": 35,
+        "koaning": 41,
         "chisingh": 9,
-        "laurenpendo": 2,
-        "afehmiu": 14,
-        "MBrouns": 6,
-        "hildeweerts": 64,
+        "laurenpendo": 5,
+        "afehmiu": 24,
+        "MBrouns": 8,
+        "hildeweerts": 63,
         "marksoper": 2,
         "Rishit-dagli": 2,
-        "gaugup": 5,
-        "Dref360": 11,
+        "gaugup": 4,
+        "Dref360": 16,
         "Acornagain": 9,
         "arjsingh": 2,
         "mmadaio": 67,
-        "leonarduschen": 1,
+        "leonarduschen": 3,
         "michaelamoako": 20,
         "LeJit": 3,
         "enharten": 2,
@@ -37381,6 +38197,7 @@
         "bthng": 9,
         "trangology": 1,
         "lgfunderburk": 3,
-        "stephenrobic": 5
+        "stephenrobic": 5,
+        "Jordan7-davila": 7
     }
 }
