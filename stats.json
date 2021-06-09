@@ -1,11 +1,11 @@
 {
-    "stars": 938,
-    "open_issues": 123,
-    "closed_issues": 691,
+    "stars": 941,
+    "open_issues": 130,
+    "closed_issues": 693,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
-        "romanlutz": 217,
+        "romanlutz": 218,
         "dgiova": 1,
         "MiroDudik": 23,
         "riedgar-ms": 266,
@@ -18,7 +18,7 @@
         "bspanjers": 1,
         "parul100495": 5,
         "hannanabdul55": 7,
-        "adrinjalali": 31,
+        "adrinjalali": 37,
         "moprescu": 2,
         "firmai": 1,
         "mesameki": 2,
@@ -95,19 +95,19 @@
         "Godwindaniel10": 1,
         "IllegalBeagle123": 1,
         "Gingeh": 1,
-        "nessamilan": 14,
-        "alexquach": 1,
+        "nessamilan": 15,
+        "alexquach": 2,
         "ziqi-ma": 1,
         "Jordan7-davila": 1
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 557,
-        "adrinjalali": 228,
-        "riedgar-ms": 334,
-        "MiroDudik": 160,
+        "romanlutz": 560,
+        "adrinjalali": 242,
+        "riedgar-ms": 341,
+        "MiroDudik": 164,
         "koaning": 56,
-        "hildeweerts": 111,
+        "hildeweerts": 113,
         "slbird": 2,
         "wmeints": 1,
         "laurenpendo": 1,
@@ -202,16 +202,17 @@
         "bthng": 3,
         "shashankc28": 2,
         "Godwindaniel10": 3,
-        "ziqi-ma": 2
+        "ziqi-ma": 2,
+        "alexquach": 1
     },
     "top_referrers": {
         "Google": {
-            "count": 328,
-            "uniques": 193
+            "count": 289,
+            "uniques": 179
         },
         "github.com": {
-            "count": 282,
-            "uniques": 102
+            "count": 245,
+            "uniques": 87
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -222,8 +223,8 @@
             "uniques": 7
         },
         "docs.microsoft.com": {
-            "count": 27,
-            "uniques": 20
+            "count": 28,
+            "uniques": 21
         },
         "Bing": {
             "count": 19,
@@ -250,12 +251,12 @@
             "uniques": 7
         },
         "pypi.org": {
-            "count": 19,
+            "count": 20,
             "uniques": 8
         },
         "gitter.im": {
-            "count": 15,
-            "uniques": 6
+            "count": 12,
+            "uniques": 5
         },
         "DuckDuckGo": {
             "count": 13,
@@ -274,16 +275,16 @@
             "uniques": 25
         },
         "t.co": {
-            "count": 14,
-            "uniques": 11
+            "count": 17,
+            "uniques": 14
         },
         "statics.teams.cdn.office.net": {
-            "count": 40,
-            "uniques": 12
+            "count": 41,
+            "uniques": 8
         },
         "paperswithcode.com": {
-            "count": 38,
-            "uniques": 19
+            "count": 35,
+            "uniques": 16
         },
         "madewithml.com": {
             "count": 9,
@@ -322,12 +323,12 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 223,
-            "uniques": 128
+            "count": 216,
+            "uniques": 121
         },
         "kdnuggets.com": {
-            "count": 16,
-            "uniques": 13
+            "count": 12,
+            "uniques": 10
         },
         "goodfirstissues.com": {
             "count": 7,
@@ -1882,6 +1883,14 @@
         "2021-06-06 00:00:00": {
             "count": 41,
             "uniques": 1
+        },
+        "2021-06-07 00:00:00": {
+            "count": 196,
+            "uniques": 123
+        },
+        "2021-06-08 00:00:00": {
+            "count": 380,
+            "uniques": 262
         }
     },
     "views_traffic": {
@@ -3378,8 +3387,8 @@
             "uniques": 125
         },
         "2021-05-26 00:00:00": {
-            "count": 410,
-            "uniques": 107
+            "count": 403,
+            "uniques": 105
         },
         "2021-05-27 00:00:00": {
             "count": 578,
@@ -3424,6 +3433,14 @@
         "2021-06-06 00:00:00": {
             "count": 120,
             "uniques": 29
+        },
+        "2021-06-07 00:00:00": {
+            "count": 444,
+            "uniques": 96
+        },
+        "2021-06-08 00:00:00": {
+            "count": 435,
+            "uniques": 85
         }
     },
     "contributors": {
@@ -13913,9 +13930,9 @@
                 "commits": 0
             },
             "2021-06-06 00:00:00": {
-                "additions": 0,
-                "deletions": 0,
-                "commits": 0
+                "additions": 32,
+                "deletions": 17,
+                "commits": 1
             }
         },
         "MiroDudik": {
@@ -38176,9 +38193,9 @@
             "closed": 3
         },
         "adrinjalali": {
-            "created": 10,
-            "open": 2,
-            "closed": 8
+            "created": 13,
+            "open": 4,
+            "closed": 9
         },
         "chisingh": {
             "created": 3,
@@ -38381,8 +38398,8 @@
             "closed": 0
         },
         "alexquach": {
-            "created": 1,
-            "open": 0,
+            "created": 2,
+            "open": 1,
             "closed": 1
         },
         "Jordan7-davila": {
@@ -38392,37 +38409,37 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1513,
-        "riedgar-ms": 1376,
-        "MiroDudik": 661,
+        "romanlutz": 1473,
+        "riedgar-ms": 1388,
+        "MiroDudik": 687,
         "wamartin-aml": 14,
         "vingu": 3,
-        "imatiach-msft": 7,
+        "imatiach-msft": 6,
         "bethz": 14,
-        "rihorn2": 85,
-        "adrinjalali": 278,
+        "rihorn2": 81,
+        "adrinjalali": 311,
         "kevinrobinson": 46,
         "mesameki": 8,
-        "hannanabdul55": 40,
+        "hannanabdul55": 57,
         "parul100495": 23,
-        "cmarmo": 1,
+        "cmarmo": 2,
         "moprescu": 4,
-        "koaning": 41,
-        "chisingh": 9,
+        "koaning": 39,
+        "chisingh": 14,
         "laurenpendo": 5,
         "afehmiu": 24,
-        "MBrouns": 8,
+        "MBrouns": 15,
         "hildeweerts": 65,
-        "marksoper": 2,
+        "marksoper": 1,
         "Rishit-dagli": 2,
         "gaugup": 5,
         "Dref360": 16,
-        "Acornagain": 9,
+        "Acornagain": 3,
         "arjsingh": 2,
         "mmadaio": 67,
         "leonarduschen": 3,
         "michaelamoako": 20,
-        "LeJit": 3,
+        "LeJit": 6,
         "enharten": 2,
         "MeekaElla": 4,
         "bthng": 9,
