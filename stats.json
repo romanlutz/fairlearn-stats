@@ -1,5 +1,5 @@
 {
-    "stars": 980,
+    "stars": 983,
     "open_issues": 123,
     "closed_issues": 734,
     "created_issues": {
@@ -111,8 +111,8 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 627,
-        "adrinjalali": 269,
+        "romanlutz": 629,
+        "adrinjalali": 270,
         "riedgar-ms": 360,
         "MiroDudik": 172,
         "koaning": 56,
@@ -196,7 +196,7 @@
         "MattRudy": 1,
         "adidutt": 2,
         "lurosenb": 1,
-        "shimst3r": 4,
+        "shimst3r": 6,
         "kumarnav03": 1,
         "wcheung-code": 1,
         "vishals2911": 1,
@@ -207,7 +207,7 @@
         "kstohr": 19,
         "stephenrobic": 9,
         "Zuzah": 1,
-        "kurianbenoy": 10,
+        "kurianbenoy": 12,
         "bthng": 3,
         "shashankc28": 2,
         "Godwindaniel10": 3,
@@ -223,12 +223,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 256,
-            "uniques": 178
+            "count": 243,
+            "uniques": 168
         },
         "github.com": {
-            "count": 189,
-            "uniques": 99
+            "count": 185,
+            "uniques": 98
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -239,12 +239,12 @@
             "uniques": 7
         },
         "docs.microsoft.com": {
-            "count": 27,
-            "uniques": 21
+            "count": 21,
+            "uniques": 17
         },
         "Bing": {
-            "count": 20,
-            "uniques": 13
+            "count": 17,
+            "uniques": 11
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -267,8 +267,8 @@
             "uniques": 10
         },
         "pypi.org": {
-            "count": 13,
-            "uniques": 9
+            "count": 10,
+            "uniques": 6
         },
         "gitter.im": {
             "count": 15,
@@ -295,8 +295,8 @@
             "uniques": 15
         },
         "statics.teams.cdn.office.net": {
-            "count": 24,
-            "uniques": 10
+            "count": 23,
+            "uniques": 9
         },
         "paperswithcode.com": {
             "count": 14,
@@ -339,12 +339,12 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 126,
-            "uniques": 87
+            "count": 119,
+            "uniques": 83
         },
         "kdnuggets.com": {
-            "count": 13,
-            "uniques": 11
+            "count": 12,
+            "uniques": 10
         },
         "goodfirstissues.com": {
             "count": 7,
@@ -2039,6 +2039,10 @@
         "2021-07-10 00:00:00": {
             "count": 62,
             "uniques": 17
+        },
+        "2021-07-11 00:00:00": {
+            "count": 89,
+            "uniques": 36
         }
     },
     "views_traffic": {
@@ -3667,8 +3671,8 @@
             "uniques": 49
         },
         "2021-06-28 00:00:00": {
-            "count": 355,
-            "uniques": 100
+            "count": 347,
+            "uniques": 98
         },
         "2021-06-29 00:00:00": {
             "count": 315,
@@ -3717,6 +3721,10 @@
         "2021-07-10 00:00:00": {
             "count": 125,
             "uniques": 39
+        },
+        "2021-07-11 00:00:00": {
+            "count": 238,
+            "uniques": 35
         }
     },
     "contributors": {
@@ -4542,6 +4550,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -5372,6 +5385,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "moprescu": {
@@ -6199,6 +6217,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "kevinrobinson": {
@@ -7023,6 +7046,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -7853,6 +7881,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "hugovk": {
@@ -8677,6 +8710,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -9507,6 +9545,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "afehmiu": {
@@ -10331,6 +10374,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -11161,6 +11209,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "parul100495": {
@@ -11985,6 +12038,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -12815,6 +12873,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "bethz": {
@@ -13639,6 +13702,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -14469,6 +14537,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "MiroDudik": {
@@ -15293,6 +15366,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -16123,6 +16201,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "romanlutz": {
@@ -16947,6 +17030,11 @@
                 "commits": 2
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -17777,6 +17865,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "janhavi13": {
@@ -18601,6 +18694,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -19431,6 +19529,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "koaning": {
@@ -20258,6 +20361,11 @@
                 "additions": 1,
                 "deletions": 1,
                 "commits": 1
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "chisingh": {
@@ -21082,6 +21190,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -21912,6 +22025,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "gregorybchris": {
@@ -22736,6 +22854,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -23566,6 +23689,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "dgiova": {
@@ -24393,6 +24521,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Rishit-dagli": {
@@ -25217,6 +25350,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -26047,6 +26185,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "vladiliescu": {
@@ -26871,6 +27014,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -27701,6 +27849,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "leonarduschen": {
@@ -28528,6 +28681,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "rishabhsamb": {
@@ -29352,6 +29510,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -30182,6 +30345,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "thomasjpfan": {
@@ -31006,6 +31174,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -31836,6 +32009,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "michaelamoako": {
@@ -32660,6 +32838,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -33490,6 +33673,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "bthng": {
@@ -34314,6 +34502,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -35144,6 +35337,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "stephenrobic": {
@@ -35968,6 +36166,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -36798,6 +37001,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Godwindaniel10": {
@@ -37622,6 +37830,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -38452,6 +38665,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "alexquach": {
@@ -39276,6 +39494,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -40106,6 +40329,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Fyrebright": {
@@ -40930,6 +41158,11 @@
                 "commits": 0
             },
             "2021-07-04 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-07-11 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -41760,6 +41993,11 @@
                 "additions": 4,
                 "deletions": 4,
                 "commits": 1
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "shimst3r": {
@@ -42587,6 +42825,11 @@
                 "additions": 70,
                 "deletions": 20,
                 "commits": 1
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Patil2099": {
@@ -43414,6 +43657,11 @@
                 "additions": 176,
                 "deletions": 122,
                 "commits": 1
+            },
+            "2021-07-11 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         }
     },
@@ -43725,35 +43973,35 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1696,
-        "riedgar-ms": 1387,
-        "MiroDudik": 712,
+        "romanlutz": 1547,
+        "riedgar-ms": 1458,
+        "MiroDudik": 750,
         "wamartin-aml": 14,
-        "vingu": 4,
-        "imatiach-msft": 1,
+        "vingu": 3,
+        "imatiach-msft": 12,
         "bethz": 13,
-        "rihorn2": 43,
-        "adrinjalali": 275,
-        "kevinrobinson": 40,
+        "rihorn2": 56,
+        "adrinjalali": 271,
+        "kevinrobinson": 39,
         "mesameki": 8,
-        "hannanabdul55": 39,
-        "parul100495": 17,
+        "hannanabdul55": 51,
+        "parul100495": 23,
         "cmarmo": 1,
         "moprescu": 4,
-        "koaning": 56,
-        "chisingh": 6,
-        "laurenpendo": 5,
+        "koaning": 41,
+        "chisingh": 16,
+        "laurenpendo": 4,
         "afehmiu": 24,
-        "MBrouns": 7,
-        "hildeweerts": 94,
-        "marksoper": 3,
+        "MBrouns": 13,
+        "hildeweerts": 116,
+        "marksoper": 2,
         "Rishit-dagli": 2,
         "gaugup": 5,
-        "Dref360": 31,
+        "Dref360": 17,
         "Acornagain": 9,
         "arjsingh": 2,
-        "mmadaio": 87,
-        "leonarduschen": 3,
+        "mmadaio": 82,
+        "leonarduschen": 2,
         "michaelamoako": 19,
         "LeJit": 3,
         "enharten": 2,
@@ -43764,7 +44012,7 @@
         "stephenrobic": 5,
         "Jordan7-davila": 7,
         "alexquach": 12,
-        "kurianbenoy": 1,
+        "kurianbenoy": 2,
         "kstohr": 10,
         "pritishaw1": 1,
         "shimst3r": 2
