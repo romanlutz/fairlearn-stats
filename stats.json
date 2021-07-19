@@ -116,9 +116,9 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 644,
+        "romanlutz": 645,
         "adrinjalali": 270,
-        "riedgar-ms": 364,
+        "riedgar-ms": 365,
         "MiroDudik": 173,
         "koaning": 56,
         "hildeweerts": 154,
@@ -232,12 +232,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 272,
-            "uniques": 200
+            "count": 269,
+            "uniques": 194
         },
         "github.com": {
-            "count": 318,
-            "uniques": 136
+            "count": 331,
+            "uniques": 144
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -248,8 +248,8 @@
             "uniques": 7
         },
         "docs.microsoft.com": {
-            "count": 41,
-            "uniques": 25
+            "count": 43,
+            "uniques": 26
         },
         "Bing": {
             "count": 19,
@@ -300,8 +300,8 @@
             "uniques": 25
         },
         "t.co": {
-            "count": 7,
-            "uniques": 6
+            "count": 9,
+            "uniques": 7
         },
         "statics.teams.cdn.office.net": {
             "count": 24,
@@ -348,8 +348,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 229,
-            "uniques": 122
+            "count": 225,
+            "uniques": 116
         },
         "kdnuggets.com": {
             "count": 16,
@@ -2076,6 +2076,10 @@
         "2021-07-17 00:00:00": {
             "count": 216,
             "uniques": 130
+        },
+        "2021-07-18 00:00:00": {
+            "count": 113,
+            "uniques": 61
         }
     },
     "views_traffic": {
@@ -3782,6 +3786,10 @@
         "2021-07-17 00:00:00": {
             "count": 240,
             "uniques": 68
+        },
+        "2021-07-18 00:00:00": {
+            "count": 123,
+            "uniques": 59
         }
     },
     "contributors": {
@@ -45127,50 +45135,50 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1588,
-        "riedgar-ms": 1456,
-        "MiroDudik": 831,
-        "wamartin-aml": 13,
-        "vingu": 3,
-        "imatiach-msft": 11,
-        "bethz": 14,
-        "rihorn2": 75,
-        "adrinjalali": 254,
-        "kevinrobinson": 27,
-        "mesameki": 6,
-        "hannanabdul55": 40,
-        "parul100495": 23,
+        "romanlutz": 1648,
+        "riedgar-ms": 1482,
+        "MiroDudik": 586,
+        "wamartin-aml": 24,
+        "vingu": 6,
+        "imatiach-msft": 7,
+        "bethz": 9,
+        "rihorn2": 82,
+        "adrinjalali": 346,
+        "kevinrobinson": 46,
+        "mesameki": 11,
+        "hannanabdul55": 65,
+        "parul100495": 31,
         "cmarmo": 1,
-        "moprescu": 8,
-        "koaning": 24,
-        "chisingh": 3,
+        "moprescu": 1,
+        "koaning": 39,
+        "chisingh": 9,
         "laurenpendo": 5,
         "afehmiu": 24,
-        "MBrouns": 4,
-        "hildeweerts": 122,
-        "marksoper": 1,
+        "MBrouns": 8,
+        "hildeweerts": 82,
+        "marksoper": 2,
         "Rishit-dagli": 2,
-        "gaugup": 5,
-        "Dref360": 29,
-        "Acornagain": 3,
+        "gaugup": 10,
+        "Dref360": 17,
+        "Acornagain": 9,
         "arjsingh": 2,
-        "mmadaio": 109,
-        "leonarduschen": 3,
-        "michaelamoako": 15,
-        "LeJit": 3,
+        "mmadaio": 129,
+        "leonarduschen": 2,
+        "michaelamoako": 19,
+        "LeJit": 1,
         "enharten": 2,
         "MeekaElla": 4,
-        "bthng": 8,
+        "bthng": 12,
         "trangology": 1,
-        "lgfunderburk": 66,
+        "lgfunderburk": 45,
         "stephenrobic": 5,
-        "Jordan7-davila": 12,
-        "alexquach": 13,
-        "kurianbenoy": 4,
-        "kstohr": 11,
-        "pritishaw1": 1,
-        "shimst3r": 2,
+        "Jordan7-davila": 7,
+        "alexquach": 15,
+        "kurianbenoy": 2,
+        "kstohr": 10,
+        "pritishaw1": 2,
+        "shimst3r": 4,
         "bram49": 6,
-        "coreysharris": 10
+        "coreysharris": 21
     }
 }
