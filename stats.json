@@ -240,12 +240,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 269,
-            "uniques": 163
+            "count": 257,
+            "uniques": 157
         },
         "github.com": {
-            "count": 163,
-            "uniques": 76
+            "count": 152,
+            "uniques": 72
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -257,11 +257,11 @@
         },
         "docs.microsoft.com": {
             "count": 19,
-            "uniques": 14
+            "uniques": 15
         },
         "Bing": {
-            "count": 31,
-            "uniques": 17
+            "count": 29,
+            "uniques": 16
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -284,8 +284,8 @@
             "uniques": 15
         },
         "pypi.org": {
-            "count": 23,
-            "uniques": 17
+            "count": 21,
+            "uniques": 15
         },
         "gitter.im": {
             "count": 15,
@@ -316,8 +316,8 @@
             "uniques": 5
         },
         "paperswithcode.com": {
-            "count": 11,
-            "uniques": 6
+            "count": 15,
+            "uniques": 7
         },
         "madewithml.com": {
             "count": 9,
@@ -356,8 +356,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 121,
-            "uniques": 87
+            "count": 110,
+            "uniques": 79
         },
         "kdnuggets.com": {
             "count": 13,
@@ -2154,8 +2154,8 @@
             "uniques": 6
         },
         "2021-08-04 00:00:00": {
-            "count": 292,
-            "uniques": 209
+            "count": 272,
+            "uniques": 194
         },
         "2021-08-05 00:00:00": {
             "count": 164,
@@ -2204,6 +2204,10 @@
         "2021-08-16 00:00:00": {
             "count": 64,
             "uniques": 23
+        },
+        "2021-08-17 00:00:00": {
+            "count": 111,
+            "uniques": 64
         }
     },
     "views_traffic": {
@@ -3980,8 +3984,8 @@
             "uniques": 70
         },
         "2021-08-04 00:00:00": {
-            "count": 398,
-            "uniques": 113
+            "count": 395,
+            "uniques": 112
         },
         "2021-08-05 00:00:00": {
             "count": 512,
@@ -4028,8 +4032,12 @@
             "uniques": 31
         },
         "2021-08-16 00:00:00": {
-            "count": 218,
-            "uniques": 62
+            "count": 226,
+            "uniques": 64
+        },
+        "2021-08-17 00:00:00": {
+            "count": 174,
+            "uniques": 68
         }
     },
     "contributors": {
@@ -47227,51 +47235,51 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1747,
-        "riedgar-ms": 1570,
-        "MiroDudik": 656,
-        "wamartin-aml": 5,
-        "vingu": 2,
-        "imatiach-msft": 7,
-        "bethz": 7,
-        "rihorn2": 78,
-        "adrinjalali": 345,
-        "kevinrobinson": 56,
-        "mesameki": 6,
-        "hannanabdul55": 58,
-        "parul100495": 39,
+        "romanlutz": 1711,
+        "riedgar-ms": 1531,
+        "MiroDudik": 674,
+        "wamartin-aml": 14,
+        "vingu": 3,
+        "imatiach-msft": 10,
+        "bethz": 14,
+        "rihorn2": 79,
+        "adrinjalali": 316,
+        "kevinrobinson": 45,
+        "mesameki": 8,
+        "hannanabdul55": 32,
+        "parul100495": 23,
         "cmarmo": 1,
         "moprescu": 4,
-        "koaning": 33,
-        "chisingh": 7,
-        "laurenpendo": 7,
-        "afehmiu": 14,
-        "MBrouns": 16,
-        "hildeweerts": 82,
+        "koaning": 69,
+        "chisingh": 9,
+        "laurenpendo": 5,
+        "afehmiu": 24,
+        "MBrouns": 8,
+        "hildeweerts": 132,
         "marksoper": 2,
         "Rishit-dagli": 2,
-        "gaugup": 4,
-        "Dref360": 14,
-        "Acornagain": 6,
+        "gaugup": 5,
+        "Dref360": 18,
+        "Acornagain": 9,
         "arjsingh": 2,
-        "mmadaio": 148,
+        "mmadaio": 229,
         "leonarduschen": 3,
-        "michaelamoako": 16,
-        "LeJit": 6,
+        "michaelamoako": 20,
+        "LeJit": 4,
         "enharten": 2,
-        "MeekaElla": 3,
-        "bthng": 14,
+        "MeekaElla": 4,
+        "bthng": 6,
         "trangology": 1,
-        "lgfunderburk": 106,
-        "stephenrobic": 4,
+        "lgfunderburk": 42,
+        "stephenrobic": 8,
         "Jordan7-davila": 7,
-        "alexquach": 16,
-        "kurianbenoy": 2,
+        "alexquach": 40,
+        "kurianbenoy": 1,
         "kstohr": 10,
-        "pritishaw1": 12,
-        "shimst3r": 4,
-        "bram49": 16,
-        "coreysharris": 22,
-        "OctTree": 13
+        "pritishaw1": 6,
+        "shimst3r": 2,
+        "bram49": 19,
+        "coreysharris": 27,
+        "OctTree": 3
     }
 }
