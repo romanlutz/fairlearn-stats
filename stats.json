@@ -1,6 +1,6 @@
 {
-    "stars": 1071,
-    "open_issues": 140,
+    "stars": 1072,
+    "open_issues": 142,
     "closed_issues": 784,
     "created_issues": {
         "janhavi13": 5,
@@ -118,20 +118,20 @@
         "candalfigomoro": 1,
         "sushmitaS16": 1,
         "RWilsker": 1,
-        "alliesaizan": 2,
+        "alliesaizan": 3,
         "Thomasq99": 3,
         "SeanMcCarren": 2,
-        "bramreinders97": 2,
+        "bramreinders97": 3,
         "IanEisenberg": 1
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 744,
+        "romanlutz": 745,
         "adrinjalali": 299,
         "riedgar-ms": 396,
         "MiroDudik": 176,
-        "koaning": 57,
-        "hildeweerts": 189,
+        "koaning": 58,
+        "hildeweerts": 191,
         "slbird": 2,
         "wmeints": 1,
         "laurenpendo": 1,
@@ -240,10 +240,10 @@
         "coreysharris": 6,
         "MikeyHV": 1,
         "sushmitaS16": 2,
-        "alliesaizan": 10,
+        "alliesaizan": 11,
         "joaquinvanschoren": 1,
         "ojeda-e": 3,
-        "Thomasq99": 9,
+        "Thomasq99": 10,
         "SeanMcCarren": 9,
         "bramreinders97": 10,
         "JorickvdHoeven": 1,
@@ -251,12 +251,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 226,
-            "uniques": 177
+            "count": 228,
+            "uniques": 174
         },
         "github.com": {
-            "count": 216,
-            "uniques": 83
+            "count": 224,
+            "uniques": 86
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -267,12 +267,12 @@
             "uniques": 7
         },
         "docs.microsoft.com": {
-            "count": 12,
-            "uniques": 11
+            "count": 13,
+            "uniques": 12
         },
         "Bing": {
-            "count": 7,
-            "uniques": 4
+            "count": 6,
+            "uniques": 3
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -291,12 +291,12 @@
             "uniques": 5
         },
         "microsoft.com": {
-            "count": 12,
-            "uniques": 10
+            "count": 9,
+            "uniques": 7
         },
         "pypi.org": {
             "count": 7,
-            "uniques": 5
+            "uniques": 6
         },
         "gitter.im": {
             "count": 15,
@@ -327,7 +327,7 @@
             "uniques": 5
         },
         "paperswithcode.com": {
-            "count": 11,
+            "count": 10,
             "uniques": 4
         },
         "madewithml.com": {
@@ -367,8 +367,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 118,
-            "uniques": 73
+            "count": 135,
+            "uniques": 84
         },
         "kdnuggets.com": {
             "count": 10,
@@ -2389,8 +2389,12 @@
             "uniques": 12
         },
         "2021-09-27 00:00:00": {
-            "count": 42,
-            "uniques": 2
+            "count": 43,
+            "uniques": 3
+        },
+        "2021-09-28 00:00:00": {
+            "count": 104,
+            "uniques": 51
         }
     },
     "views_traffic": {
@@ -4335,8 +4339,8 @@
             "uniques": 96
         },
         "2021-09-15 00:00:00": {
-            "count": 237,
-            "uniques": 79
+            "count": 226,
+            "uniques": 76
         },
         "2021-09-16 00:00:00": {
             "count": 378,
@@ -4383,8 +4387,12 @@
             "uniques": 26
         },
         "2021-09-27 00:00:00": {
-            "count": 220,
-            "uniques": 86
+            "count": 222,
+            "uniques": 87
+        },
+        "2021-09-28 00:00:00": {
+            "count": 310,
+            "uniques": 95
         }
     },
     "contributors": {
@@ -52629,8 +52637,8 @@
             "closed": 1
         },
         "alliesaizan": {
-            "created": 2,
-            "open": 0,
+            "created": 3,
+            "open": 1,
             "closed": 2
         },
         "AndreFCruz": {
@@ -52649,6 +52657,11 @@
             "closed": 0
         },
         "IanEisenberg": {
+            "created": 1,
+            "open": 1,
+            "closed": 0
+        },
+        "bramreinders97": {
             "created": 1,
             "open": 1,
             "closed": 0
