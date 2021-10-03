@@ -252,12 +252,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 274,
-            "uniques": 211
+            "count": 288,
+            "uniques": 224
         },
         "github.com": {
-            "count": 220,
-            "uniques": 95
+            "count": 237,
+            "uniques": 97
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -268,8 +268,8 @@
             "uniques": 7
         },
         "docs.microsoft.com": {
-            "count": 14,
-            "uniques": 13
+            "count": 16,
+            "uniques": 15
         },
         "Bing": {
             "count": 8,
@@ -292,8 +292,8 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 14,
-            "uniques": 10
+            "count": 17,
+            "uniques": 12
         },
         "pypi.org": {
             "count": 8,
@@ -328,8 +328,8 @@
             "uniques": 5
         },
         "paperswithcode.com": {
-            "count": 11,
-            "uniques": 6
+            "count": 9,
+            "uniques": 5
         },
         "madewithml.com": {
             "count": 9,
@@ -368,8 +368,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 165,
-            "uniques": 106
+            "count": 180,
+            "uniques": 107
         },
         "kdnuggets.com": {
             "count": 7,
@@ -2406,8 +2406,12 @@
             "uniques": 109
         },
         "2021-10-01 00:00:00": {
-            "count": 91,
-            "uniques": 37
+            "count": 138,
+            "uniques": 71
+        },
+        "2021-10-02 00:00:00": {
+            "count": 56,
+            "uniques": 6
         }
     },
     "views_traffic": {
@@ -4368,8 +4372,8 @@
             "uniques": 22
         },
         "2021-09-19 00:00:00": {
-            "count": 57,
-            "uniques": 28
+            "count": 54,
+            "uniques": 25
         },
         "2021-09-20 00:00:00": {
             "count": 321,
@@ -4416,8 +4420,12 @@
             "uniques": 129
         },
         "2021-10-01 00:00:00": {
-            "count": 364,
-            "uniques": 58
+            "count": 368,
+            "uniques": 62
+        },
+        "2021-10-02 00:00:00": {
+            "count": 82,
+            "uniques": 16
         }
     },
     "contributors": {
