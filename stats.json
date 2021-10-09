@@ -1,11 +1,11 @@
 {
     "stars": 1077,
-    "open_issues": 148,
+    "open_issues": 149,
     "closed_issues": 791,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
-        "romanlutz": 259,
+        "romanlutz": 260,
         "dgiova": 1,
         "MiroDudik": 25,
         "riedgar-ms": 273,
@@ -132,7 +132,7 @@
         "riedgar-ms": 405,
         "MiroDudik": 180,
         "koaning": 58,
-        "hildeweerts": 196,
+        "hildeweerts": 197,
         "slbird": 2,
         "wmeints": 1,
         "laurenpendo": 1,
@@ -254,28 +254,28 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 235,
-            "uniques": 180
+            "count": 267,
+            "uniques": 201
         },
         "github.com": {
-            "count": 190,
-            "uniques": 75
+            "count": 199,
+            "uniques": 76
         },
         "fairlearn.github.io": {
             "count": 9,
             "uniques": 8
         },
         "azure.microsoft.com": {
-            "count": 5,
-            "uniques": 5
+            "count": 6,
+            "uniques": 6
         },
         "docs.microsoft.com": {
-            "count": 14,
-            "uniques": 12
+            "count": 18,
+            "uniques": 15
         },
         "Bing": {
-            "count": 10,
-            "uniques": 9
+            "count": 11,
+            "uniques": 10
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -370,12 +370,12 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 145,
-            "uniques": 92
+            "count": 169,
+            "uniques": 107
         },
         "kdnuggets.com": {
-            "count": 4,
-            "uniques": 4
+            "count": 5,
+            "uniques": 5
         },
         "goodfirstissues.com": {
             "count": 7,
@@ -2432,8 +2432,12 @@
             "uniques": 53
         },
         "2021-10-07 00:00:00": {
-            "count": 152,
-            "uniques": 83
+            "count": 164,
+            "uniques": 92
+        },
+        "2021-10-08 00:00:00": {
+            "count": 196,
+            "uniques": 68
         }
     },
     "views_traffic": {
@@ -4466,8 +4470,12 @@
             "uniques": 80
         },
         "2021-10-07 00:00:00": {
-            "count": 284,
-            "uniques": 98
+            "count": 331,
+            "uniques": 101
+        },
+        "2021-10-08 00:00:00": {
+            "count": 154,
+            "uniques": 57
         }
     },
     "contributors": {
@@ -54441,8 +54449,8 @@
             "closed": 1
         },
         "romanlutz": {
-            "created": 147,
-            "open": 2,
+            "created": 148,
+            "open": 3,
             "closed": 145
         },
         "MiroDudik": {
