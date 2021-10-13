@@ -245,7 +245,7 @@
         "joaquinvanschoren": 1,
         "ojeda-e": 3,
         "Thomasq99": 10,
-        "SeanMcCarren": 12,
+        "SeanMcCarren": 13,
         "bramreinders97": 15,
         "JorickvdHoeven": 1,
         "IanEisenberg": 2,
@@ -254,12 +254,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 236,
-            "uniques": 181
+            "count": 234,
+            "uniques": 178
         },
         "github.com": {
-            "count": 171,
-            "uniques": 66
+            "count": 169,
+            "uniques": 67
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -290,16 +290,16 @@
             "uniques": 2
         },
         "medium.com": {
-            "count": 4,
-            "uniques": 4
+            "count": 5,
+            "uniques": 3
         },
         "microsoft.com": {
             "count": 16,
             "uniques": 12
         },
         "pypi.org": {
-            "count": 7,
-            "uniques": 7
+            "count": 6,
+            "uniques": 6
         },
         "gitter.im": {
             "count": 15,
@@ -330,8 +330,8 @@
             "uniques": 5
         },
         "paperswithcode.com": {
-            "count": 4,
-            "uniques": 4
+            "count": 5,
+            "uniques": 3
         },
         "madewithml.com": {
             "count": 9,
@@ -370,8 +370,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 137,
-            "uniques": 87
+            "count": 131,
+            "uniques": 84
         },
         "kdnuggets.com": {
             "count": 5,
@@ -2450,6 +2450,10 @@
         "2021-10-11 00:00:00": {
             "count": 42,
             "uniques": 2
+        },
+        "2021-10-12 00:00:00": {
+            "count": 53,
+            "uniques": 12
         }
     },
     "views_traffic": {
@@ -4498,8 +4502,12 @@
             "uniques": 22
         },
         "2021-10-11 00:00:00": {
-            "count": 280,
-            "uniques": 85
+            "count": 284,
+            "uniques": 86
+        },
+        "2021-10-12 00:00:00": {
+            "count": 209,
+            "uniques": 83
         }
     },
     "contributors": {
@@ -55158,7 +55166,7 @@
         "AndreFCruz": 4,
         "SeanMcCarren": 13,
         "Thomasq99": 10,
-        "alliesaizan": 43,
+        "alliesaizan": 45,
         "IanEisenberg": 3
     }
 }
