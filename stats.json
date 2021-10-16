@@ -1,11 +1,11 @@
 {
-    "stars": 1079,
-    "open_issues": 148,
+    "stars": 1081,
+    "open_issues": 149,
     "closed_issues": 797,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
-        "romanlutz": 265,
+        "romanlutz": 266,
         "dgiova": 1,
         "MiroDudik": 25,
         "riedgar-ms": 273,
@@ -254,12 +254,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 243,
-            "uniques": 174
+            "count": 253,
+            "uniques": 180
         },
         "github.com": {
-            "count": 141,
-            "uniques": 61
+            "count": 157,
+            "uniques": 66
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -270,12 +270,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 26,
-            "uniques": 18
+            "count": 30,
+            "uniques": 22
         },
         "Bing": {
-            "count": 19,
-            "uniques": 10
+            "count": 20,
+            "uniques": 11
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -294,12 +294,12 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 15,
+            "count": 16,
             "uniques": 11
         },
         "pypi.org": {
-            "count": 6,
-            "uniques": 6
+            "count": 9,
+            "uniques": 8
         },
         "gitter.im": {
             "count": 15,
@@ -330,8 +330,8 @@
             "uniques": 5
         },
         "paperswithcode.com": {
-            "count": 6,
-            "uniques": 4
+            "count": 7,
+            "uniques": 5
         },
         "madewithml.com": {
             "count": 9,
@@ -370,8 +370,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 115,
-            "uniques": 82
+            "count": 122,
+            "uniques": 88
         },
         "kdnuggets.com": {
             "count": 5,
@@ -386,7 +386,7 @@
             "uniques": 8
         },
         "aiforpeople.org": {
-            "count": 4,
+            "count": 5,
             "uniques": 4
         },
         "venturebeat.com": {
@@ -2412,7 +2412,7 @@
             "uniques": 71
         },
         "2021-10-02 00:00:00": {
-            "count": 56,
+            "count": 46,
             "uniques": 6
         },
         "2021-10-03 00:00:00": {
@@ -2462,6 +2462,10 @@
         "2021-10-14 00:00:00": {
             "count": 106,
             "uniques": 28
+        },
+        "2021-10-15 00:00:00": {
+            "count": 59,
+            "uniques": 5
         }
     },
     "views_traffic": {
@@ -4474,8 +4478,8 @@
             "uniques": 59
         },
         "2021-10-02 00:00:00": {
-            "count": 82,
-            "uniques": 16
+            "count": 76,
+            "uniques": 14
         },
         "2021-10-03 00:00:00": {
             "count": 51,
@@ -4522,8 +4526,12 @@
             "uniques": 69
         },
         "2021-10-14 00:00:00": {
-            "count": 296,
-            "uniques": 82
+            "count": 297,
+            "uniques": 83
+        },
+        "2021-10-15 00:00:00": {
+            "count": 162,
+            "uniques": 53
         }
     },
     "contributors": {
@@ -55674,8 +55682,8 @@
             "closed": 1
         },
         "romanlutz": {
-            "created": 151,
-            "open": 3,
+            "created": 152,
+            "open": 4,
             "closed": 148
         },
         "MiroDudik": {
@@ -56030,34 +56038,34 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1797,
-        "riedgar-ms": 1435,
-        "MiroDudik": 717,
-        "wamartin-aml": 14,
-        "vingu": 3,
-        "imatiach-msft": 14,
-        "bethz": 14,
-        "rihorn2": 78,
-        "adrinjalali": 393,
-        "kevinrobinson": 39,
+        "romanlutz": 1733,
+        "riedgar-ms": 1535,
+        "MiroDudik": 663,
+        "wamartin-aml": 12,
+        "vingu": 6,
+        "imatiach-msft": 7,
+        "bethz": 28,
+        "rihorn2": 101,
+        "adrinjalali": 410,
+        "kevinrobinson": 46,
         "mesameki": 8,
-        "hannanabdul55": 36,
-        "parul100495": 19,
+        "hannanabdul55": 80,
+        "parul100495": 23,
         "cmarmo": 1,
         "moprescu": 4,
         "koaning": 41,
-        "chisingh": 3,
+        "chisingh": 18,
         "laurenpendo": 5,
         "afehmiu": 24,
-        "MBrouns": 8,
-        "hildeweerts": 230,
+        "MBrouns": 16,
+        "hildeweerts": 158,
         "marksoper": 2,
         "Rishit-dagli": 2,
         "gaugup": 5,
-        "Dref360": 18,
+        "Dref360": 25,
         "Acornagain": 9,
         "arjsingh": 2,
-        "mmadaio": 274,
+        "mmadaio": 271,
         "leonarduschen": 3,
         "michaelamoako": 20,
         "LeJit": 4,
@@ -56065,20 +56073,20 @@
         "MeekaElla": 4,
         "bthng": 9,
         "trangology": 1,
-        "lgfunderburk": 60,
+        "lgfunderburk": 49,
         "stephenrobic": 5,
         "Jordan7-davila": 7,
-        "alexquach": 42,
-        "kurianbenoy": 4,
-        "kstohr": 10,
-        "pritishaw1": 8,
+        "alexquach": 31,
+        "kurianbenoy": 2,
+        "kstohr": 20,
+        "pritishaw1": 6,
         "shimst3r": 2,
         "bram49": 22,
-        "coreysharris": 53,
-        "OctTree": 3,
-        "AndreFCruz": 4,
-        "SeanMcCarren": 15,
-        "Thomasq99": 10,
+        "coreysharris": 34,
+        "OctTree": 7,
+        "AndreFCruz": 2,
+        "SeanMcCarren": 13,
+        "Thomasq99": 7,
         "alliesaizan": 45,
         "IanEisenberg": 3
     }
