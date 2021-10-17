@@ -1,5 +1,5 @@
 {
-    "stars": 1081,
+    "stars": 1082,
     "open_issues": 149,
     "closed_issues": 797,
     "created_issues": {
@@ -254,12 +254,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 253,
-            "uniques": 180
+            "count": 259,
+            "uniques": 190
         },
         "github.com": {
-            "count": 157,
-            "uniques": 66
+            "count": 164,
+            "uniques": 69
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -270,11 +270,11 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 30,
-            "uniques": 22
+            "count": 28,
+            "uniques": 20
         },
         "Bing": {
-            "count": 20,
+            "count": 23,
             "uniques": 11
         },
         "mybuild.microsoft.com": {
@@ -294,12 +294,12 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 16,
-            "uniques": 11
+            "count": 17,
+            "uniques": 12
         },
         "pypi.org": {
-            "count": 9,
-            "uniques": 8
+            "count": 10,
+            "uniques": 9
         },
         "gitter.im": {
             "count": 15,
@@ -370,8 +370,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 122,
-            "uniques": 88
+            "count": 133,
+            "uniques": 94
         },
         "kdnuggets.com": {
             "count": 5,
@@ -2466,6 +2466,10 @@
         "2021-10-15 00:00:00": {
             "count": 59,
             "uniques": 5
+        },
+        "2021-10-16 00:00:00": {
+            "count": 32,
+            "uniques": 2
         }
     },
     "views_traffic": {
@@ -4530,8 +4534,12 @@
             "uniques": 83
         },
         "2021-10-15 00:00:00": {
-            "count": 162,
-            "uniques": 53
+            "count": 165,
+            "uniques": 54
+        },
+        "2021-10-16 00:00:00": {
+            "count": 67,
+            "uniques": 43
         }
     },
     "contributors": {
@@ -56038,34 +56046,34 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1733,
-        "riedgar-ms": 1535,
-        "MiroDudik": 663,
-        "wamartin-aml": 12,
-        "vingu": 6,
+        "romanlutz": 1744,
+        "riedgar-ms": 1574,
+        "MiroDudik": 778,
+        "wamartin-aml": 14,
+        "vingu": 3,
         "imatiach-msft": 7,
-        "bethz": 28,
-        "rihorn2": 101,
-        "adrinjalali": 410,
-        "kevinrobinson": 46,
-        "mesameki": 8,
-        "hannanabdul55": 80,
+        "bethz": 14,
+        "rihorn2": 84,
+        "adrinjalali": 387,
+        "kevinrobinson": 38,
+        "mesameki": 6,
+        "hannanabdul55": 40,
         "parul100495": 23,
         "cmarmo": 1,
         "moprescu": 4,
         "koaning": 41,
-        "chisingh": 18,
+        "chisingh": 9,
         "laurenpendo": 5,
         "afehmiu": 24,
-        "MBrouns": 16,
-        "hildeweerts": 158,
+        "MBrouns": 5,
+        "hildeweerts": 153,
         "marksoper": 2,
         "Rishit-dagli": 2,
         "gaugup": 5,
-        "Dref360": 25,
+        "Dref360": 19,
         "Acornagain": 9,
         "arjsingh": 2,
-        "mmadaio": 271,
+        "mmadaio": 222,
         "leonarduschen": 3,
         "michaelamoako": 20,
         "LeJit": 4,
@@ -56073,20 +56081,20 @@
         "MeekaElla": 4,
         "bthng": 9,
         "trangology": 1,
-        "lgfunderburk": 49,
+        "lgfunderburk": 60,
         "stephenrobic": 5,
         "Jordan7-davila": 7,
-        "alexquach": 31,
+        "alexquach": 34,
         "kurianbenoy": 2,
-        "kstohr": 20,
-        "pritishaw1": 6,
+        "kstohr": 10,
+        "pritishaw1": 8,
         "shimst3r": 2,
         "bram49": 22,
         "coreysharris": 34,
         "OctTree": 7,
-        "AndreFCruz": 2,
-        "SeanMcCarren": 13,
-        "Thomasq99": 7,
+        "AndreFCruz": 4,
+        "SeanMcCarren": 24,
+        "Thomasq99": 10,
         "alliesaizan": 45,
         "IanEisenberg": 3
     }
