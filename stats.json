@@ -134,9 +134,9 @@
         "romanlutz": 805,
         "adrinjalali": 322,
         "riedgar-ms": 423,
-        "MiroDudik": 189,
+        "MiroDudik": 191,
         "koaning": 58,
-        "hildeweerts": 228,
+        "hildeweerts": 230,
         "slbird": 2,
         "wmeints": 1,
         "laurenpendo": 1,
@@ -258,16 +258,16 @@
         "millerjohnp": 1,
         "Carlosbogo": 3,
         "Vibhaa5": 1,
-        "Harsha-Nori": 2
+        "Harsha-Nori": 3
     },
     "top_referrers": {
         "Google": {
-            "count": 457,
-            "uniques": 203
+            "count": 488,
+            "uniques": 210
         },
         "github.com": {
-            "count": 358,
-            "uniques": 71
+            "count": 384,
+            "uniques": 72
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -278,12 +278,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 91,
+            "count": 90,
             "uniques": 36
         },
         "Bing": {
-            "count": 40,
-            "uniques": 14
+            "count": 39,
+            "uniques": 18
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -294,7 +294,7 @@
             "uniques": 40
         },
         "opendatascience.com": {
-            "count": 9,
+            "count": 11,
             "uniques": 3
         },
         "medium.com": {
@@ -302,8 +302,8 @@
             "uniques": 2
         },
         "microsoft.com": {
-            "count": 24,
-            "uniques": 12
+            "count": 26,
+            "uniques": 14
         },
         "pypi.org": {
             "count": 11,
@@ -378,8 +378,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 251,
-            "uniques": 113
+            "count": 303,
+            "uniques": 122
         },
         "kdnuggets.com": {
             "count": 6,
@@ -2664,8 +2664,8 @@
             "uniques": 46
         },
         "2021-11-27 00:00:00": {
-            "count": 75,
-            "uniques": 35
+            "count": 74,
+            "uniques": 34
         },
         "2021-11-28 00:00:00": {
             "count": 48,
@@ -2714,6 +2714,10 @@
         "2021-12-09 00:00:00": {
             "count": 73,
             "uniques": 31
+        },
+        "2021-12-10 00:00:00": {
+            "count": 55,
+            "uniques": 18
         }
     },
     "views_traffic": {
@@ -4950,7 +4954,7 @@
             "uniques": 47
         },
         "2021-11-27 00:00:00": {
-            "count": 69,
+            "count": 68,
             "uniques": 26
         },
         "2021-11-28 00:00:00": {
@@ -5000,6 +5004,10 @@
         "2021-12-09 00:00:00": {
             "count": 249,
             "uniques": 67
+        },
+        "2021-12-10 00:00:00": {
+            "count": 236,
+            "uniques": 75
         }
     },
     "contributors": {
@@ -60690,7 +60698,7 @@
         "laurenpendo": 5,
         "afehmiu": 24,
         "MBrouns": 8,
-        "hildeweerts": 243,
+        "hildeweerts": 244,
         "marksoper": 2,
         "Rishit-dagli": 2,
         "gaugup": 5,
