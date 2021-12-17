@@ -1,5 +1,5 @@
 {
-    "stars": 1142,
+    "stars": 1143,
     "open_issues": 142,
     "closed_issues": 825,
     "created_issues": {
@@ -131,7 +131,7 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 808,
+        "romanlutz": 809,
         "adrinjalali": 322,
         "riedgar-ms": 423,
         "MiroDudik": 191,
@@ -249,8 +249,8 @@
         "joaquinvanschoren": 1,
         "ojeda-e": 3,
         "Thomasq99": 10,
-        "SeanMcCarren": 26,
-        "bramreinders97": 29,
+        "SeanMcCarren": 27,
+        "bramreinders97": 30,
         "JorickvdHoeven": 1,
         "IanEisenberg": 2,
         "glemaitre": 1,
@@ -262,11 +262,11 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 512,
-            "uniques": 174
+            "count": 554,
+            "uniques": 166
         },
         "github.com": {
-            "count": 309,
+            "count": 316,
             "uniques": 78
         },
         "fairlearn.github.io": {
@@ -278,12 +278,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 36,
-            "uniques": 22
+            "count": 41,
+            "uniques": 23
         },
         "Bing": {
-            "count": 43,
-            "uniques": 16
+            "count": 44,
+            "uniques": 17
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -302,7 +302,7 @@
             "uniques": 3
         },
         "microsoft.com": {
-            "count": 12,
+            "count": 11,
             "uniques": 8
         },
         "pypi.org": {
@@ -338,7 +338,7 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 16,
+            "count": 24,
             "uniques": 8
         },
         "madewithml.com": {
@@ -362,8 +362,8 @@
             "uniques": 16
         },
         "up-for-grabs.net": {
-            "count": 27,
-            "uniques": 5
+            "count": 26,
+            "uniques": 4
         },
         "ai.googleblog.com": {
             "count": 10,
@@ -378,12 +378,12 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 297,
-            "uniques": 117
+            "count": 298,
+            "uniques": 119
         },
         "kdnuggets.com": {
-            "count": 7,
-            "uniques": 5
+            "count": 9,
+            "uniques": 7
         },
         "goodfirstissues.com": {
             "count": 7,
@@ -2742,6 +2742,10 @@
         "2021-12-15 00:00:00": {
             "count": 87,
             "uniques": 41
+        },
+        "2021-12-16 00:00:00": {
+            "count": 66,
+            "uniques": 25
         }
     },
     "views_traffic": {
@@ -5002,8 +5006,8 @@
             "uniques": 71
         },
         "2021-12-03 00:00:00": {
-            "count": 133,
-            "uniques": 76
+            "count": 127,
+            "uniques": 73
         },
         "2021-12-04 00:00:00": {
             "count": 101,
@@ -5052,6 +5056,10 @@
         "2021-12-15 00:00:00": {
             "count": 296,
             "uniques": 69
+        },
+        "2021-12-16 00:00:00": {
+            "count": 218,
+            "uniques": 65
         }
     },
     "contributors": {
