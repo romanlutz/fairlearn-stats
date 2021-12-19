@@ -262,12 +262,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 609,
-            "uniques": 178
+            "count": 613,
+            "uniques": 184
         },
         "github.com": {
-            "count": 339,
-            "uniques": 81
+            "count": 315,
+            "uniques": 82
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -278,11 +278,11 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 40,
-            "uniques": 21
+            "count": 36,
+            "uniques": 18
         },
         "Bing": {
-            "count": 49,
+            "count": 46,
             "uniques": 18
         },
         "mybuild.microsoft.com": {
@@ -302,8 +302,8 @@
             "uniques": 3
         },
         "microsoft.com": {
-            "count": 12,
-            "uniques": 9
+            "count": 13,
+            "uniques": 10
         },
         "pypi.org": {
             "count": 11,
@@ -338,8 +338,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 24,
-            "uniques": 8
+            "count": 19,
+            "uniques": 7
         },
         "madewithml.com": {
             "count": 9,
@@ -362,8 +362,8 @@
             "uniques": 16
         },
         "up-for-grabs.net": {
-            "count": 26,
-            "uniques": 4
+            "count": 25,
+            "uniques": 3
         },
         "ai.googleblog.com": {
             "count": 10,
@@ -378,8 +378,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 319,
-            "uniques": 125
+            "count": 321,
+            "uniques": 124
         },
         "kdnuggets.com": {
             "count": 9,
@@ -432,6 +432,10 @@
         "fizzylogic.nl": {
             "count": 14,
             "uniques": 3
+        },
+        "teams.microsoft.com": {
+            "count": 19,
+            "uniques": 2
         }
     },
     "clones_traffic": {
@@ -2750,6 +2754,10 @@
         "2021-12-17 00:00:00": {
             "count": 74,
             "uniques": 34
+        },
+        "2021-12-18 00:00:00": {
+            "count": 36,
+            "uniques": 2
         }
     },
     "views_traffic": {
@@ -5018,8 +5026,8 @@
             "uniques": 27
         },
         "2021-12-05 00:00:00": {
-            "count": 153,
-            "uniques": 34
+            "count": 152,
+            "uniques": 33
         },
         "2021-12-06 00:00:00": {
             "count": 240,
@@ -5068,6 +5076,10 @@
         "2021-12-17 00:00:00": {
             "count": 116,
             "uniques": 47
+        },
+        "2021-12-18 00:00:00": {
+            "count": 50,
+            "uniques": 17
         }
     },
     "contributors": {
@@ -6008,6 +6020,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -6953,6 +6970,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "moprescu": {
@@ -7892,6 +7914,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -8837,6 +8864,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "imatiach-msft": {
@@ -9776,6 +9808,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -10721,6 +10758,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "hannanabdul55": {
@@ -11660,6 +11702,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -12605,6 +12652,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "microsoftopensource": {
@@ -13544,6 +13596,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -14489,6 +14546,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "mesameki": {
@@ -15428,6 +15490,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -16373,6 +16440,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "adrinjalali": {
@@ -17312,6 +17384,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -18257,6 +18334,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "rihorn2": {
@@ -19196,6 +19278,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -20141,6 +20228,11 @@
                 "additions": 11,
                 "deletions": 10,
                 "commits": 1
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "riedgar-ms": {
@@ -21080,6 +21172,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -22025,6 +22122,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "marksoper": {
@@ -22964,6 +23066,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -23909,6 +24016,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "chisingh": {
@@ -24848,6 +24960,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -25793,6 +25910,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "gregorybchris": {
@@ -26732,6 +26854,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -27677,6 +27804,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "dgiova": {
@@ -28616,6 +28748,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -29561,6 +29698,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Dref360": {
@@ -30500,6 +30642,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -31445,6 +31592,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "JEHoctor": {
@@ -32384,6 +32536,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -33329,6 +33486,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "rishabhsamb": {
@@ -34268,6 +34430,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -35213,6 +35380,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "thomasjpfan": {
@@ -36152,6 +36324,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -37097,6 +37274,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "michaelamoako": {
@@ -38036,6 +38218,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -38981,6 +39168,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "bthng": {
@@ -39920,6 +40112,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -40865,6 +41062,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "stephenrobic": {
@@ -41804,6 +42006,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -42749,6 +42956,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Godwindaniel10": {
@@ -43688,6 +43900,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -44633,6 +44850,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "alexquach": {
@@ -45572,6 +45794,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -46517,6 +46744,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Fyrebright": {
@@ -47456,6 +47688,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -48401,6 +48638,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "shimst3r": {
@@ -49340,6 +49582,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -50285,6 +50532,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "nishit-prasad": {
@@ -51224,6 +51476,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -52169,6 +52426,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "alliesaizan": {
@@ -53108,6 +53370,11 @@
                 "commits": 2
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -54053,6 +54320,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "lgfunderburk": {
@@ -54992,6 +55264,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -55937,6 +56214,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "matthew-so": {
@@ -56876,6 +57158,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -57821,6 +58108,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "bramreinders97": {
@@ -58760,6 +59052,11 @@
                 "commits": 0
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -59705,6 +60002,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2021-12-19 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "SeanMcCarren": {
@@ -60644,6 +60946,11 @@
                 "commits": 1
             },
             "2021-12-12 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2021-12-19 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
