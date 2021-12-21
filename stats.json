@@ -1,5 +1,5 @@
 {
-    "stars": 1143,
+    "stars": 1144,
     "open_issues": 142,
     "closed_issues": 825,
     "created_issues": {
@@ -249,7 +249,7 @@
         "joaquinvanschoren": 1,
         "ojeda-e": 3,
         "Thomasq99": 10,
-        "SeanMcCarren": 27,
+        "SeanMcCarren": 29,
         "bramreinders97": 30,
         "JorickvdHoeven": 1,
         "IanEisenberg": 2,
@@ -262,12 +262,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 577,
-            "uniques": 173
+            "count": 544,
+            "uniques": 156
         },
         "github.com": {
-            "count": 271,
-            "uniques": 73
+            "count": 219,
+            "uniques": 69
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -278,11 +278,11 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 38,
-            "uniques": 18
+            "count": 35,
+            "uniques": 16
         },
         "Bing": {
-            "count": 44,
+            "count": 37,
             "uniques": 16
         },
         "mybuild.microsoft.com": {
@@ -314,8 +314,8 @@
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 7,
-            "uniques": 2
+            "count": 9,
+            "uniques": 3
         },
         "anaconda.com": {
             "count": 9,
@@ -338,8 +338,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 20,
-            "uniques": 8
+            "count": 18,
+            "uniques": 6
         },
         "madewithml.com": {
             "count": 9,
@@ -378,8 +378,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 266,
-            "uniques": 112
+            "count": 235,
+            "uniques": 98
         },
         "kdnuggets.com": {
             "count": 9,
@@ -2762,6 +2762,10 @@
         "2021-12-19 00:00:00": {
             "count": 37,
             "uniques": 3
+        },
+        "2021-12-20 00:00:00": {
+            "count": 82,
+            "uniques": 42
         }
     },
     "views_traffic": {
@@ -5038,8 +5042,8 @@
             "uniques": 64
         },
         "2021-12-07 00:00:00": {
-            "count": 315,
-            "uniques": 90
+            "count": 309,
+            "uniques": 85
         },
         "2021-12-08 00:00:00": {
             "count": 211,
@@ -5088,6 +5092,10 @@
         "2021-12-19 00:00:00": {
             "count": 54,
             "uniques": 20
+        },
+        "2021-12-20 00:00:00": {
+            "count": 232,
+            "uniques": 47
         }
     },
     "contributors": {
@@ -61349,7 +61357,7 @@
     },
     "pull_request_comments": {
         "romanlutz": 1857,
-        "riedgar-ms": 1549,
+        "riedgar-ms": 1552,
         "MiroDudik": 726,
         "wamartin-aml": 14,
         "vingu": 3,
