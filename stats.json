@@ -131,7 +131,7 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 809,
+        "romanlutz": 810,
         "adrinjalali": 322,
         "riedgar-ms": 423,
         "MiroDudik": 191,
@@ -262,12 +262,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 544,
+            "count": 569,
             "uniques": 156
         },
         "github.com": {
-            "count": 219,
-            "uniques": 69
+            "count": 229,
+            "uniques": 62
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -278,11 +278,11 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 35,
+            "count": 34,
             "uniques": 16
         },
         "Bing": {
-            "count": 37,
+            "count": 46,
             "uniques": 16
         },
         "mybuild.microsoft.com": {
@@ -338,8 +338,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 18,
-            "uniques": 6
+            "count": 23,
+            "uniques": 7
         },
         "madewithml.com": {
             "count": 9,
@@ -362,7 +362,7 @@
             "uniques": 16
         },
         "up-for-grabs.net": {
-            "count": 25,
+            "count": 18,
             "uniques": 3
         },
         "ai.googleblog.com": {
@@ -378,8 +378,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 235,
-            "uniques": 98
+            "count": 232,
+            "uniques": 96
         },
         "kdnuggets.com": {
             "count": 9,
@@ -434,7 +434,7 @@
             "uniques": 3
         },
         "teams.microsoft.com": {
-            "count": 19,
+            "count": 21,
             "uniques": 2
         }
     },
@@ -2766,6 +2766,10 @@
         "2021-12-20 00:00:00": {
             "count": 82,
             "uniques": 42
+        },
+        "2021-12-21 00:00:00": {
+            "count": 53,
+            "uniques": 16
         }
     },
     "views_traffic": {
@@ -5046,7 +5050,7 @@
             "uniques": 85
         },
         "2021-12-08 00:00:00": {
-            "count": 211,
+            "count": 210,
             "uniques": 83
         },
         "2021-12-09 00:00:00": {
@@ -5096,6 +5100,10 @@
         "2021-12-20 00:00:00": {
             "count": 232,
             "uniques": 47
+        },
+        "2021-12-21 00:00:00": {
+            "count": 132,
+            "uniques": 55
         }
     },
     "contributors": {
@@ -61357,7 +61365,7 @@
     },
     "pull_request_comments": {
         "romanlutz": 1857,
-        "riedgar-ms": 1552,
+        "riedgar-ms": 1553,
         "MiroDudik": 726,
         "wamartin-aml": 14,
         "vingu": 3,
