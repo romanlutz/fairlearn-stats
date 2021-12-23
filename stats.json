@@ -1,5 +1,5 @@
 {
-    "stars": 1144,
+    "stars": 1145,
     "open_issues": 142,
     "closed_issues": 825,
     "created_issues": {
@@ -262,12 +262,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 569,
-            "uniques": 156
+            "count": 544,
+            "uniques": 150
         },
         "github.com": {
-            "count": 229,
-            "uniques": 62
+            "count": 210,
+            "uniques": 61
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -278,12 +278,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 34,
+            "count": 32,
             "uniques": 16
         },
         "Bing": {
-            "count": 46,
-            "uniques": 16
+            "count": 43,
+            "uniques": 15
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -338,8 +338,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 23,
-            "uniques": 7
+            "count": 24,
+            "uniques": 8
         },
         "madewithml.com": {
             "count": 9,
@@ -362,8 +362,8 @@
             "uniques": 16
         },
         "up-for-grabs.net": {
-            "count": 18,
-            "uniques": 3
+            "count": 19,
+            "uniques": 4
         },
         "ai.googleblog.com": {
             "count": 10,
@@ -378,8 +378,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 232,
-            "uniques": 96
+            "count": 200,
+            "uniques": 94
         },
         "kdnuggets.com": {
             "count": 9,
@@ -2770,6 +2770,10 @@
         "2021-12-21 00:00:00": {
             "count": 53,
             "uniques": 16
+        },
+        "2021-12-22 00:00:00": {
+            "count": 39,
+            "uniques": 4
         }
     },
     "views_traffic": {
@@ -5054,8 +5058,8 @@
             "uniques": 83
         },
         "2021-12-09 00:00:00": {
-            "count": 249,
-            "uniques": 67
+            "count": 244,
+            "uniques": 65
         },
         "2021-12-10 00:00:00": {
             "count": 236,
@@ -5104,6 +5108,10 @@
         "2021-12-21 00:00:00": {
             "count": 132,
             "uniques": 55
+        },
+        "2021-12-22 00:00:00": {
+            "count": 149,
+            "uniques": 50
         }
     },
     "contributors": {
