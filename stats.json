@@ -262,12 +262,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 460,
-            "uniques": 138
+            "count": 434,
+            "uniques": 124
         },
         "github.com": {
-            "count": 195,
-            "uniques": 64
+            "count": 187,
+            "uniques": 56
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -278,8 +278,8 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 36,
-            "uniques": 18
+            "count": 33,
+            "uniques": 16
         },
         "Bing": {
             "count": 28,
@@ -338,8 +338,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 26,
-            "uniques": 8
+            "count": 24,
+            "uniques": 7
         },
         "madewithml.com": {
             "count": 9,
@@ -370,16 +370,16 @@
             "uniques": 6
         },
         "linkedin.com": {
-            "count": 20,
-            "uniques": 13
+            "count": 5,
+            "uniques": 5
         },
         "infoworld.com": {
             "count": 6,
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 234,
-            "uniques": 93
+            "count": 212,
+            "uniques": 80
         },
         "kdnuggets.com": {
             "count": 9,
@@ -2790,6 +2790,10 @@
         "2021-12-25 00:00:00": {
             "count": 38,
             "uniques": 4
+        },
+        "2021-12-26 00:00:00": {
+            "count": 39,
+            "uniques": 4
         }
     },
     "views_traffic": {
@@ -5140,6 +5144,10 @@
         "2021-12-25 00:00:00": {
             "count": 22,
             "uniques": 9
+        },
+        "2021-12-26 00:00:00": {
+            "count": 77,
+            "uniques": 24
         }
     },
     "contributors": {
