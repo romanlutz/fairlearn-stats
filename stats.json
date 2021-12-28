@@ -262,12 +262,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 434,
-            "uniques": 124
+            "count": 342,
+            "uniques": 118
         },
         "github.com": {
-            "count": 187,
-            "uniques": 56
+            "count": 171,
+            "uniques": 48
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -278,12 +278,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 33,
-            "uniques": 16
+            "count": 27,
+            "uniques": 14
         },
         "Bing": {
-            "count": 28,
-            "uniques": 13
+            "count": 27,
+            "uniques": 12
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -302,8 +302,8 @@
             "uniques": 3
         },
         "microsoft.com": {
-            "count": 12,
-            "uniques": 9
+            "count": 5,
+            "uniques": 5
         },
         "pypi.org": {
             "count": 11,
@@ -338,8 +338,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 24,
-            "uniques": 7
+            "count": 29,
+            "uniques": 6
         },
         "madewithml.com": {
             "count": 9,
@@ -378,8 +378,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 212,
-            "uniques": 80
+            "count": 191,
+            "uniques": 74
         },
         "kdnuggets.com": {
             "count": 9,
@@ -440,6 +440,10 @@
         "notebooks.githubusercontent.com": {
             "count": 8,
             "uniques": 4
+        },
+        "datacamp.com": {
+            "count": 6,
+            "uniques": 1
         }
     },
     "clones_traffic": {
@@ -2794,6 +2798,10 @@
         "2021-12-26 00:00:00": {
             "count": 39,
             "uniques": 4
+        },
+        "2021-12-27 00:00:00": {
+            "count": 38,
+            "uniques": 4
         }
     },
     "views_traffic": {
@@ -5098,8 +5106,8 @@
             "uniques": 72
         },
         "2021-12-14 00:00:00": {
-            "count": 253,
-            "uniques": 59
+            "count": 217,
+            "uniques": 58
         },
         "2021-12-15 00:00:00": {
             "count": 296,
@@ -5148,6 +5156,10 @@
         "2021-12-26 00:00:00": {
             "count": 77,
             "uniques": 24
+        },
+        "2021-12-27 00:00:00": {
+            "count": 257,
+            "uniques": 34
         }
     },
     "contributors": {
