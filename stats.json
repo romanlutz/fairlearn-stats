@@ -1,6 +1,6 @@
 {
     "stars": 1147,
-    "open_issues": 142,
+    "open_issues": 143,
     "closed_issues": 825,
     "created_issues": {
         "janhavi13": 5,
@@ -127,7 +127,8 @@
         "millerjohnp": 1,
         "Carlosbogo": 3,
         "Harsha-Nori": 1,
-        "amalik17": 1
+        "amalik17": 1,
+        "LengMei": 1
     },
     "issue_comments": {
         "kevinrobinson": 80,
@@ -262,12 +263,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 306,
-            "uniques": 106
+            "count": 247,
+            "uniques": 95
         },
         "github.com": {
-            "count": 151,
-            "uniques": 45
+            "count": 150,
+            "uniques": 44
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -278,12 +279,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 21,
-            "uniques": 12
+            "count": 22,
+            "uniques": 13
         },
         "Bing": {
-            "count": 27,
-            "uniques": 11
+            "count": 25,
+            "uniques": 10
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -378,8 +379,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 174,
-            "uniques": 66
+            "count": 152,
+            "uniques": 58
         },
         "kdnuggets.com": {
             "count": 9,
@@ -442,12 +443,12 @@
             "uniques": 4
         },
         "datacamp.com": {
-            "count": 6,
+            "count": 7,
             "uniques": 1
         },
         "coursera.org": {
-            "count": 7,
-            "uniques": 6
+            "count": 8,
+            "uniques": 5
         }
     },
     "clones_traffic": {
@@ -2810,6 +2811,10 @@
         "2021-12-28 00:00:00": {
             "count": 37,
             "uniques": 3
+        },
+        "2021-12-29 00:00:00": {
+            "count": 38,
+            "uniques": 4
         }
     },
     "views_traffic": {
@@ -5122,8 +5127,8 @@
             "uniques": 67
         },
         "2021-12-16 00:00:00": {
-            "count": 218,
-            "uniques": 65
+            "count": 212,
+            "uniques": 62
         },
         "2021-12-17 00:00:00": {
             "count": 116,
@@ -5172,6 +5177,10 @@
         "2021-12-28 00:00:00": {
             "count": 222,
             "uniques": 44
+        },
+        "2021-12-29 00:00:00": {
+            "count": 182,
+            "uniques": 34
         }
     },
     "contributors": {
