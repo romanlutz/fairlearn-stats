@@ -1,5 +1,5 @@
 {
-    "stars": 1147,
+    "stars": 1148,
     "open_issues": 143,
     "closed_issues": 825,
     "created_issues": {
@@ -263,12 +263,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 247,
-            "uniques": 95
+            "count": 221,
+            "uniques": 85
         },
         "github.com": {
-            "count": 150,
-            "uniques": 44
+            "count": 155,
+            "uniques": 43
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -279,7 +279,7 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 22,
+            "count": 23,
             "uniques": 13
         },
         "Bing": {
@@ -379,7 +379,7 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 152,
+            "count": 156,
             "uniques": 58
         },
         "kdnuggets.com": {
@@ -395,7 +395,7 @@
             "uniques": 8
         },
         "aiforpeople.org": {
-            "count": 8,
+            "count": 3,
             "uniques": 2
         },
         "venturebeat.com": {
@@ -2815,6 +2815,10 @@
         "2021-12-29 00:00:00": {
             "count": 38,
             "uniques": 4
+        },
+        "2021-12-30 00:00:00": {
+            "count": 40,
+            "uniques": 5
         }
     },
     "views_traffic": {
@@ -5131,8 +5135,8 @@
             "uniques": 62
         },
         "2021-12-17 00:00:00": {
-            "count": 116,
-            "uniques": 47
+            "count": 113,
+            "uniques": 45
         },
         "2021-12-18 00:00:00": {
             "count": 50,
@@ -5180,6 +5184,10 @@
         },
         "2021-12-29 00:00:00": {
             "count": 182,
+            "uniques": 34
+        },
+        "2021-12-30 00:00:00": {
+            "count": 101,
             "uniques": 34
         }
     },
