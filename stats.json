@@ -1,5 +1,5 @@
 {
-    "stars": 1148,
+    "stars": 1149,
     "open_issues": 143,
     "closed_issues": 825,
     "created_issues": {
@@ -263,12 +263,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 230,
-            "uniques": 82
+            "count": 192,
+            "uniques": 76
         },
         "github.com": {
-            "count": 198,
-            "uniques": 47
+            "count": 168,
+            "uniques": 41
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -279,12 +279,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 22,
-            "uniques": 14
+            "count": 25,
+            "uniques": 13
         },
         "Bing": {
-            "count": 30,
-            "uniques": 13
+            "count": 19,
+            "uniques": 12
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -303,8 +303,8 @@
             "uniques": 3
         },
         "microsoft.com": {
-            "count": 18,
-            "uniques": 4
+            "count": 19,
+            "uniques": 5
         },
         "pypi.org": {
             "count": 11,
@@ -339,8 +339,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 21,
-            "uniques": 5
+            "count": 15,
+            "uniques": 4
         },
         "madewithml.com": {
             "count": 9,
@@ -379,8 +379,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 158,
-            "uniques": 56
+            "count": 140,
+            "uniques": 47
         },
         "kdnuggets.com": {
             "count": 9,
@@ -439,16 +439,16 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 8,
-            "uniques": 4
+            "count": 5,
+            "uniques": 3
         },
         "datacamp.com": {
             "count": 8,
             "uniques": 2
         },
         "coursera.org": {
-            "count": 7,
-            "uniques": 4
+            "count": 6,
+            "uniques": 3
         }
     },
     "clones_traffic": {
@@ -2827,6 +2827,10 @@
         "2022-01-01 00:00:00": {
             "count": 36,
             "uniques": 2
+        },
+        "2022-01-02 00:00:00": {
+            "count": 38,
+            "uniques": 3
         }
     },
     "views_traffic": {
@@ -5155,7 +5159,7 @@
             "uniques": 20
         },
         "2021-12-20 00:00:00": {
-            "count": 232,
+            "count": 231,
             "uniques": 47
         },
         "2021-12-21 00:00:00": {
@@ -5205,6 +5209,10 @@
         "2022-01-01 00:00:00": {
             "count": 62,
             "uniques": 26
+        },
+        "2022-01-02 00:00:00": {
+            "count": 31,
+            "uniques": 19
         }
     },
     "contributors": {
