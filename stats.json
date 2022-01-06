@@ -1,5 +1,5 @@
 {
-    "stars": 1151,
+    "stars": 1152,
     "open_issues": 143,
     "closed_issues": 825,
     "created_issues": {
@@ -132,7 +132,7 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 810,
+        "romanlutz": 811,
         "adrinjalali": 322,
         "riedgar-ms": 424,
         "MiroDudik": 191,
@@ -256,19 +256,19 @@
         "IanEisenberg": 2,
         "glemaitre": 1,
         "ameyn21": 1,
-        "millerjohnp": 1,
+        "millerjohnp": 2,
         "Carlosbogo": 3,
         "Vibhaa5": 1,
         "Harsha-Nori": 3
     },
     "top_referrers": {
         "Google": {
-            "count": 180,
-            "uniques": 68
+            "count": 195,
+            "uniques": 74
         },
         "github.com": {
-            "count": 167,
-            "uniques": 40
+            "count": 186,
+            "uniques": 42
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -279,12 +279,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 21,
-            "uniques": 11
+            "count": 25,
+            "uniques": 13
         },
         "Bing": {
-            "count": 16,
-            "uniques": 8
+            "count": 18,
+            "uniques": 9
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -339,8 +339,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 12,
-            "uniques": 2
+            "count": 24,
+            "uniques": 3
         },
         "madewithml.com": {
             "count": 9,
@@ -379,8 +379,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 115,
-            "uniques": 41
+            "count": 71,
+            "uniques": 43
         },
         "kdnuggets.com": {
             "count": 9,
@@ -439,8 +439,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 8,
-            "uniques": 3
+            "count": 9,
+            "uniques": 4
         },
         "datacamp.com": {
             "count": 8,
@@ -451,8 +451,8 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 7,
-            "uniques": 4
+            "count": 8,
+            "uniques": 5
         }
     },
     "clones_traffic": {
@@ -2843,6 +2843,10 @@
         "2022-01-04 00:00:00": {
             "count": 86,
             "uniques": 42
+        },
+        "2022-01-05 00:00:00": {
+            "count": 39,
+            "uniques": 5
         }
     },
     "views_traffic": {
@@ -5233,6 +5237,10 @@
         "2022-01-04 00:00:00": {
             "count": 163,
             "uniques": 64
+        },
+        "2022-01-05 00:00:00": {
+            "count": 247,
+            "uniques": 70
         }
     },
     "contributors": {
