@@ -132,7 +132,7 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 811,
+        "romanlutz": 812,
         "adrinjalali": 322,
         "riedgar-ms": 424,
         "MiroDudik": 191,
@@ -263,12 +263,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 195,
-            "uniques": 74
+            "count": 213,
+            "uniques": 90
         },
         "github.com": {
-            "count": 186,
-            "uniques": 42
+            "count": 192,
+            "uniques": 48
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -283,8 +283,8 @@
             "uniques": 13
         },
         "Bing": {
-            "count": 18,
-            "uniques": 9
+            "count": 24,
+            "uniques": 11
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -339,8 +339,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 24,
-            "uniques": 3
+            "count": 25,
+            "uniques": 4
         },
         "madewithml.com": {
             "count": 9,
@@ -379,7 +379,7 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 71,
+            "count": 72,
             "uniques": 43
         },
         "kdnuggets.com": {
@@ -439,8 +439,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 9,
-            "uniques": 4
+            "count": 10,
+            "uniques": 5
         },
         "datacamp.com": {
             "count": 8,
@@ -451,7 +451,7 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 8,
+            "count": 10,
             "uniques": 5
         }
     },
@@ -2847,6 +2847,10 @@
         "2022-01-05 00:00:00": {
             "count": 39,
             "uniques": 5
+        },
+        "2022-01-06 00:00:00": {
+            "count": 37,
+            "uniques": 3
         }
     },
     "views_traffic": {
@@ -5191,8 +5195,8 @@
             "uniques": 43
         },
         "2021-12-24 00:00:00": {
-            "count": 52,
-            "uniques": 17
+            "count": 50,
+            "uniques": 15
         },
         "2021-12-25 00:00:00": {
             "count": 22,
@@ -5241,6 +5245,10 @@
         "2022-01-05 00:00:00": {
             "count": 247,
             "uniques": 70
+        },
+        "2022-01-06 00:00:00": {
+            "count": 180,
+            "uniques": 54
         }
     },
     "contributors": {
