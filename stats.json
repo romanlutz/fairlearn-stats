@@ -263,12 +263,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 213,
-            "uniques": 90
+            "count": 235,
+            "uniques": 100
         },
         "github.com": {
-            "count": 192,
-            "uniques": 48
+            "count": 208,
+            "uniques": 55
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -279,8 +279,8 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 25,
-            "uniques": 13
+            "count": 28,
+            "uniques": 14
         },
         "Bing": {
             "count": 24,
@@ -339,8 +339,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 25,
-            "uniques": 4
+            "count": 30,
+            "uniques": 5
         },
         "madewithml.com": {
             "count": 9,
@@ -379,8 +379,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 72,
-            "uniques": 43
+            "count": 90,
+            "uniques": 56
         },
         "kdnuggets.com": {
             "count": 9,
@@ -439,8 +439,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 10,
-            "uniques": 5
+            "count": 13,
+            "uniques": 6
         },
         "datacamp.com": {
             "count": 8,
@@ -2851,6 +2851,10 @@
         "2022-01-06 00:00:00": {
             "count": 37,
             "uniques": 3
+        },
+        "2022-01-07 00:00:00": {
+            "count": 51,
+            "uniques": 6
         }
     },
     "views_traffic": {
@@ -5248,6 +5252,10 @@
         },
         "2022-01-06 00:00:00": {
             "count": 180,
+            "uniques": 54
+        },
+        "2022-01-07 00:00:00": {
+            "count": 171,
             "uniques": 54
         }
     },
@@ -62099,7 +62107,7 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1857,
+        "romanlutz": 1858,
         "riedgar-ms": 1556,
         "MiroDudik": 726,
         "wamartin-aml": 14,
