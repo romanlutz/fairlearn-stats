@@ -266,12 +266,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 383,
-            "uniques": 174
+            "count": 364,
+            "uniques": 169
         },
         "github.com": {
-            "count": 214,
-            "uniques": 70
+            "count": 209,
+            "uniques": 69
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -282,12 +282,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 47,
-            "uniques": 16
+            "count": 49,
+            "uniques": 17
         },
         "Bing": {
-            "count": 68,
-            "uniques": 19
+            "count": 66,
+            "uniques": 18
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -306,8 +306,8 @@
             "uniques": 3
         },
         "microsoft.com": {
-            "count": 15,
-            "uniques": 8
+            "count": 14,
+            "uniques": 7
         },
         "pypi.org": {
             "count": 11,
@@ -342,8 +342,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 29,
-            "uniques": 9
+            "count": 32,
+            "uniques": 11
         },
         "madewithml.com": {
             "count": 9,
@@ -366,8 +366,8 @@
             "uniques": 16
         },
         "up-for-grabs.net": {
-            "count": 20,
-            "uniques": 3
+            "count": 23,
+            "uniques": 4
         },
         "ai.googleblog.com": {
             "count": 10,
@@ -382,8 +382,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 189,
-            "uniques": 93
+            "count": 188,
+            "uniques": 92
         },
         "kdnuggets.com": {
             "count": 9,
@@ -442,8 +442,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 27,
-            "uniques": 10
+            "count": 21,
+            "uniques": 9
         },
         "datacamp.com": {
             "count": 8,
@@ -454,8 +454,8 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 57,
-            "uniques": 7
+            "count": 52,
+            "uniques": 4
         }
     },
     "clones_traffic": {
@@ -2890,6 +2890,10 @@
         "2022-01-15 00:00:00": {
             "count": 43,
             "uniques": 7
+        },
+        "2022-01-16 00:00:00": {
+            "count": 39,
+            "uniques": 4
         }
     },
     "views_traffic": {
@@ -5274,8 +5278,8 @@
             "uniques": 18
         },
         "2022-01-03 00:00:00": {
-            "count": 136,
-            "uniques": 47
+            "count": 134,
+            "uniques": 45
         },
         "2022-01-04 00:00:00": {
             "count": 163,
@@ -5324,6 +5328,10 @@
         "2022-01-15 00:00:00": {
             "count": 64,
             "uniques": 30
+        },
+        "2022-01-16 00:00:00": {
+            "count": 89,
+            "uniques": 35
         }
     },
     "contributors": {
