@@ -1,6 +1,6 @@
 {
-    "stars": 1161,
-    "open_issues": 146,
+    "stars": 1162,
+    "open_issues": 147,
     "closed_issues": 825,
     "created_issues": {
         "janhavi13": 5,
@@ -70,7 +70,7 @@
         "mikephelan": 1,
         "lokijota": 1,
         "violazhong": 1,
-        "LeJit": 5,
+        "LeJit": 6,
         "dciborow": 1,
         "wguyman": 1,
         "manasatramalinga": 1,
@@ -134,7 +134,7 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 817,
+        "romanlutz": 821,
         "adrinjalali": 323,
         "riedgar-ms": 424,
         "MiroDudik": 191,
@@ -252,8 +252,8 @@
         "joaquinvanschoren": 1,
         "ojeda-e": 3,
         "Thomasq99": 10,
-        "SeanMcCarren": 33,
-        "bramreinders97": 30,
+        "SeanMcCarren": 34,
+        "bramreinders97": 31,
         "JorickvdHoeven": 1,
         "IanEisenberg": 2,
         "glemaitre": 1,
@@ -266,12 +266,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 370,
-            "uniques": 168
+            "count": 356,
+            "uniques": 163
         },
         "github.com": {
-            "count": 187,
-            "uniques": 62
+            "count": 184,
+            "uniques": 58
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -282,12 +282,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 55,
-            "uniques": 18
+            "count": 51,
+            "uniques": 15
         },
         "Bing": {
-            "count": 70,
-            "uniques": 17
+            "count": 64,
+            "uniques": 15
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -306,8 +306,8 @@
             "uniques": 3
         },
         "microsoft.com": {
-            "count": 14,
-            "uniques": 7
+            "count": 15,
+            "uniques": 8
         },
         "pypi.org": {
             "count": 11,
@@ -382,8 +382,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 193,
-            "uniques": 94
+            "count": 233,
+            "uniques": 102
         },
         "kdnuggets.com": {
             "count": 9,
@@ -442,8 +442,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 20,
-            "uniques": 8
+            "count": 19,
+            "uniques": 7
         },
         "datacamp.com": {
             "count": 8,
@@ -454,7 +454,7 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 51,
+            "count": 49,
             "uniques": 3
         }
     },
@@ -2898,6 +2898,10 @@
         "2022-01-17 00:00:00": {
             "count": 43,
             "uniques": 5
+        },
+        "2022-01-18 00:00:00": {
+            "count": 124,
+            "uniques": 69
         }
     },
     "views_traffic": {
@@ -5290,8 +5294,8 @@
             "uniques": 62
         },
         "2022-01-05 00:00:00": {
-            "count": 247,
-            "uniques": 70
+            "count": 241,
+            "uniques": 66
         },
         "2022-01-06 00:00:00": {
             "count": 180,
@@ -5340,6 +5344,10 @@
         "2022-01-17 00:00:00": {
             "count": 141,
             "uniques": 53
+        },
+        "2022-01-18 00:00:00": {
+            "count": 235,
+            "uniques": 78
         }
     },
     "contributors": {
@@ -62569,8 +62577,8 @@
             "closed": 0
         },
         "LeJit": {
-            "created": 2,
-            "open": 0,
+            "created": 3,
+            "open": 1,
             "closed": 2
         },
         "JEHoctor": {
@@ -62790,12 +62798,12 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1891,
+        "romanlutz": 1907,
         "riedgar-ms": 1560,
         "MiroDudik": 728,
         "wamartin-aml": 14,
         "vingu": 3,
-        "imatiach-msft": 12,
+        "imatiach-msft": 13,
         "bethz": 14,
         "rihorn2": 85,
         "adrinjalali": 467,
@@ -62842,7 +62850,7 @@
         "alliesaizan": 75,
         "IanEisenberg": 3,
         "bramreinders97": 3,
-        "kspieks": 33,
-        "britneyting": 8
+        "kspieks": 37,
+        "britneyting": 9
     }
 }
