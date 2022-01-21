@@ -1,5 +1,5 @@
 {
-    "stars": 1163,
+    "stars": 1165,
     "open_issues": 149,
     "closed_issues": 825,
     "created_issues": {
@@ -266,12 +266,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 362,
+            "count": 357,
             "uniques": 168
         },
         "github.com": {
-            "count": 199,
-            "uniques": 59
+            "count": 240,
+            "uniques": 58
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -282,11 +282,11 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 48,
-            "uniques": 15
+            "count": 47,
+            "uniques": 14
         },
         "Bing": {
-            "count": 64,
+            "count": 58,
             "uniques": 15
         },
         "mybuild.microsoft.com": {
@@ -366,7 +366,7 @@
             "uniques": 16
         },
         "up-for-grabs.net": {
-            "count": 28,
+            "count": 36,
             "uniques": 6
         },
         "ai.googleblog.com": {
@@ -382,8 +382,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 232,
-            "uniques": 103
+            "count": 263,
+            "uniques": 106
         },
         "kdnuggets.com": {
             "count": 9,
@@ -442,8 +442,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 16,
-            "uniques": 6
+            "count": 17,
+            "uniques": 7
         },
         "datacamp.com": {
             "count": 8,
@@ -454,8 +454,8 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 51,
-            "uniques": 3
+            "count": 48,
+            "uniques": 4
         }
     },
     "clones_traffic": {
@@ -2906,6 +2906,10 @@
         "2022-01-19 00:00:00": {
             "count": 93,
             "uniques": 48
+        },
+        "2022-01-20 00:00:00": {
+            "count": 60,
+            "uniques": 22
         }
     },
     "views_traffic": {
@@ -5306,7 +5310,7 @@
             "uniques": 53
         },
         "2022-01-07 00:00:00": {
-            "count": 171,
+            "count": 167,
             "uniques": 54
         },
         "2022-01-08 00:00:00": {
@@ -5314,8 +5318,8 @@
             "uniques": 25
         },
         "2022-01-09 00:00:00": {
-            "count": 71,
-            "uniques": 39
+            "count": 67,
+            "uniques": 37
         },
         "2022-01-10 00:00:00": {
             "count": 225,
@@ -5356,6 +5360,10 @@
         "2022-01-19 00:00:00": {
             "count": 452,
             "uniques": 88
+        },
+        "2022-01-20 00:00:00": {
+            "count": 181,
+            "uniques": 63
         }
     },
     "contributors": {
