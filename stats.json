@@ -266,12 +266,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 357,
-            "uniques": 168
+            "count": 406,
+            "uniques": 180
         },
         "github.com": {
-            "count": 240,
-            "uniques": 58
+            "count": 253,
+            "uniques": 60
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -282,8 +282,8 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 47,
-            "uniques": 14
+            "count": 49,
+            "uniques": 15
         },
         "Bing": {
             "count": 58,
@@ -306,8 +306,8 @@
             "uniques": 3
         },
         "microsoft.com": {
-            "count": 15,
-            "uniques": 8
+            "count": 16,
+            "uniques": 9
         },
         "pypi.org": {
             "count": 11,
@@ -382,8 +382,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 263,
-            "uniques": 106
+            "count": 276,
+            "uniques": 107
         },
         "kdnuggets.com": {
             "count": 9,
@@ -442,8 +442,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 17,
-            "uniques": 7
+            "count": 18,
+            "uniques": 8
         },
         "datacamp.com": {
             "count": 8,
@@ -2910,6 +2910,10 @@
         "2022-01-20 00:00:00": {
             "count": 60,
             "uniques": 22
+        },
+        "2022-01-21 00:00:00": {
+            "count": 37,
+            "uniques": 3
         }
     },
     "views_traffic": {
@@ -5364,6 +5368,10 @@
         "2022-01-20 00:00:00": {
             "count": 181,
             "uniques": 63
+        },
+        "2022-01-21 00:00:00": {
+            "count": 139,
+            "uniques": 55
         }
     },
     "contributors": {
