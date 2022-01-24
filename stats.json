@@ -1,5 +1,5 @@
 {
-    "stars": 1165,
+    "stars": 1166,
     "open_issues": 149,
     "closed_issues": 825,
     "created_issues": {
@@ -266,12 +266,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 438,
+            "count": 432,
             "uniques": 191
         },
         "github.com": {
-            "count": 252,
-            "uniques": 59
+            "count": 236,
+            "uniques": 56
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -282,12 +282,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 56,
-            "uniques": 19
+            "count": 42,
+            "uniques": 18
         },
         "Bing": {
-            "count": 58,
-            "uniques": 15
+            "count": 42,
+            "uniques": 12
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -342,8 +342,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 23,
-            "uniques": 10
+            "count": 22,
+            "uniques": 9
         },
         "madewithml.com": {
             "count": 9,
@@ -366,8 +366,8 @@
             "uniques": 16
         },
         "up-for-grabs.net": {
-            "count": 36,
-            "uniques": 6
+            "count": 18,
+            "uniques": 5
         },
         "ai.googleblog.com": {
             "count": 10,
@@ -382,8 +382,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 298,
-            "uniques": 111
+            "count": 287,
+            "uniques": 106
         },
         "kdnuggets.com": {
             "count": 9,
@@ -394,8 +394,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 14,
-            "uniques": 11
+            "count": 16,
+            "uniques": 13
         },
         "aiforpeople.org": {
             "count": 3,
@@ -454,7 +454,7 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 48,
+            "count": 34,
             "uniques": 4
         }
     },
@@ -2918,6 +2918,10 @@
         "2022-01-22 00:00:00": {
             "count": 37,
             "uniques": 3
+        },
+        "2022-01-23 00:00:00": {
+            "count": 37,
+            "uniques": 3
         }
     },
     "views_traffic": {
@@ -5330,7 +5334,7 @@
             "uniques": 38
         },
         "2022-01-10 00:00:00": {
-            "count": 225,
+            "count": 222,
             "uniques": 62
         },
         "2022-01-11 00:00:00": {
@@ -5380,6 +5384,10 @@
         "2022-01-22 00:00:00": {
             "count": 50,
             "uniques": 27
+        },
+        "2022-01-23 00:00:00": {
+            "count": 58,
+            "uniques": 32
         }
     },
     "contributors": {
