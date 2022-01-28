@@ -1,5 +1,5 @@
 {
-    "stars": 1171,
+    "stars": 1173,
     "open_issues": 147,
     "closed_issues": 830,
     "created_issues": {
@@ -134,7 +134,7 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 830,
+        "romanlutz": 831,
         "adrinjalali": 325,
         "riedgar-ms": 427,
         "MiroDudik": 192,
@@ -252,7 +252,7 @@
         "joaquinvanschoren": 1,
         "ojeda-e": 3,
         "Thomasq99": 10,
-        "SeanMcCarren": 34,
+        "SeanMcCarren": 35,
         "bramreinders97": 32,
         "JorickvdHoeven": 1,
         "IanEisenberg": 2,
@@ -267,12 +267,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 359,
-            "uniques": 173
+            "count": 341,
+            "uniques": 164
         },
         "github.com": {
-            "count": 215,
-            "uniques": 52
+            "count": 217,
+            "uniques": 53
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -283,12 +283,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 45,
+            "count": 49,
             "uniques": 24
         },
         "Bing": {
-            "count": 15,
-            "uniques": 6
+            "count": 12,
+            "uniques": 7
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -343,8 +343,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 18,
-            "uniques": 8
+            "count": 15,
+            "uniques": 6
         },
         "madewithml.com": {
             "count": 9,
@@ -383,8 +383,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 308,
-            "uniques": 106
+            "count": 306,
+            "uniques": 107
         },
         "kdnuggets.com": {
             "count": 9,
@@ -395,8 +395,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 19,
-            "uniques": 16
+            "count": 20,
+            "uniques": 17
         },
         "aiforpeople.org": {
             "count": 3,
@@ -443,8 +443,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 15,
-            "uniques": 6
+            "count": 8,
+            "uniques": 5
         },
         "datacamp.com": {
             "count": 8,
@@ -455,8 +455,8 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 7,
-            "uniques": 4
+            "count": 14,
+            "uniques": 6
         }
     },
     "clones_traffic": {
@@ -2935,6 +2935,10 @@
         "2022-01-26 00:00:00": {
             "count": 110,
             "uniques": 53
+        },
+        "2022-01-27 00:00:00": {
+            "count": 58,
+            "uniques": 17
         }
     },
     "views_traffic": {
@@ -5363,8 +5367,8 @@
             "uniques": 75
         },
         "2022-01-14 00:00:00": {
-            "count": 208,
-            "uniques": 57
+            "count": 206,
+            "uniques": 55
         },
         "2022-01-15 00:00:00": {
             "count": 64,
@@ -5413,6 +5417,10 @@
         "2022-01-26 00:00:00": {
             "count": 302,
             "uniques": 71
+        },
+        "2022-01-27 00:00:00": {
+            "count": 245,
+            "uniques": 67
         }
     },
     "contributors": {
@@ -65102,7 +65110,7 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1908,
+        "romanlutz": 1909,
         "riedgar-ms": 1560,
         "MiroDudik": 728,
         "wamartin-aml": 14,
