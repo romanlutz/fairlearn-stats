@@ -1,6 +1,6 @@
 {
-    "stars": 1173,
-    "open_issues": 147,
+    "stars": 1176,
+    "open_issues": 148,
     "closed_issues": 830,
     "created_issues": {
         "janhavi13": 5,
@@ -8,7 +8,7 @@
         "romanlutz": 268,
         "dgiova": 1,
         "MiroDudik": 25,
-        "riedgar-ms": 275,
+        "riedgar-ms": 276,
         "koaning": 18,
         "wmeints": 1,
         "afehmiu": 1,
@@ -134,9 +134,9 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 831,
+        "romanlutz": 832,
         "adrinjalali": 325,
-        "riedgar-ms": 427,
+        "riedgar-ms": 430,
         "MiroDudik": 192,
         "koaning": 58,
         "hildeweerts": 240,
@@ -252,7 +252,7 @@
         "joaquinvanschoren": 1,
         "ojeda-e": 3,
         "Thomasq99": 10,
-        "SeanMcCarren": 35,
+        "SeanMcCarren": 38,
         "bramreinders97": 32,
         "JorickvdHoeven": 1,
         "IanEisenberg": 2,
@@ -262,17 +262,17 @@
         "Carlosbogo": 3,
         "Vibhaa5": 1,
         "Harsha-Nori": 3,
-        "kspieks": 4,
+        "kspieks": 5,
         "britneyting": 1
     },
     "top_referrers": {
         "Google": {
-            "count": 341,
-            "uniques": 164
+            "count": 349,
+            "uniques": 174
         },
         "github.com": {
-            "count": 217,
-            "uniques": 53
+            "count": 228,
+            "uniques": 54
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -284,7 +284,7 @@
         },
         "docs.microsoft.com": {
             "count": 49,
-            "uniques": 24
+            "uniques": 25
         },
         "Bing": {
             "count": 12,
@@ -343,8 +343,8 @@
             "uniques": 2
         },
         "paperswithcode.com": {
-            "count": 15,
-            "uniques": 6
+            "count": 12,
+            "uniques": 4
         },
         "madewithml.com": {
             "count": 9,
@@ -367,8 +367,8 @@
             "uniques": 16
         },
         "up-for-grabs.net": {
-            "count": 17,
-            "uniques": 4
+            "count": 14,
+            "uniques": 3
         },
         "ai.googleblog.com": {
             "count": 10,
@@ -383,8 +383,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 306,
-            "uniques": 107
+            "count": 325,
+            "uniques": 112
         },
         "kdnuggets.com": {
             "count": 9,
@@ -395,8 +395,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 20,
-            "uniques": 17
+            "count": 21,
+            "uniques": 18
         },
         "aiforpeople.org": {
             "count": 3,
@@ -443,8 +443,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 8,
-            "uniques": 5
+            "count": 9,
+            "uniques": 6
         },
         "datacamp.com": {
             "count": 8,
@@ -2889,8 +2889,8 @@
             "uniques": 3
         },
         "2022-01-15 00:00:00": {
-            "count": 43,
-            "uniques": 7
+            "count": 40,
+            "uniques": 5
         },
         "2022-01-16 00:00:00": {
             "count": 39,
@@ -2939,6 +2939,10 @@
         "2022-01-27 00:00:00": {
             "count": 58,
             "uniques": 17
+        },
+        "2022-01-28 00:00:00": {
+            "count": 109,
+            "uniques": 27
         }
     },
     "views_traffic": {
@@ -5421,6 +5425,10 @@
         "2022-01-27 00:00:00": {
             "count": 245,
             "uniques": 67
+        },
+        "2022-01-28 00:00:00": {
+            "count": 209,
+            "uniques": 54
         }
     },
     "contributors": {
@@ -64724,8 +64732,8 @@
             "closed": 1
         },
         "riedgar-ms": {
-            "created": 204,
-            "open": 3,
+            "created": 205,
+            "open": 4,
             "closed": 201
         },
         "olliethomas": {
@@ -65163,6 +65171,6 @@
         "IanEisenberg": 3,
         "bramreinders97": 8,
         "kspieks": 45,
-        "britneyting": 10
+        "britneyting": 11
     }
 }
