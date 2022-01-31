@@ -1,5 +1,5 @@
 {
-    "stars": 1176,
+    "stars": 1178,
     "open_issues": 149,
     "closed_issues": 830,
     "created_issues": {
@@ -134,7 +134,7 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 832,
+        "romanlutz": 833,
         "adrinjalali": 325,
         "riedgar-ms": 431,
         "MiroDudik": 192,
@@ -267,12 +267,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 346,
-            "uniques": 174
+            "count": 354,
+            "uniques": 165
         },
         "github.com": {
-            "count": 251,
-            "uniques": 58
+            "count": 239,
+            "uniques": 57
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -307,8 +307,8 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 10,
-            "uniques": 7
+            "count": 9,
+            "uniques": 6
         },
         "pypi.org": {
             "count": 11,
@@ -367,8 +367,8 @@
             "uniques": 16
         },
         "up-for-grabs.net": {
-            "count": 12,
-            "uniques": 2
+            "count": 13,
+            "uniques": 3
         },
         "ai.googleblog.com": {
             "count": 10,
@@ -383,8 +383,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 317,
-            "uniques": 109
+            "count": 276,
+            "uniques": 101
         },
         "kdnuggets.com": {
             "count": 9,
@@ -395,8 +395,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 20,
-            "uniques": 18
+            "count": 17,
+            "uniques": 15
         },
         "aiforpeople.org": {
             "count": 3,
@@ -2947,6 +2947,10 @@
         "2022-01-29 00:00:00": {
             "count": 68,
             "uniques": 4
+        },
+        "2022-01-30 00:00:00": {
+            "count": 52,
+            "uniques": 13
         }
     },
     "views_traffic": {
@@ -5387,8 +5391,8 @@
             "uniques": 34
         },
         "2022-01-17 00:00:00": {
-            "count": 141,
-            "uniques": 53
+            "count": 138,
+            "uniques": 50
         },
         "2022-01-18 00:00:00": {
             "count": 235,
@@ -5437,6 +5441,10 @@
         "2022-01-29 00:00:00": {
             "count": 89,
             "uniques": 27
+        },
+        "2022-01-30 00:00:00": {
+            "count": 138,
+            "uniques": 24
         }
     },
     "contributors": {
