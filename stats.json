@@ -1,7 +1,7 @@
 {
     "stars": 1178,
     "open_issues": 149,
-    "closed_issues": 830,
+    "closed_issues": 831,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
@@ -70,7 +70,7 @@
         "mikephelan": 1,
         "lokijota": 1,
         "violazhong": 1,
-        "LeJit": 6,
+        "LeJit": 7,
         "dciborow": 1,
         "wguyman": 1,
         "manasatramalinga": 1,
@@ -134,9 +134,9 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 833,
-        "adrinjalali": 325,
-        "riedgar-ms": 431,
+        "romanlutz": 835,
+        "adrinjalali": 327,
+        "riedgar-ms": 432,
         "MiroDudik": 192,
         "koaning": 58,
         "hildeweerts": 240,
@@ -252,7 +252,7 @@
         "joaquinvanschoren": 1,
         "ojeda-e": 3,
         "Thomasq99": 10,
-        "SeanMcCarren": 38,
+        "SeanMcCarren": 41,
         "bramreinders97": 32,
         "JorickvdHoeven": 1,
         "IanEisenberg": 2,
@@ -267,12 +267,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 354,
-            "uniques": 165
+            "count": 361,
+            "uniques": 160
         },
         "github.com": {
-            "count": 239,
-            "uniques": 57
+            "count": 203,
+            "uniques": 50
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -283,8 +283,8 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 42,
-            "uniques": 24
+            "count": 43,
+            "uniques": 25
         },
         "Bing": {
             "count": 12,
@@ -367,8 +367,8 @@
             "uniques": 16
         },
         "up-for-grabs.net": {
-            "count": 13,
-            "uniques": 3
+            "count": 10,
+            "uniques": 2
         },
         "ai.googleblog.com": {
             "count": 10,
@@ -383,8 +383,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 276,
-            "uniques": 101
+            "count": 308,
+            "uniques": 96
         },
         "kdnuggets.com": {
             "count": 9,
@@ -395,8 +395,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 17,
-            "uniques": 15
+            "count": 16,
+            "uniques": 13
         },
         "aiforpeople.org": {
             "count": 3,
@@ -455,8 +455,8 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 20,
-            "uniques": 7
+            "count": 18,
+            "uniques": 5
         }
     },
     "clones_traffic": {
@@ -2951,6 +2951,10 @@
         "2022-01-30 00:00:00": {
             "count": 52,
             "uniques": 13
+        },
+        "2022-01-31 00:00:00": {
+            "count": 108,
+            "uniques": 51
         }
     },
     "views_traffic": {
@@ -5395,8 +5399,8 @@
             "uniques": 50
         },
         "2022-01-18 00:00:00": {
-            "count": 235,
-            "uniques": 78
+            "count": 230,
+            "uniques": 76
         },
         "2022-01-19 00:00:00": {
             "count": 452,
@@ -5445,6 +5449,10 @@
         "2022-01-30 00:00:00": {
             "count": 138,
             "uniques": 24
+        },
+        "2022-01-31 00:00:00": {
+            "count": 207,
+            "uniques": 65
         }
     },
     "contributors": {
@@ -22052,9 +22060,9 @@
                 "commits": 1
             },
             "2022-01-30 00:00:00": {
-                "additions": 0,
-                "deletions": 0,
-                "commits": 0
+                "additions": 2,
+                "deletions": 1,
+                "commits": 1
             }
         },
         "janhavi13": {
@@ -65054,8 +65062,8 @@
         },
         "riedgar-ms": {
             "created": 205,
-            "open": 4,
-            "closed": 201
+            "open": 3,
+            "closed": 202
         },
         "olliethomas": {
             "created": 1,
@@ -65440,14 +65448,14 @@
     },
     "pull_request_comments": {
         "romanlutz": 1909,
-        "riedgar-ms": 1561,
+        "riedgar-ms": 1568,
         "MiroDudik": 728,
         "wamartin-aml": 14,
         "vingu": 3,
         "imatiach-msft": 14,
         "bethz": 14,
         "rihorn2": 85,
-        "adrinjalali": 468,
+        "adrinjalali": 475,
         "kevinrobinson": 46,
         "mesameki": 8,
         "hannanabdul55": 40,
