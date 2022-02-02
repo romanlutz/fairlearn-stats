@@ -1,5 +1,5 @@
 {
-    "stars": 1178,
+    "stars": 1179,
     "open_issues": 149,
     "closed_issues": 831,
     "created_issues": {
@@ -267,12 +267,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 361,
-            "uniques": 160
+            "count": 370,
+            "uniques": 164
         },
         "github.com": {
-            "count": 203,
-            "uniques": 50
+            "count": 209,
+            "uniques": 49
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -283,11 +283,11 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 43,
-            "uniques": 25
+            "count": 46,
+            "uniques": 27
         },
         "Bing": {
-            "count": 12,
+            "count": 8,
             "uniques": 7
         },
         "mybuild.microsoft.com": {
@@ -307,8 +307,8 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 9,
-            "uniques": 6
+            "count": 13,
+            "uniques": 8
         },
         "pypi.org": {
             "count": 11,
@@ -383,8 +383,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 308,
-            "uniques": 96
+            "count": 267,
+            "uniques": 93
         },
         "kdnuggets.com": {
             "count": 9,
@@ -395,8 +395,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 16,
-            "uniques": 13
+            "count": 15,
+            "uniques": 12
         },
         "aiforpeople.org": {
             "count": 3,
@@ -455,8 +455,8 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 18,
-            "uniques": 5
+            "count": 20,
+            "uniques": 7
         }
     },
     "clones_traffic": {
@@ -2955,6 +2955,10 @@
         "2022-01-31 00:00:00": {
             "count": 108,
             "uniques": 51
+        },
+        "2022-02-01 00:00:00": {
+            "count": 36,
+            "uniques": 2
         }
     },
     "views_traffic": {
@@ -5403,8 +5407,8 @@
             "uniques": 76
         },
         "2022-01-19 00:00:00": {
-            "count": 452,
-            "uniques": 88
+            "count": 445,
+            "uniques": 84
         },
         "2022-01-20 00:00:00": {
             "count": 181,
@@ -5453,6 +5457,10 @@
         "2022-01-31 00:00:00": {
             "count": 207,
             "uniques": 65
+        },
+        "2022-02-01 00:00:00": {
+            "count": 140,
+            "uniques": 39
         }
     },
     "contributors": {
