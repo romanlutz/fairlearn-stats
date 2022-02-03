@@ -1,6 +1,6 @@
 {
     "stars": 1179,
-    "open_issues": 149,
+    "open_issues": 150,
     "closed_issues": 831,
     "created_issues": {
         "janhavi13": 5,
@@ -120,7 +120,7 @@
         "RWilsker": 1,
         "alliesaizan": 4,
         "Thomasq99": 3,
-        "SeanMcCarren": 4,
+        "SeanMcCarren": 5,
         "bramreinders97": 5,
         "IanEisenberg": 1,
         "ameyn21": 1,
@@ -261,18 +261,18 @@
         "millerjohnp": 2,
         "Carlosbogo": 3,
         "Vibhaa5": 1,
-        "Harsha-Nori": 3,
+        "Harsha-Nori": 4,
         "kspieks": 5,
         "britneyting": 1
     },
     "top_referrers": {
         "Google": {
-            "count": 370,
-            "uniques": 164
+            "count": 335,
+            "uniques": 151
         },
         "github.com": {
-            "count": 209,
-            "uniques": 49
+            "count": 208,
+            "uniques": 47
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -283,7 +283,7 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 46,
+            "count": 48,
             "uniques": 27
         },
         "Bing": {
@@ -307,7 +307,7 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 13,
+            "count": 14,
             "uniques": 8
         },
         "pypi.org": {
@@ -383,8 +383,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 267,
-            "uniques": 93
+            "count": 276,
+            "uniques": 96
         },
         "kdnuggets.com": {
             "count": 9,
@@ -443,8 +443,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 11,
-            "uniques": 7
+            "count": 10,
+            "uniques": 6
         },
         "datacamp.com": {
             "count": 8,
@@ -455,8 +455,12 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 20,
+            "count": 23,
             "uniques": 7
+        },
+        "xavierdupre.fr": {
+            "count": 10,
+            "uniques": 2
         }
     },
     "clones_traffic": {
@@ -2959,6 +2963,10 @@
         "2022-02-01 00:00:00": {
             "count": 36,
             "uniques": 2
+        },
+        "2022-02-02 00:00:00": {
+            "count": 49,
+            "uniques": 13
         }
     },
     "views_traffic": {
@@ -5411,8 +5419,8 @@
             "uniques": 84
         },
         "2022-01-20 00:00:00": {
-            "count": 181,
-            "uniques": 63
+            "count": 179,
+            "uniques": 61
         },
         "2022-01-21 00:00:00": {
             "count": 139,
@@ -5461,6 +5469,10 @@
         "2022-02-01 00:00:00": {
             "count": 140,
             "uniques": 39
+        },
+        "2022-02-02 00:00:00": {
+            "count": 237,
+            "uniques": 61
         }
     },
     "contributors": {
@@ -65414,8 +65426,8 @@
             "closed": 1
         },
         "SeanMcCarren": {
-            "created": 4,
-            "open": 3,
+            "created": 5,
+            "open": 4,
             "closed": 1
         },
         "Thomasq99": {
