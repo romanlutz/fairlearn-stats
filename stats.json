@@ -1,13 +1,13 @@
 {
-    "stars": 1179,
-    "open_issues": 150,
+    "stars": 1181,
+    "open_issues": 152,
     "closed_issues": 831,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
         "romanlutz": 268,
         "dgiova": 1,
-        "MiroDudik": 25,
+        "MiroDudik": 26,
         "riedgar-ms": 277,
         "koaning": 18,
         "wmeints": 1,
@@ -35,7 +35,7 @@
         "michael1albq": 1,
         "jingwora": 1,
         "marcscho": 1,
-        "hildeweerts": 37,
+        "hildeweerts": 38,
         "MBrouns": 2,
         "deltasun": 1,
         "yuanshi4": 1,
@@ -135,9 +135,9 @@
     "issue_comments": {
         "kevinrobinson": 80,
         "romanlutz": 835,
-        "adrinjalali": 327,
+        "adrinjalali": 328,
         "riedgar-ms": 432,
-        "MiroDudik": 192,
+        "MiroDudik": 193,
         "koaning": 58,
         "hildeweerts": 240,
         "slbird": 2,
@@ -267,12 +267,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 335,
-            "uniques": 151
+            "count": 358,
+            "uniques": 148
         },
         "github.com": {
-            "count": 208,
-            "uniques": 47
+            "count": 224,
+            "uniques": 49
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -283,12 +283,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 48,
-            "uniques": 27
+            "count": 42,
+            "uniques": 25
         },
         "Bing": {
-            "count": 8,
-            "uniques": 7
+            "count": 13,
+            "uniques": 12
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -383,8 +383,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 276,
-            "uniques": 96
+            "count": 252,
+            "uniques": 91
         },
         "kdnuggets.com": {
             "count": 9,
@@ -395,8 +395,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 15,
-            "uniques": 12
+            "count": 14,
+            "uniques": 11
         },
         "aiforpeople.org": {
             "count": 3,
@@ -443,8 +443,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 10,
-            "uniques": 6
+            "count": 13,
+            "uniques": 7
         },
         "datacamp.com": {
             "count": 8,
@@ -455,7 +455,7 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 23,
+            "count": 24,
             "uniques": 7
         },
         "xavierdupre.fr": {
@@ -2967,6 +2967,10 @@
         "2022-02-02 00:00:00": {
             "count": 49,
             "uniques": 13
+        },
+        "2022-02-03 00:00:00": {
+            "count": 39,
+            "uniques": 5
         }
     },
     "views_traffic": {
@@ -5423,8 +5427,8 @@
             "uniques": 61
         },
         "2022-01-21 00:00:00": {
-            "count": 139,
-            "uniques": 55
+            "count": 131,
+            "uniques": 53
         },
         "2022-01-22 00:00:00": {
             "count": 50,
@@ -5473,6 +5477,10 @@
         "2022-02-02 00:00:00": {
             "count": 237,
             "uniques": 61
+        },
+        "2022-02-03 00:00:00": {
+            "count": 361,
+            "uniques": 88
         }
     },
     "contributors": {
@@ -65468,7 +65476,7 @@
     },
     "pull_request_comments": {
         "romanlutz": 1909,
-        "riedgar-ms": 1568,
+        "riedgar-ms": 1569,
         "MiroDudik": 728,
         "wamartin-aml": 14,
         "vingu": 3,
