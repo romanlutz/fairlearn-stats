@@ -1,5 +1,5 @@
 {
-    "stars": 1185,
+    "stars": 1187,
     "open_issues": 152,
     "closed_issues": 831,
     "created_issues": {
@@ -267,11 +267,11 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 412,
-            "uniques": 170
+            "count": 407,
+            "uniques": 164
         },
         "github.com": {
-            "count": 265,
+            "count": 257,
             "uniques": 59
         },
         "fairlearn.github.io": {
@@ -283,11 +283,11 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 49,
-            "uniques": 27
+            "count": 44,
+            "uniques": 24
         },
         "Bing": {
-            "count": 15,
+            "count": 16,
             "uniques": 14
         },
         "mybuild.microsoft.com": {
@@ -307,8 +307,8 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 14,
-            "uniques": 9
+            "count": 15,
+            "uniques": 10
         },
         "pypi.org": {
             "count": 11,
@@ -383,8 +383,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 358,
-            "uniques": 104
+            "count": 329,
+            "uniques": 94
         },
         "kdnuggets.com": {
             "count": 9,
@@ -395,8 +395,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 13,
-            "uniques": 10
+            "count": 12,
+            "uniques": 9
         },
         "aiforpeople.org": {
             "count": 3,
@@ -443,8 +443,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 22,
-            "uniques": 10
+            "count": 19,
+            "uniques": 9
         },
         "datacamp.com": {
             "count": 8,
@@ -455,7 +455,7 @@
             "uniques": 4
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 25,
+            "count": 22,
             "uniques": 7
         },
         "xavierdupre.fr": {
@@ -2979,6 +2979,10 @@
         "2022-02-05 00:00:00": {
             "count": 37,
             "uniques": 3
+        },
+        "2022-02-06 00:00:00": {
+            "count": 36,
+            "uniques": 2
         }
     },
     "views_traffic": {
@@ -5447,8 +5451,8 @@
             "uniques": 32
         },
         "2022-01-24 00:00:00": {
-            "count": 227,
-            "uniques": 73
+            "count": 218,
+            "uniques": 71
         },
         "2022-01-25 00:00:00": {
             "count": 316,
@@ -5497,6 +5501,10 @@
         "2022-02-05 00:00:00": {
             "count": 54,
             "uniques": 28
+        },
+        "2022-02-06 00:00:00": {
+            "count": 79,
+            "uniques": 37
         }
     },
     "contributors": {
