@@ -1,5 +1,5 @@
 {
-    "stars": 1187,
+    "stars": 1186,
     "open_issues": 152,
     "closed_issues": 831,
     "created_issues": {
@@ -134,7 +134,7 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 835,
+        "romanlutz": 837,
         "adrinjalali": 328,
         "riedgar-ms": 432,
         "MiroDudik": 193,
@@ -253,7 +253,7 @@
         "ojeda-e": 3,
         "Thomasq99": 10,
         "SeanMcCarren": 41,
-        "bramreinders97": 32,
+        "bramreinders97": 33,
         "JorickvdHoeven": 1,
         "IanEisenberg": 2,
         "glemaitre": 1,
@@ -263,15 +263,16 @@
         "Vibhaa5": 1,
         "Harsha-Nori": 5,
         "kspieks": 5,
-        "britneyting": 1
+        "britneyting": 1,
+        "rensoostenbach": 2
     },
     "top_referrers": {
         "Google": {
-            "count": 407,
-            "uniques": 164
+            "count": 392,
+            "uniques": 151
         },
         "github.com": {
-            "count": 257,
+            "count": 239,
             "uniques": 59
         },
         "fairlearn.github.io": {
@@ -283,12 +284,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 44,
-            "uniques": 24
+            "count": 35,
+            "uniques": 19
         },
         "Bing": {
-            "count": 16,
-            "uniques": 14
+            "count": 15,
+            "uniques": 13
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -383,8 +384,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 329,
-            "uniques": 94
+            "count": 298,
+            "uniques": 92
         },
         "kdnuggets.com": {
             "count": 9,
@@ -395,8 +396,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 12,
-            "uniques": 9
+            "count": 11,
+            "uniques": 8
         },
         "aiforpeople.org": {
             "count": 3,
@@ -451,11 +452,11 @@
             "uniques": 2
         },
         "coursera.org": {
-            "count": 7,
-            "uniques": 4
+            "count": 8,
+            "uniques": 7
         },
         "staticsint.teams.cdn.office.net": {
-            "count": 22,
+            "count": 21,
             "uniques": 7
         },
         "xavierdupre.fr": {
@@ -2983,6 +2984,10 @@
         "2022-02-06 00:00:00": {
             "count": 36,
             "uniques": 2
+        },
+        "2022-02-07 00:00:00": {
+            "count": 41,
+            "uniques": 4
         }
     },
     "views_traffic": {
@@ -5455,8 +5460,8 @@
             "uniques": 71
         },
         "2022-01-25 00:00:00": {
-            "count": 316,
-            "uniques": 89
+            "count": 305,
+            "uniques": 86
         },
         "2022-01-26 00:00:00": {
             "count": 302,
@@ -5505,6 +5510,10 @@
         "2022-02-06 00:00:00": {
             "count": 79,
             "uniques": 37
+        },
+        "2022-02-07 00:00:00": {
+            "count": 335,
+            "uniques": 76
         }
     },
     "contributors": {
