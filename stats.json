@@ -1,6 +1,6 @@
 {
-    "stars": 1186,
-    "open_issues": 152,
+    "stars": 1188,
+    "open_issues": 154,
     "closed_issues": 831,
     "created_issues": {
         "janhavi13": 5,
@@ -130,13 +130,14 @@
         "amalik17": 1,
         "LengMei": 1,
         "kspieks": 2,
-        "britneyting": 2
+        "britneyting": 2,
+        "rensoostenbach": 2
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 837,
+        "romanlutz": 838,
         "adrinjalali": 328,
-        "riedgar-ms": 432,
+        "riedgar-ms": 433,
         "MiroDudik": 193,
         "koaning": 58,
         "hildeweerts": 240,
@@ -264,7 +265,8 @@
         "Harsha-Nori": 5,
         "kspieks": 5,
         "britneyting": 1,
-        "rensoostenbach": 2
+        "rensoostenbach": 2,
+        "charlenemariscal": 1
     },
     "top_referrers": {
         "Google": {
@@ -2942,8 +2944,8 @@
             "uniques": 53
         },
         "2022-01-27 00:00:00": {
-            "count": 58,
-            "uniques": 17
+            "count": 57,
+            "uniques": 16
         },
         "2022-01-28 00:00:00": {
             "count": 109,
@@ -2992,6 +2994,10 @@
         "2022-02-08 00:00:00": {
             "count": 40,
             "uniques": 6
+        },
+        "2022-02-09 00:00:00": {
+            "count": 31,
+            "uniques": 8
         }
     },
     "views_traffic": {
@@ -5472,8 +5478,8 @@
             "uniques": 69
         },
         "2022-01-27 00:00:00": {
-            "count": 245,
-            "uniques": 67
+            "count": 241,
+            "uniques": 64
         },
         "2022-01-28 00:00:00": {
             "count": 209,
@@ -5520,8 +5526,12 @@
             "uniques": 76
         },
         "2022-02-08 00:00:00": {
-            "count": 265,
-            "uniques": 72
+            "count": 67,
+            "uniques": 29
+        },
+        "2022-02-09 00:00:00": {
+            "count": 287,
+            "uniques": 67
         }
     },
     "contributors": {
@@ -65818,10 +65828,15 @@
             "created": 2,
             "open": 1,
             "closed": 1
+        },
+        "rensoostenbach": {
+            "created": 2,
+            "open": 2,
+            "closed": 0
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1909,
+        "romanlutz": 1917,
         "riedgar-ms": 1569,
         "MiroDudik": 728,
         "wamartin-aml": 14,
@@ -65874,6 +65889,7 @@
         "IanEisenberg": 3,
         "bramreinders97": 8,
         "kspieks": 45,
-        "britneyting": 11
+        "britneyting": 11,
+        "rensoostenbach": 1
     }
 }
