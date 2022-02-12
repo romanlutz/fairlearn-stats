@@ -1,5 +1,5 @@
 {
-    "stars": 1189,
+    "stars": 1190,
     "open_issues": 154,
     "closed_issues": 831,
     "created_issues": {
@@ -135,12 +135,12 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 839,
+        "romanlutz": 840,
         "adrinjalali": 328,
-        "riedgar-ms": 434,
+        "riedgar-ms": 435,
         "MiroDudik": 193,
         "koaning": 58,
-        "hildeweerts": 240,
+        "hildeweerts": 241,
         "slbird": 2,
         "wmeints": 1,
         "laurenpendo": 1,
@@ -270,12 +270,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 506,
-            "uniques": 181
+            "count": 488,
+            "uniques": 186
         },
         "github.com": {
-            "count": 265,
-            "uniques": 71
+            "count": 303,
+            "uniques": 73
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -286,8 +286,8 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 40,
-            "uniques": 26
+            "count": 41,
+            "uniques": 27
         },
         "Bing": {
             "count": 26,
@@ -314,16 +314,16 @@
             "uniques": 13
         },
         "pypi.org": {
-            "count": 11,
-            "uniques": 8
+            "count": 15,
+            "uniques": 10
         },
         "gitter.im": {
             "count": 6,
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 10,
-            "uniques": 4
+            "count": 11,
+            "uniques": 6
         },
         "anaconda.com": {
             "count": 9,
@@ -342,7 +342,7 @@
             "uniques": 5
         },
         "statics.teams.cdn.office.net": {
-            "count": 32,
+            "count": 40,
             "uniques": 3
         },
         "paperswithcode.com": {
@@ -386,8 +386,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 318,
-            "uniques": 104
+            "count": 339,
+            "uniques": 107
         },
         "kdnuggets.com": {
             "count": 9,
@@ -3002,6 +3002,10 @@
         "2022-02-10 00:00:00": {
             "count": 22,
             "uniques": 6
+        },
+        "2022-02-11 00:00:00": {
+            "count": 5,
+            "uniques": 1
         }
     },
     "views_traffic": {
@@ -5490,8 +5494,8 @@
             "uniques": 50
         },
         "2022-01-29 00:00:00": {
-            "count": 89,
-            "uniques": 27
+            "count": 86,
+            "uniques": 26
         },
         "2022-01-30 00:00:00": {
             "count": 138,
@@ -5538,8 +5542,12 @@
             "uniques": 77
         },
         "2022-02-10 00:00:00": {
-            "count": 315,
-            "uniques": 85
+            "count": 459,
+            "uniques": 92
+        },
+        "2022-02-11 00:00:00": {
+            "count": 151,
+            "uniques": 54
         }
     },
     "contributors": {
@@ -65844,7 +65852,7 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1922,
+        "romanlutz": 1925,
         "riedgar-ms": 1569,
         "MiroDudik": 728,
         "wamartin-aml": 14,
