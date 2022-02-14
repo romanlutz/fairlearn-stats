@@ -270,12 +270,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 476,
-            "uniques": 191
+            "count": 454,
+            "uniques": 182
         },
         "github.com": {
-            "count": 332,
-            "uniques": 78
+            "count": 300,
+            "uniques": 82
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -286,8 +286,8 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 44,
-            "uniques": 27
+            "count": 42,
+            "uniques": 26
         },
         "Bing": {
             "count": 29,
@@ -310,12 +310,12 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 26,
-            "uniques": 13
+            "count": 23,
+            "uniques": 12
         },
         "pypi.org": {
-            "count": 16,
-            "uniques": 11
+            "count": 18,
+            "uniques": 13
         },
         "gitter.im": {
             "count": 6,
@@ -386,8 +386,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 307,
-            "uniques": 102
+            "count": 302,
+            "uniques": 98
         },
         "kdnuggets.com": {
             "count": 9,
@@ -446,8 +446,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 22,
-            "uniques": 9
+            "count": 21,
+            "uniques": 8
         },
         "datacamp.com": {
             "count": 8,
@@ -3010,6 +3010,10 @@
         "2022-02-12 00:00:00": {
             "count": 6,
             "uniques": 2
+        },
+        "2022-02-13 00:00:00": {
+            "count": 6,
+            "uniques": 2
         }
     },
     "views_traffic": {
@@ -5556,6 +5560,10 @@
         "2022-02-12 00:00:00": {
             "count": 78,
             "uniques": 27
+        },
+        "2022-02-13 00:00:00": {
+            "count": 71,
+            "uniques": 31
         }
     },
     "contributors": {
