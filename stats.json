@@ -1,6 +1,6 @@
 {
-    "stars": 1190,
-    "open_issues": 154,
+    "stars": 1191,
+    "open_issues": 161,
     "closed_issues": 831,
     "created_issues": {
         "janhavi13": 5,
@@ -35,7 +35,7 @@
         "michael1albq": 1,
         "jingwora": 1,
         "marcscho": 1,
-        "hildeweerts": 38,
+        "hildeweerts": 45,
         "MBrouns": 2,
         "deltasun": 1,
         "yuanshi4": 1,
@@ -136,11 +136,11 @@
     "issue_comments": {
         "kevinrobinson": 80,
         "romanlutz": 840,
-        "adrinjalali": 328,
-        "riedgar-ms": 435,
+        "adrinjalali": 329,
+        "riedgar-ms": 440,
         "MiroDudik": 193,
         "koaning": 58,
-        "hildeweerts": 241,
+        "hildeweerts": 242,
         "slbird": 2,
         "wmeints": 1,
         "laurenpendo": 1,
@@ -241,7 +241,7 @@
         "Fyrebright": 2,
         "Patil2099": 1,
         "matthew-so": 6,
-        "bram49": 15,
+        "bram49": 17,
         "nishit-prasad": 2,
         "lesteve": 1,
         "svenkat19": 3,
@@ -253,7 +253,7 @@
         "joaquinvanschoren": 1,
         "ojeda-e": 3,
         "Thomasq99": 10,
-        "SeanMcCarren": 41,
+        "SeanMcCarren": 42,
         "bramreinders97": 34,
         "JorickvdHoeven": 1,
         "IanEisenberg": 2,
@@ -265,17 +265,17 @@
         "Harsha-Nori": 5,
         "kspieks": 5,
         "britneyting": 1,
-        "rensoostenbach": 2,
+        "rensoostenbach": 3,
         "charlenemariscal": 1
     },
     "top_referrers": {
         "Google": {
-            "count": 454,
-            "uniques": 182
+            "count": 431,
+            "uniques": 187
         },
         "github.com": {
-            "count": 300,
-            "uniques": 82
+            "count": 291,
+            "uniques": 87
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -286,12 +286,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 42,
-            "uniques": 26
+            "count": 43,
+            "uniques": 24
         },
         "Bing": {
             "count": 29,
-            "uniques": 19
+            "uniques": 15
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -310,12 +310,12 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 23,
-            "uniques": 12
+            "count": 21,
+            "uniques": 11
         },
         "pypi.org": {
-            "count": 18,
-            "uniques": 13
+            "count": 14,
+            "uniques": 10
         },
         "gitter.im": {
             "count": 6,
@@ -386,8 +386,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 302,
-            "uniques": 98
+            "count": 317,
+            "uniques": 99
         },
         "kdnuggets.com": {
             "count": 9,
@@ -398,8 +398,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 12,
-            "uniques": 5
+            "count": 14,
+            "uniques": 7
         },
         "aiforpeople.org": {
             "count": 3,
@@ -446,8 +446,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 21,
-            "uniques": 8
+            "count": 24,
+            "uniques": 9
         },
         "datacamp.com": {
             "count": 8,
@@ -3014,6 +3014,14 @@
         "2022-02-13 00:00:00": {
             "count": 6,
             "uniques": 2
+        },
+        "2022-02-14 00:00:00": {
+            "count": 12,
+            "uniques": 3
+        },
+        "2022-02-15 00:00:00": {
+            "count": 20,
+            "uniques": 15
         }
     },
     "views_traffic": {
@@ -5518,8 +5526,8 @@
             "uniques": 39
         },
         "2022-02-02 00:00:00": {
-            "count": 237,
-            "uniques": 61
+            "count": 233,
+            "uniques": 59
         },
         "2022-02-03 00:00:00": {
             "count": 361,
@@ -5550,8 +5558,8 @@
             "uniques": 77
         },
         "2022-02-10 00:00:00": {
-            "count": 315,
-            "uniques": 85
+            "count": 459,
+            "uniques": 92
         },
         "2022-02-11 00:00:00": {
             "count": 151,
@@ -5564,6 +5572,14 @@
         "2022-02-13 00:00:00": {
             "count": 71,
             "uniques": 31
+        },
+        "2022-02-14 00:00:00": {
+            "count": 289,
+            "uniques": 80
+        },
+        "2022-02-15 00:00:00": {
+            "count": 387,
+            "uniques": 90
         }
     },
     "contributors": {
@@ -66227,6 +66243,6 @@
         "bramreinders97": 11,
         "kspieks": 45,
         "britneyting": 11,
-        "rensoostenbach": 2
+        "rensoostenbach": 3
     }
 }
