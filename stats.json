@@ -1,5 +1,5 @@
 {
-    "stars": 1191,
+    "stars": 1193,
     "open_issues": 161,
     "closed_issues": 831,
     "created_issues": {
@@ -253,7 +253,7 @@
         "joaquinvanschoren": 1,
         "ojeda-e": 3,
         "Thomasq99": 10,
-        "SeanMcCarren": 42,
+        "SeanMcCarren": 43,
         "bramreinders97": 34,
         "JorickvdHoeven": 1,
         "IanEisenberg": 2,
@@ -270,12 +270,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 431,
+            "count": 418,
             "uniques": 187
         },
         "github.com": {
-            "count": 291,
-            "uniques": 87
+            "count": 315,
+            "uniques": 79
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -286,8 +286,8 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 43,
-            "uniques": 24
+            "count": 48,
+            "uniques": 25
         },
         "Bing": {
             "count": 29,
@@ -310,12 +310,12 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 21,
-            "uniques": 11
+            "count": 20,
+            "uniques": 10
         },
         "pypi.org": {
-            "count": 14,
-            "uniques": 10
+            "count": 12,
+            "uniques": 9
         },
         "gitter.im": {
             "count": 6,
@@ -386,8 +386,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 317,
-            "uniques": 99
+            "count": 263,
+            "uniques": 98
         },
         "kdnuggets.com": {
             "count": 9,
@@ -398,8 +398,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 14,
-            "uniques": 7
+            "count": 16,
+            "uniques": 8
         },
         "aiforpeople.org": {
             "count": 3,
@@ -3022,6 +3022,10 @@
         "2022-02-15 00:00:00": {
             "count": 20,
             "uniques": 15
+        },
+        "2022-02-16 00:00:00": {
+            "count": 69,
+            "uniques": 20
         }
     },
     "views_traffic": {
@@ -5530,8 +5534,8 @@
             "uniques": 59
         },
         "2022-02-03 00:00:00": {
-            "count": 361,
-            "uniques": 88
+            "count": 355,
+            "uniques": 86
         },
         "2022-02-04 00:00:00": {
             "count": 178,
@@ -5558,8 +5562,8 @@
             "uniques": 77
         },
         "2022-02-10 00:00:00": {
-            "count": 459,
-            "uniques": 92
+            "count": 315,
+            "uniques": 85
         },
         "2022-02-11 00:00:00": {
             "count": 151,
@@ -5580,6 +5584,10 @@
         "2022-02-15 00:00:00": {
             "count": 387,
             "uniques": 90
+        },
+        "2022-02-16 00:00:00": {
+            "count": 326,
+            "uniques": 83
         }
     },
     "contributors": {
