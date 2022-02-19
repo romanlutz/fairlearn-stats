@@ -270,12 +270,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 432,
-            "uniques": 194
+            "count": 466,
+            "uniques": 210
         },
         "github.com": {
-            "count": 349,
-            "uniques": 80
+            "count": 374,
+            "uniques": 84
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -286,8 +286,8 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 42,
-            "uniques": 26
+            "count": 46,
+            "uniques": 27
         },
         "Bing": {
             "count": 39,
@@ -310,20 +310,20 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 18,
-            "uniques": 10
+            "count": 17,
+            "uniques": 9
         },
         "pypi.org": {
-            "count": 16,
-            "uniques": 11
+            "count": 38,
+            "uniques": 14
         },
         "gitter.im": {
             "count": 6,
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 18,
-            "uniques": 6
+            "count": 20,
+            "uniques": 7
         },
         "anaconda.com": {
             "count": 9,
@@ -386,8 +386,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 255,
-            "uniques": 109
+            "count": 273,
+            "uniques": 117
         },
         "kdnuggets.com": {
             "count": 9,
@@ -3030,6 +3030,10 @@
         "2022-02-17 00:00:00": {
             "count": 62,
             "uniques": 24
+        },
+        "2022-02-18 00:00:00": {
+            "count": 112,
+            "uniques": 61
         }
     },
     "views_traffic": {
@@ -5546,8 +5550,8 @@
             "uniques": 65
         },
         "2022-02-05 00:00:00": {
-            "count": 54,
-            "uniques": 28
+            "count": 52,
+            "uniques": 26
         },
         "2022-02-06 00:00:00": {
             "count": 79,
@@ -5596,6 +5600,10 @@
         "2022-02-17 00:00:00": {
             "count": 373,
             "uniques": 89
+        },
+        "2022-02-18 00:00:00": {
+            "count": 170,
+            "uniques": 63
         }
     },
     "contributors": {
@@ -66206,7 +66214,7 @@
     },
     "pull_request_comments": {
         "romanlutz": 1925,
-        "riedgar-ms": 1569,
+        "riedgar-ms": 1573,
         "MiroDudik": 728,
         "wamartin-aml": 14,
         "vingu": 3,
