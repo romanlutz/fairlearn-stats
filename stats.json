@@ -270,12 +270,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 468,
-            "uniques": 219
+            "count": 450,
+            "uniques": 213
         },
         "github.com": {
-            "count": 392,
-            "uniques": 87
+            "count": 367,
+            "uniques": 84
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -286,12 +286,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 46,
-            "uniques": 27
+            "count": 45,
+            "uniques": 24
         },
         "Bing": {
-            "count": 49,
-            "uniques": 19
+            "count": 46,
+            "uniques": 18
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -310,20 +310,20 @@
             "uniques": 4
         },
         "microsoft.com": {
-            "count": 21,
-            "uniques": 11
+            "count": 22,
+            "uniques": 12
         },
         "pypi.org": {
-            "count": 38,
-            "uniques": 14
+            "count": 37,
+            "uniques": 13
         },
         "gitter.im": {
             "count": 6,
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 20,
-            "uniques": 7
+            "count": 15,
+            "uniques": 6
         },
         "anaconda.com": {
             "count": 9,
@@ -342,8 +342,8 @@
             "uniques": 5
         },
         "statics.teams.cdn.office.net": {
-            "count": 40,
-            "uniques": 3
+            "count": 15,
+            "uniques": 1
         },
         "paperswithcode.com": {
             "count": 11,
@@ -386,8 +386,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 276,
-            "uniques": 122
+            "count": 266,
+            "uniques": 117
         },
         "kdnuggets.com": {
             "count": 9,
@@ -398,8 +398,8 @@
             "uniques": 5
         },
         "towardsdatascience.com": {
-            "count": 16,
-            "uniques": 8
+            "count": 14,
+            "uniques": 6
         },
         "aiforpeople.org": {
             "count": 3,
@@ -3038,6 +3038,10 @@
         "2022-02-19 00:00:00": {
             "count": 40,
             "uniques": 6
+        },
+        "2022-02-20 00:00:00": {
+            "count": 38,
+            "uniques": 4
         }
     },
     "views_traffic": {
@@ -5562,8 +5566,8 @@
             "uniques": 37
         },
         "2022-02-07 00:00:00": {
-            "count": 335,
-            "uniques": 76
+            "count": 329,
+            "uniques": 73
         },
         "2022-02-08 00:00:00": {
             "count": 265,
@@ -5612,6 +5616,10 @@
         "2022-02-19 00:00:00": {
             "count": 60,
             "uniques": 30
+        },
+        "2022-02-20 00:00:00": {
+            "count": 134,
+            "uniques": 43
         }
     },
     "contributors": {
