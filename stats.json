@@ -1,6 +1,6 @@
 {
-    "stars": 1198,
-    "open_issues": 162,
+    "stars": 1200,
+    "open_issues": 163,
     "closed_issues": 831,
     "created_issues": {
         "janhavi13": 5,
@@ -118,7 +118,7 @@
         "candalfigomoro": 1,
         "sushmitaS16": 1,
         "RWilsker": 1,
-        "alliesaizan": 4,
+        "alliesaizan": 5,
         "Thomasq99": 3,
         "SeanMcCarren": 5,
         "bramreinders97": 5,
@@ -270,12 +270,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 450,
-            "uniques": 213
+            "count": 438,
+            "uniques": 208
         },
         "github.com": {
-            "count": 367,
-            "uniques": 84
+            "count": 357,
+            "uniques": 83
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -286,12 +286,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 45,
-            "uniques": 24
+            "count": 41,
+            "uniques": 21
         },
         "Bing": {
-            "count": 46,
-            "uniques": 18
+            "count": 35,
+            "uniques": 15
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -314,8 +314,8 @@
             "uniques": 12
         },
         "pypi.org": {
-            "count": 37,
-            "uniques": 13
+            "count": 34,
+            "uniques": 11
         },
         "gitter.im": {
             "count": 6,
@@ -387,7 +387,7 @@
         },
         "fairlearn.org": {
             "count": 266,
-            "uniques": 117
+            "uniques": 114
         },
         "kdnuggets.com": {
             "count": 9,
@@ -446,8 +446,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 17,
-            "uniques": 8
+            "count": 13,
+            "uniques": 7
         },
         "datacamp.com": {
             "count": 8,
@@ -464,6 +464,10 @@
         "xavierdupre.fr": {
             "count": 10,
             "uniques": 2
+        },
+        "ecosia.org": {
+            "count": 14,
+            "uniques": 3
         }
     },
     "clones_traffic": {
@@ -3042,6 +3046,10 @@
         "2022-02-20 00:00:00": {
             "count": 38,
             "uniques": 4
+        },
+        "2022-02-21 00:00:00": {
+            "count": 54,
+            "uniques": 17
         }
     },
     "views_traffic": {
@@ -5570,16 +5578,16 @@
             "uniques": 73
         },
         "2022-02-08 00:00:00": {
-            "count": 265,
-            "uniques": 72
+            "count": 262,
+            "uniques": 70
         },
         "2022-02-09 00:00:00": {
             "count": 316,
             "uniques": 77
         },
         "2022-02-10 00:00:00": {
-            "count": 315,
-            "uniques": 85
+            "count": 459,
+            "uniques": 92
         },
         "2022-02-11 00:00:00": {
             "count": 151,
@@ -5620,6 +5628,10 @@
         "2022-02-20 00:00:00": {
             "count": 134,
             "uniques": 43
+        },
+        "2022-02-21 00:00:00": {
+            "count": 193,
+            "uniques": 70
         }
     },
     "contributors": {
@@ -66478,8 +66490,8 @@
             "closed": 1
         },
         "alliesaizan": {
-            "created": 4,
-            "open": 0,
+            "created": 5,
+            "open": 1,
             "closed": 4
         },
         "AndreFCruz": {
