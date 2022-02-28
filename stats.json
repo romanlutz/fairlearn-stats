@@ -1,7 +1,7 @@
 {
-    "stars": 1205,
-    "open_issues": 164,
-    "closed_issues": 833,
+    "stars": 1206,
+    "open_issues": 165,
+    "closed_issues": 834,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
@@ -118,7 +118,7 @@
         "candalfigomoro": 1,
         "sushmitaS16": 1,
         "RWilsker": 1,
-        "alliesaizan": 5,
+        "alliesaizan": 7,
         "Thomasq99": 3,
         "SeanMcCarren": 5,
         "bramreinders97": 5,
@@ -135,7 +135,7 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 840,
+        "romanlutz": 841,
         "adrinjalali": 337,
         "riedgar-ms": 445,
         "MiroDudik": 193,
@@ -270,12 +270,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 530,
-            "uniques": 238
+            "count": 497,
+            "uniques": 224
         },
         "github.com": {
-            "count": 456,
-            "uniques": 92
+            "count": 446,
+            "uniques": 86
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -286,12 +286,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 69,
-            "uniques": 31
+            "count": 62,
+            "uniques": 30
         },
         "Bing": {
-            "count": 55,
-            "uniques": 24
+            "count": 50,
+            "uniques": 22
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -322,7 +322,7 @@
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 19,
+            "count": 23,
             "uniques": 9
         },
         "anaconda.com": {
@@ -386,8 +386,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 360,
-            "uniques": 129
+            "count": 311,
+            "uniques": 117
         },
         "kdnuggets.com": {
             "count": 9,
@@ -446,8 +446,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 25,
-            "uniques": 11
+            "count": 18,
+            "uniques": 8
         },
         "datacamp.com": {
             "count": 8,
@@ -466,8 +466,8 @@
             "uniques": 2
         },
         "ecosia.org": {
-            "count": 14,
-            "uniques": 3
+            "count": 13,
+            "uniques": 2
         }
     },
     "clones_traffic": {
@@ -3070,6 +3070,10 @@
         "2022-02-26 00:00:00": {
             "count": 72,
             "uniques": 31
+        },
+        "2022-02-27 00:00:00": {
+            "count": 84,
+            "uniques": 40
         }
     },
     "views_traffic": {
@@ -5672,6 +5676,10 @@
         "2022-02-26 00:00:00": {
             "count": 64,
             "uniques": 26
+        },
+        "2022-02-27 00:00:00": {
+            "count": 78,
+            "uniques": 30
         }
     },
     "contributors": {
@@ -67832,9 +67840,9 @@
             "closed": 1
         },
         "alliesaizan": {
-            "created": 5,
-            "open": 1,
-            "closed": 4
+            "created": 7,
+            "open": 2,
+            "closed": 5
         },
         "AndreFCruz": {
             "created": 1,
