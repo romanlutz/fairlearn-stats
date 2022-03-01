@@ -1,7 +1,7 @@
 {
     "stars": 1206,
-    "open_issues": 165,
-    "closed_issues": 834,
+    "open_issues": 163,
+    "closed_issues": 836,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
@@ -270,12 +270,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 497,
-            "uniques": 224
+            "count": 468,
+            "uniques": 209
         },
         "github.com": {
-            "count": 446,
-            "uniques": 86
+            "count": 394,
+            "uniques": 85
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -286,12 +286,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 62,
-            "uniques": 30
+            "count": 57,
+            "uniques": 28
         },
         "Bing": {
-            "count": 50,
-            "uniques": 22
+            "count": 49,
+            "uniques": 21
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -322,8 +322,8 @@
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 23,
-            "uniques": 9
+            "count": 22,
+            "uniques": 8
         },
         "anaconda.com": {
             "count": 9,
@@ -346,8 +346,8 @@
             "uniques": 1
         },
         "paperswithcode.com": {
-            "count": 67,
-            "uniques": 9
+            "count": 64,
+            "uniques": 8
         },
         "madewithml.com": {
             "count": 9,
@@ -386,8 +386,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 311,
-            "uniques": 117
+            "count": 301,
+            "uniques": 107
         },
         "kdnuggets.com": {
             "count": 9,
@@ -3074,6 +3074,10 @@
         "2022-02-27 00:00:00": {
             "count": 84,
             "uniques": 40
+        },
+        "2022-02-28 00:00:00": {
+            "count": 104,
+            "uniques": 33
         }
     },
     "views_traffic": {
@@ -5630,8 +5634,8 @@
             "uniques": 80
         },
         "2022-02-15 00:00:00": {
-            "count": 387,
-            "uniques": 90
+            "count": 370,
+            "uniques": 84
         },
         "2022-02-16 00:00:00": {
             "count": 339,
@@ -5680,6 +5684,10 @@
         "2022-02-27 00:00:00": {
             "count": 78,
             "uniques": 30
+        },
+        "2022-02-28 00:00:00": {
+            "count": 221,
+            "uniques": 81
         }
     },
     "contributors": {
@@ -22627,9 +22635,9 @@
                 "commits": 1
             },
             "2022-02-27 00:00:00": {
-                "additions": 0,
-                "deletions": 0,
-                "commits": 0
+                "additions": 656,
+                "deletions": 629,
+                "commits": 1
             }
         },
         "janhavi13": {
@@ -48549,9 +48557,9 @@
                 "commits": 0
             },
             "2022-02-27 00:00:00": {
-                "additions": 0,
+                "additions": 793,
                 "deletions": 0,
-                "commits": 0
+                "commits": 1
             }
         },
         "kurianbenoy": {
@@ -67506,8 +67514,8 @@
         },
         "riedgar-ms": {
             "created": 206,
-            "open": 3,
-            "closed": 203
+            "open": 2,
+            "closed": 204
         },
         "olliethomas": {
             "created": 1,
@@ -67751,8 +67759,8 @@
         },
         "alexquach": {
             "created": 2,
-            "open": 1,
-            "closed": 1
+            "open": 0,
+            "closed": 2
         },
         "Jordan7-davila": {
             "created": 1,
@@ -67903,7 +67911,7 @@
     "pull_request_comments": {
         "romanlutz": 1925,
         "riedgar-ms": 1601,
-        "MiroDudik": 731,
+        "MiroDudik": 732,
         "wamartin-aml": 14,
         "vingu": 3,
         "imatiach-msft": 14,
