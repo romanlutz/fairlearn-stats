@@ -1,7 +1,7 @@
 {
     "stars": 1212,
-    "open_issues": 167,
-    "closed_issues": 836,
+    "open_issues": 165,
+    "closed_issues": 838,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
@@ -136,8 +136,8 @@
     "issue_comments": {
         "kevinrobinson": 80,
         "romanlutz": 846,
-        "adrinjalali": 338,
-        "riedgar-ms": 445,
+        "adrinjalali": 339,
+        "riedgar-ms": 446,
         "MiroDudik": 194,
         "koaning": 58,
         "hildeweerts": 245,
@@ -206,7 +206,7 @@
         "lokijota": 2,
         "shngt": 1,
         "mjorgen1": 3,
-        "LeJit": 12,
+        "LeJit": 13,
         "leonarduschen": 5,
         "dciborow": 1,
         "wguyman": 1,
@@ -271,12 +271,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 501,
-            "uniques": 211
+            "count": 472,
+            "uniques": 203
         },
         "github.com": {
-            "count": 459,
-            "uniques": 92
+            "count": 428,
+            "uniques": 84
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -287,12 +287,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 67,
-            "uniques": 31
+            "count": 55,
+            "uniques": 27
         },
         "Bing": {
-            "count": 44,
-            "uniques": 17
+            "count": 36,
+            "uniques": 13
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -307,8 +307,8 @@
             "uniques": 2
         },
         "medium.com": {
-            "count": 18,
-            "uniques": 8
+            "count": 12,
+            "uniques": 4
         },
         "microsoft.com": {
             "count": 12,
@@ -323,8 +323,8 @@
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 15,
-            "uniques": 8
+            "count": 14,
+            "uniques": 9
         },
         "anaconda.com": {
             "count": 9,
@@ -347,8 +347,8 @@
             "uniques": 1
         },
         "paperswithcode.com": {
-            "count": 65,
-            "uniques": 8
+            "count": 28,
+            "uniques": 4
         },
         "madewithml.com": {
             "count": 9,
@@ -387,8 +387,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 354,
-            "uniques": 104
+            "count": 325,
+            "uniques": 100
         },
         "kdnuggets.com": {
             "count": 9,
@@ -447,7 +447,7 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 34,
+            "count": 35,
             "uniques": 15
         },
         "datacamp.com": {
@@ -3107,6 +3107,10 @@
         "2022-03-06 00:00:00": {
             "count": 37,
             "uniques": 3
+        },
+        "2022-03-07 00:00:00": {
+            "count": 113,
+            "uniques": 58
         }
     },
     "views_traffic": {
@@ -5691,8 +5695,8 @@
             "uniques": 69
         },
         "2022-02-22 00:00:00": {
-            "count": 332,
-            "uniques": 86
+            "count": 330,
+            "uniques": 84
         },
         "2022-02-23 00:00:00": {
             "count": 517,
@@ -5741,6 +5745,10 @@
         "2022-03-06 00:00:00": {
             "count": 106,
             "uniques": 31
+        },
+        "2022-03-07 00:00:00": {
+            "count": 356,
+            "uniques": 91
         }
     },
     "contributors": {
@@ -43815,9 +43823,9 @@
                 "commits": 0
             },
             "2022-03-06 00:00:00": {
-                "additions": 0,
-                "deletions": 0,
-                "commits": 0
+                "additions": 75,
+                "deletions": 19,
+                "commits": 1
             }
         },
         "stephenrobic": {
@@ -68102,8 +68110,8 @@
         },
         "iofall": {
             "created": 3,
-            "open": 2,
-            "closed": 1
+            "open": 1,
+            "closed": 2
         },
         "Godwindaniel10": {
             "created": 1,
@@ -68278,8 +68286,8 @@
     },
     "pull_request_comments": {
         "romanlutz": 1943,
-        "riedgar-ms": 1602,
-        "MiroDudik": 758,
+        "riedgar-ms": 1603,
+        "MiroDudik": 761,
         "wamartin-aml": 14,
         "vingu": 3,
         "imatiach-msft": 14,
@@ -68326,12 +68334,12 @@
         "AndreFCruz": 4,
         "SeanMcCarren": 59,
         "Thomasq99": 10,
-        "alliesaizan": 92,
+        "alliesaizan": 93,
         "IanEisenberg": 3,
         "bramreinders97": 11,
         "kspieks": 45,
         "britneyting": 11,
-        "rensoostenbach": 3,
+        "rensoostenbach": 7,
         "iofall": 14
     }
 }
