@@ -1,7 +1,7 @@
 {
-    "stars": 1212,
-    "open_issues": 165,
-    "closed_issues": 838,
+    "stars": 1218,
+    "open_issues": 166,
+    "closed_issues": 837,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
@@ -135,7 +135,7 @@
     },
     "issue_comments": {
         "kevinrobinson": 80,
-        "romanlutz": 846,
+        "romanlutz": 847,
         "adrinjalali": 339,
         "riedgar-ms": 446,
         "MiroDudik": 194,
@@ -186,7 +186,7 @@
         "anirbandasgupta": 1,
         "RachitChhaya": 2,
         "gaugup": 2,
-        "iofall": 5,
+        "iofall": 6,
         "ancibira": 1,
         "nina-hua": 7,
         "Dref360": 14,
@@ -271,12 +271,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 472,
-            "uniques": 203
+            "count": 468,
+            "uniques": 206
         },
         "github.com": {
-            "count": 428,
-            "uniques": 84
+            "count": 399,
+            "uniques": 81
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -287,12 +287,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 55,
-            "uniques": 27
+            "count": 46,
+            "uniques": 26
         },
         "Bing": {
-            "count": 36,
-            "uniques": 13
+            "count": 35,
+            "uniques": 14
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -307,8 +307,8 @@
             "uniques": 2
         },
         "medium.com": {
-            "count": 12,
-            "uniques": 4
+            "count": 11,
+            "uniques": 3
         },
         "microsoft.com": {
             "count": 12,
@@ -323,8 +323,8 @@
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 14,
-            "uniques": 9
+            "count": 12,
+            "uniques": 7
         },
         "anaconda.com": {
             "count": 9,
@@ -347,7 +347,7 @@
             "uniques": 1
         },
         "paperswithcode.com": {
-            "count": 28,
+            "count": 22,
             "uniques": 4
         },
         "madewithml.com": {
@@ -387,8 +387,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 325,
-            "uniques": 100
+            "count": 328,
+            "uniques": 106
         },
         "kdnuggets.com": {
             "count": 9,
@@ -447,7 +447,7 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 35,
+            "count": 31,
             "uniques": 15
         },
         "datacamp.com": {
@@ -467,8 +467,8 @@
             "uniques": 2
         },
         "ecosia.org": {
-            "count": 13,
-            "uniques": 2
+            "count": 10,
+            "uniques": 1
         },
         "dev.azure.com": {
             "count": 13,
@@ -3111,6 +3111,10 @@
         "2022-03-07 00:00:00": {
             "count": 113,
             "uniques": 58
+        },
+        "2022-03-08 00:00:00": {
+            "count": 41,
+            "uniques": 4
         }
     },
     "views_traffic": {
@@ -5699,8 +5703,8 @@
             "uniques": 84
         },
         "2022-02-23 00:00:00": {
-            "count": 517,
-            "uniques": 99
+            "count": 510,
+            "uniques": 97
         },
         "2022-02-24 00:00:00": {
             "count": 509,
@@ -5749,6 +5753,10 @@
         "2022-03-07 00:00:00": {
             "count": 356,
             "uniques": 91
+        },
+        "2022-03-08 00:00:00": {
+            "count": 322,
+            "uniques": 95
         }
     },
     "contributors": {
@@ -68285,7 +68293,7 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1943,
+        "romanlutz": 1944,
         "riedgar-ms": 1603,
         "MiroDudik": 761,
         "wamartin-aml": 14,
@@ -68340,6 +68348,7 @@
         "kspieks": 45,
         "britneyting": 11,
         "rensoostenbach": 7,
-        "iofall": 14
+        "iofall": 14,
+        "nessamilan": 1
     }
 }
