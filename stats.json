@@ -1,6 +1,6 @@
 {
     "stars": 1220,
-    "open_issues": 166,
+    "open_issues": 168,
     "closed_issues": 837,
     "created_issues": {
         "janhavi13": 5,
@@ -8,7 +8,7 @@
         "romanlutz": 268,
         "dgiova": 1,
         "MiroDudik": 26,
-        "riedgar-ms": 279,
+        "riedgar-ms": 280,
         "koaning": 18,
         "wmeints": 1,
         "afehmiu": 1,
@@ -131,7 +131,8 @@
         "LengMei": 1,
         "kspieks": 2,
         "britneyting": 2,
-        "rensoostenbach": 3
+        "rensoostenbach": 3,
+        "smrnvdhy": 1
     },
     "issue_comments": {
         "kevinrobinson": 80,
@@ -271,12 +272,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 465,
-            "uniques": 204
+            "count": 519,
+            "uniques": 219
         },
         "github.com": {
-            "count": 344,
-            "uniques": 95
+            "count": 346,
+            "uniques": 99
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -287,12 +288,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 45,
-            "uniques": 25
+            "count": 50,
+            "uniques": 27
         },
         "Bing": {
-            "count": 39,
-            "uniques": 16
+            "count": 46,
+            "uniques": 19
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -323,8 +324,8 @@
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 13,
-            "uniques": 8
+            "count": 10,
+            "uniques": 9
         },
         "anaconda.com": {
             "count": 9,
@@ -387,8 +388,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 319,
-            "uniques": 106
+            "count": 343,
+            "uniques": 116
         },
         "kdnuggets.com": {
             "count": 9,
@@ -447,8 +448,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 38,
-            "uniques": 17
+            "count": 41,
+            "uniques": 19
         },
         "datacamp.com": {
             "count": 8,
@@ -3073,8 +3074,8 @@
             "uniques": 73
         },
         "2022-02-26 00:00:00": {
-            "count": 72,
-            "uniques": 31
+            "count": 61,
+            "uniques": 22
         },
         "2022-02-27 00:00:00": {
             "count": 84,
@@ -3123,6 +3124,10 @@
         "2022-03-10 00:00:00": {
             "count": 49,
             "uniques": 12
+        },
+        "2022-03-11 00:00:00": {
+            "count": 51,
+            "uniques": 15
         }
     },
     "views_traffic": {
@@ -5723,8 +5728,8 @@
             "uniques": 77
         },
         "2022-02-26 00:00:00": {
-            "count": 64,
-            "uniques": 26
+            "count": 57,
+            "uniques": 24
         },
         "2022-02-27 00:00:00": {
             "count": 78,
@@ -5773,6 +5778,10 @@
         "2022-03-10 00:00:00": {
             "count": 347,
             "uniques": 85
+        },
+        "2022-03-11 00:00:00": {
+            "count": 216,
+            "uniques": 73
         }
     },
     "contributors": {
@@ -67908,8 +67917,8 @@
             "closed": 1
         },
         "riedgar-ms": {
-            "created": 207,
-            "open": 3,
+            "created": 208,
+            "open": 4,
             "closed": 204
         },
         "olliethomas": {
