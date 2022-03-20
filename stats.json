@@ -275,12 +275,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 562,
-            "uniques": 217
+            "count": 585,
+            "uniques": 227
         },
         "github.com": {
-            "count": 453,
-            "uniques": 96
+            "count": 513,
+            "uniques": 100
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -291,12 +291,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 36,
-            "uniques": 23
+            "count": 39,
+            "uniques": 24
         },
         "Bing": {
-            "count": 44,
-            "uniques": 21
+            "count": 50,
+            "uniques": 25
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -311,12 +311,12 @@
             "uniques": 2
         },
         "medium.com": {
-            "count": 7,
-            "uniques": 5
+            "count": 8,
+            "uniques": 6
         },
         "microsoft.com": {
-            "count": 12,
-            "uniques": 8
+            "count": 11,
+            "uniques": 7
         },
         "pypi.org": {
             "count": 31,
@@ -327,8 +327,8 @@
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 20,
-            "uniques": 7
+            "count": 19,
+            "uniques": 6
         },
         "anaconda.com": {
             "count": 9,
@@ -391,8 +391,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 308,
-            "uniques": 104
+            "count": 341,
+            "uniques": 115
         },
         "kdnuggets.com": {
             "count": 9,
@@ -451,8 +451,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 28,
-            "uniques": 14
+            "count": 27,
+            "uniques": 13
         },
         "datacamp.com": {
             "count": 8,
@@ -3159,6 +3159,10 @@
         "2022-03-18 00:00:00": {
             "count": 96,
             "uniques": 48
+        },
+        "2022-03-19 00:00:00": {
+            "count": 36,
+            "uniques": 2
         }
     },
     "views_traffic": {
@@ -5841,6 +5845,10 @@
         "2022-03-18 00:00:00": {
             "count": 279,
             "uniques": 77
+        },
+        "2022-03-19 00:00:00": {
+            "count": 68,
+            "uniques": 25
         }
     },
     "contributors": {
@@ -6846,6 +6854,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -7856,6 +7869,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "moprescu": {
@@ -8860,6 +8878,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -9870,6 +9893,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "imatiach-msft": {
@@ -10874,6 +10902,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -11884,6 +11917,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "hannanabdul55": {
@@ -12888,6 +12926,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -13898,6 +13941,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "microsoftopensource": {
@@ -14902,6 +14950,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -15912,6 +15965,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "mesameki": {
@@ -16916,6 +16974,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -17926,6 +17989,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "adrinjalali": {
@@ -18933,6 +19001,11 @@
                 "additions": 78,
                 "deletions": 30,
                 "commits": 1
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "MiroDudik": {
@@ -19937,6 +20010,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -20947,6 +21025,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "romanlutz": {
@@ -21951,6 +22034,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -22961,6 +23049,11 @@
                 "additions": 272,
                 "deletions": 136,
                 "commits": 2
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "janhavi13": {
@@ -23965,6 +24058,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -24975,6 +25073,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "koaning": {
@@ -25979,6 +26082,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -26989,6 +27097,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "hildeweerts": {
@@ -27993,6 +28106,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -29003,6 +29121,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "gaugup": {
@@ -30007,6 +30130,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -31017,6 +31145,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Rishit-dagli": {
@@ -32021,6 +32154,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -33031,6 +33169,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "vladiliescu": {
@@ -34035,6 +34178,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -35045,6 +35193,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "leonarduschen": {
@@ -36049,6 +36202,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -37059,6 +37217,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "LeJit": {
@@ -38063,6 +38226,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -39073,6 +39241,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "vamsidesu5": {
@@ -40077,6 +40250,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -41087,6 +41265,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "MeekaElla": {
@@ -42091,6 +42274,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -43101,6 +43289,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "iofall": {
@@ -44105,6 +44298,11 @@
                 "commits": 1
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -45115,6 +45313,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "trangology": {
@@ -46119,6 +46322,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -47129,6 +47337,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "enharten": {
@@ -48133,6 +48346,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -49143,6 +49361,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "kurianbenoy": {
@@ -50147,6 +50370,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -51157,6 +51385,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "bram49": {
@@ -52161,6 +52394,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -53171,6 +53409,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Patil2099": {
@@ -54175,6 +54418,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -55185,6 +55433,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "sushmitaS16": {
@@ -56189,6 +56442,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -57199,6 +57457,11 @@
                 "additions": 31,
                 "deletions": 0,
                 "commits": 1
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "AndreFCruz": {
@@ -58203,6 +58466,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -59213,6 +59481,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "pritishaw1": {
@@ -60217,6 +60490,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -61227,6 +61505,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Thomasq99": {
@@ -62231,6 +62514,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -63241,6 +63529,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "Carlosbogo": {
@@ -64245,6 +64538,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -65255,6 +65553,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "kspieks": {
@@ -66259,6 +66562,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
@@ -67269,6 +67577,11 @@
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
+            },
+            "2022-03-20 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
             }
         },
         "chsafouane": {
@@ -68273,6 +68586,11 @@
                 "commits": 0
             },
             "2022-03-13 00:00:00": {
+                "additions": 0,
+                "deletions": 0,
+                "commits": 0
+            },
+            "2022-03-20 00:00:00": {
                 "additions": 0,
                 "deletions": 0,
                 "commits": 0
