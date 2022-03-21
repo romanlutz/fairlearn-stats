@@ -1,5 +1,5 @@
 {
-    "stars": 1225,
+    "stars": 1226,
     "open_issues": 170,
     "closed_issues": 841,
     "created_issues": {
@@ -275,11 +275,11 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 585,
-            "uniques": 227
+            "count": 546,
+            "uniques": 208
         },
         "github.com": {
-            "count": 513,
+            "count": 500,
             "uniques": 100
         },
         "fairlearn.github.io": {
@@ -291,12 +291,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 39,
+            "count": 41,
             "uniques": 24
         },
         "Bing": {
-            "count": 50,
-            "uniques": 25
+            "count": 48,
+            "uniques": 24
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -315,8 +315,8 @@
             "uniques": 6
         },
         "microsoft.com": {
-            "count": 11,
-            "uniques": 7
+            "count": 9,
+            "uniques": 5
         },
         "pypi.org": {
             "count": 31,
@@ -351,8 +351,8 @@
             "uniques": 1
         },
         "paperswithcode.com": {
-            "count": 28,
-            "uniques": 8
+            "count": 27,
+            "uniques": 7
         },
         "madewithml.com": {
             "count": 9,
@@ -391,8 +391,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 341,
-            "uniques": 115
+            "count": 322,
+            "uniques": 106
         },
         "kdnuggets.com": {
             "count": 9,
@@ -451,8 +451,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 27,
-            "uniques": 13
+            "count": 21,
+            "uniques": 10
         },
         "datacamp.com": {
             "count": 8,
@@ -3163,6 +3163,10 @@
         "2022-03-19 00:00:00": {
             "count": 36,
             "uniques": 2
+        },
+        "2022-03-20 00:00:00": {
+            "count": 36,
+            "uniques": 2
         }
     },
     "views_traffic": {
@@ -5799,8 +5803,8 @@
             "uniques": 31
         },
         "2022-03-07 00:00:00": {
-            "count": 356,
-            "uniques": 91
+            "count": 352,
+            "uniques": 88
         },
         "2022-03-08 00:00:00": {
             "count": 322,
@@ -5849,6 +5853,10 @@
         "2022-03-19 00:00:00": {
             "count": 68,
             "uniques": 25
+        },
+        "2022-03-20 00:00:00": {
+            "count": 82,
+            "uniques": 39
         }
     },
     "contributors": {
