@@ -1,5 +1,5 @@
 {
-    "stars": 1229,
+    "stars": 1230,
     "open_issues": 169,
     "closed_issues": 842,
     "created_issues": {
@@ -275,12 +275,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 490,
-            "uniques": 206
+            "count": 553,
+            "uniques": 212
         },
         "github.com": {
-            "count": 531,
-            "uniques": 84
+            "count": 572,
+            "uniques": 90
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -291,12 +291,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 37,
-            "uniques": 21
+            "count": 38,
+            "uniques": 22
         },
         "Bing": {
-            "count": 87,
-            "uniques": 19
+            "count": 88,
+            "uniques": 20
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -315,8 +315,8 @@
             "uniques": 6
         },
         "microsoft.com": {
-            "count": 10,
-            "uniques": 7
+            "count": 16,
+            "uniques": 8
         },
         "pypi.org": {
             "count": 31,
@@ -352,7 +352,7 @@
         },
         "paperswithcode.com": {
             "count": 15,
-            "uniques": 6
+            "uniques": 7
         },
         "madewithml.com": {
             "count": 9,
@@ -391,8 +391,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 345,
-            "uniques": 108
+            "count": 358,
+            "uniques": 113
         },
         "kdnuggets.com": {
             "count": 9,
@@ -3187,6 +3187,10 @@
         "2022-03-24 00:00:00": {
             "count": 42,
             "uniques": 6
+        },
+        "2022-03-25 00:00:00": {
+            "count": 35,
+            "uniques": 4
         }
     },
     "views_traffic": {
@@ -5843,8 +5847,8 @@
             "uniques": 69
         },
         "2022-03-12 00:00:00": {
-            "count": 116,
-            "uniques": 33
+            "count": 114,
+            "uniques": 31
         },
         "2022-03-13 00:00:00": {
             "count": 89,
@@ -5893,6 +5897,10 @@
         "2022-03-24 00:00:00": {
             "count": 421,
             "uniques": 80
+        },
+        "2022-03-25 00:00:00": {
+            "count": 181,
+            "uniques": 65
         }
     },
     "contributors": {
