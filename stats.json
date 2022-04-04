@@ -1,6 +1,6 @@
 {
-    "stars": 1233,
-    "open_issues": 168,
+    "stars": 1234,
+    "open_issues": 169,
     "closed_issues": 850,
     "created_issues": {
         "janhavi13": 5,
@@ -133,7 +133,8 @@
         "britneyting": 2,
         "rensoostenbach": 4,
         "smrnvdhy": 1,
-        "Hrittik20": 1
+        "Hrittik20": 1,
+        "Hadyark": 1
     },
     "issue_comments": {
         "kevinrobinson": 80,
@@ -277,12 +278,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 614,
-            "uniques": 241
+            "count": 570,
+            "uniques": 219
         },
         "github.com": {
-            "count": 524,
-            "uniques": 94
+            "count": 509,
+            "uniques": 87
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -293,12 +294,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 44,
-            "uniques": 22
+            "count": 47,
+            "uniques": 24
         },
         "Bing": {
-            "count": 93,
-            "uniques": 17
+            "count": 50,
+            "uniques": 13
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -329,8 +330,8 @@
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 18,
-            "uniques": 4
+            "count": 19,
+            "uniques": 5
         },
         "anaconda.com": {
             "count": 9,
@@ -353,7 +354,7 @@
             "uniques": 1
         },
         "paperswithcode.com": {
-            "count": 41,
+            "count": 38,
             "uniques": 8
         },
         "madewithml.com": {
@@ -393,8 +394,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 450,
-            "uniques": 121
+            "count": 412,
+            "uniques": 120
         },
         "kdnuggets.com": {
             "count": 9,
@@ -453,8 +454,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 34,
-            "uniques": 14
+            "count": 37,
+            "uniques": 16
         },
         "datacamp.com": {
             "count": 8,
@@ -3225,6 +3226,10 @@
         "2022-04-02 00:00:00": {
             "count": 60,
             "uniques": 10
+        },
+        "2022-04-03 00:00:00": {
+            "count": 55,
+            "uniques": 18
         }
     },
     "views_traffic": {
@@ -5917,8 +5922,8 @@
             "uniques": 39
         },
         "2022-03-21 00:00:00": {
-            "count": 318,
-            "uniques": 95
+            "count": 314,
+            "uniques": 92
         },
         "2022-03-22 00:00:00": {
             "count": 459,
@@ -5966,6 +5971,10 @@
         },
         "2022-04-02 00:00:00": {
             "count": 125,
+            "uniques": 35
+        },
+        "2022-04-03 00:00:00": {
+            "count": 78,
             "uniques": 35
         }
     },
@@ -70767,6 +70776,11 @@
             "created": 1,
             "open": 0,
             "closed": 1
+        },
+        "Hadyark": {
+            "created": 1,
+            "open": 1,
+            "closed": 0
         }
     },
     "pull_request_comments": {
