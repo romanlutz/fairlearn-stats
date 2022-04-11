@@ -1,5 +1,5 @@
 {
-    "stars": 1242,
+    "stars": 1243,
     "open_issues": 168,
     "closed_issues": 863,
     "created_issues": {
@@ -258,7 +258,7 @@
         "ojeda-e": 3,
         "Thomasq99": 11,
         "SeanMcCarren": 47,
-        "bramreinders97": 35,
+        "bramreinders97": 36,
         "JorickvdHoeven": 1,
         "IanEisenberg": 3,
         "glemaitre": 1,
@@ -279,12 +279,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 649,
-            "uniques": 219
+            "count": 627,
+            "uniques": 212
         },
         "github.com": {
-            "count": 662,
-            "uniques": 88
+            "count": 625,
+            "uniques": 86
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -295,11 +295,11 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 49,
-            "uniques": 29
+            "count": 45,
+            "uniques": 26
         },
         "Bing": {
-            "count": 45,
+            "count": 44,
             "uniques": 17
         },
         "mybuild.microsoft.com": {
@@ -323,7 +323,7 @@
             "uniques": 8
         },
         "pypi.org": {
-            "count": 39,
+            "count": 33,
             "uniques": 5
         },
         "gitter.im": {
@@ -331,8 +331,8 @@
             "uniques": 1
         },
         "DuckDuckGo": {
-            "count": 18,
-            "uniques": 9
+            "count": 20,
+            "uniques": 11
         },
         "anaconda.com": {
             "count": 9,
@@ -355,7 +355,7 @@
             "uniques": 1
         },
         "paperswithcode.com": {
-            "count": 29,
+            "count": 28,
             "uniques": 10
         },
         "madewithml.com": {
@@ -395,8 +395,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 413,
-            "uniques": 125
+            "count": 366,
+            "uniques": 124
         },
         "kdnuggets.com": {
             "count": 9,
@@ -455,8 +455,8 @@
             "uniques": 1
         },
         "notebooks.githubusercontent.com": {
-            "count": 15,
-            "uniques": 10
+            "count": 14,
+            "uniques": 9
         },
         "datacamp.com": {
             "count": 8,
@@ -3259,6 +3259,10 @@
         "2022-04-09 00:00:00": {
             "count": 56,
             "uniques": 13
+        },
+        "2022-04-10 00:00:00": {
+            "count": 52,
+            "uniques": 13
         }
     },
     "views_traffic": {
@@ -5979,8 +5983,8 @@
             "uniques": 40
         },
         "2022-03-28 00:00:00": {
-            "count": 476,
-            "uniques": 96
+            "count": 472,
+            "uniques": 93
         },
         "2022-03-29 00:00:00": {
             "count": 412,
@@ -6028,6 +6032,10 @@
         },
         "2022-04-09 00:00:00": {
             "count": 76,
+            "uniques": 39
+        },
+        "2022-04-10 00:00:00": {
+            "count": 140,
             "uniques": 39
         }
     },
