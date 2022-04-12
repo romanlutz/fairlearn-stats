@@ -1,7 +1,7 @@
 {
     "stars": 1243,
-    "open_issues": 168,
-    "closed_issues": 863,
+    "open_issues": 167,
+    "closed_issues": 864,
     "created_issues": {
         "janhavi13": 5,
         "kevinrobinson": 20,
@@ -144,7 +144,7 @@
         "riedgar-ms": 462,
         "MiroDudik": 200,
         "koaning": 60,
-        "hildeweerts": 267,
+        "hildeweerts": 268,
         "slbird": 2,
         "wmeints": 1,
         "laurenpendo": 1,
@@ -279,12 +279,12 @@
     },
     "top_referrers": {
         "Google": {
-            "count": 627,
-            "uniques": 212
+            "count": 579,
+            "uniques": 197
         },
         "github.com": {
-            "count": 625,
-            "uniques": 86
+            "count": 601,
+            "uniques": 83
         },
         "fairlearn.github.io": {
             "count": 9,
@@ -295,12 +295,12 @@
             "uniques": 4
         },
         "docs.microsoft.com": {
-            "count": 45,
-            "uniques": 26
+            "count": 41,
+            "uniques": 25
         },
         "Bing": {
-            "count": 44,
-            "uniques": 17
+            "count": 38,
+            "uniques": 14
         },
         "mybuild.microsoft.com": {
             "count": 54,
@@ -323,8 +323,8 @@
             "uniques": 8
         },
         "pypi.org": {
-            "count": 33,
-            "uniques": 5
+            "count": 11,
+            "uniques": 4
         },
         "gitter.im": {
             "count": 6,
@@ -347,7 +347,7 @@
             "uniques": 25
         },
         "t.co": {
-            "count": 9,
+            "count": 12,
             "uniques": 5
         },
         "statics.teams.cdn.office.net": {
@@ -355,7 +355,7 @@
             "uniques": 1
         },
         "paperswithcode.com": {
-            "count": 28,
+            "count": 26,
             "uniques": 10
         },
         "madewithml.com": {
@@ -395,8 +395,8 @@
             "uniques": 5
         },
         "fairlearn.org": {
-            "count": 366,
-            "uniques": 124
+            "count": 346,
+            "uniques": 113
         },
         "kdnuggets.com": {
             "count": 9,
@@ -411,8 +411,8 @@
             "uniques": 6
         },
         "aiforpeople.org": {
-            "count": 3,
-            "uniques": 2
+            "count": 13,
+            "uniques": 8
         },
         "venturebeat.com": {
             "count": 10,
@@ -3263,6 +3263,10 @@
         "2022-04-10 00:00:00": {
             "count": 52,
             "uniques": 13
+        },
+        "2022-04-11 00:00:00": {
+            "count": 105,
+            "uniques": 50
         }
     },
     "views_traffic": {
@@ -5987,8 +5991,8 @@
             "uniques": 93
         },
         "2022-03-29 00:00:00": {
-            "count": 412,
-            "uniques": 115
+            "count": 410,
+            "uniques": 114
         },
         "2022-03-30 00:00:00": {
             "count": 376,
@@ -6037,6 +6041,10 @@
         "2022-04-10 00:00:00": {
             "count": 140,
             "uniques": 39
+        },
+        "2022-04-11 00:00:00": {
+            "count": 312,
+            "uniques": 89
         }
     },
     "contributors": {
@@ -58412,9 +58420,9 @@
                 "commits": 1
             },
             "2022-04-10 00:00:00": {
-                "additions": 0,
-                "deletions": 0,
-                "commits": 0
+                "additions": 229,
+                "deletions": 69,
+                "commits": 1
             }
         },
         "AndreFCruz": {
@@ -72112,8 +72120,8 @@
         },
         "alliesaizan": {
             "created": 8,
-            "open": 1,
-            "closed": 7
+            "open": 0,
+            "closed": 8
         },
         "AndreFCruz": {
             "created": 1,
@@ -72187,7 +72195,7 @@
         }
     },
     "pull_request_comments": {
-        "romanlutz": 1991,
+        "romanlutz": 1992,
         "riedgar-ms": 1633,
         "MiroDudik": 784,
         "wamartin-aml": 14,
@@ -72207,7 +72215,7 @@
         "laurenpendo": 5,
         "afehmiu": 24,
         "MBrouns": 8,
-        "hildeweerts": 312,
+        "hildeweerts": 314,
         "marksoper": 2,
         "Rishit-dagli": 2,
         "gaugup": 5,
